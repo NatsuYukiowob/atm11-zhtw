@@ -58,7 +58,7 @@ git clone --depth 1 --filter=blob:none --sparse https://github.com/CFPAOrg/Minec
 
 ## 授權與致謝
 
-- 管線程式碼：MIT。
+- 管線程式碼（`scripts/`、`workflows/`、`tests/`、`rules/`）：[MIT](https://github.com/NatsuYukiowob/atm11-zhtw/blob/main/LICENSE)。
 - 譯文：簡中來源為 [CFPA 簡體中文翻譯包](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package)（CC BY-NC-SA 4.0）及各 mod 內建翻譯，產出的資源包與任務書譯文為其衍生作品，依 **CC BY-NC-SA 4.0** 散布，禁止商用。原文著作權屬各 mod 作者與 All the Mods 團隊。
 - 簡繁轉換：[OpenCC](https://github.com/BYVoid/OpenCC)。
 - 機器翻譯：[Claude](https://www.anthropic.com/claude)（Anthropic）。
