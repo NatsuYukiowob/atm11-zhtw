@@ -14,10 +14,12 @@
 
 ## 安裝
 
-1. 把 `atm11-zhtw.zip` 放進 instance 的 `resourcepacks/`。
-2. 遊戲內：選項 → 資源包 → 啟用「atm11-zhtw」並移到最上層。
+從 [Releases](https://github.com/NatsuYukiowob/atm11-zhtw/releases) 下載與你 modpack 版本相同的檔案（版本號對齊 CurseForge 上的 ATM11 版本，例：`v0.11.1-beta`）。
+
+1. 把 `atm11-zhtw-<版本>.zip` 放進 instance 的 `resourcepacks/`。
+2. 遊戲內：選項 → 資源包 → 啟用它並移到最上層。
 3. 選項 → 語言 → 繁體中文（台灣）。
-4. 任務書：把 `ftbquests/zh_tw` 整個資料夾複製到 instance 的 `config/ftbquests/quests/lang/`（與 `en_us` 同一層）。
+4. 任務書：解壓 `atm11-zhtw-ftbquests-<版本>.zip`，把裡面的 `zh_tw` 資料夾複製到 instance 的 `config/ftbquests/quests/lang/`（與 `en_us` 同一層）。
 
 modpack 更新後譯文可能過期，需以新版 instance 重新產生。
 
