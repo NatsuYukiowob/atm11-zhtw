@@ -1,0 +1,31 @@
+{
+ "category": "modularrouters:modules",
+ "icon": "modularrouters:extruder_module_1",
+ "name": "擠出模組 Mk1",
+ "pages": [
+  {
+   "text": "此模組會朝其設定的方向伸出並收回一排方塊（取自路由器的緩衝區）。$(p)預設情況下，路由器有紅石訊號時模組會伸出方塊，沒有紅石訊號時則收回；但可以在模組上加裝紅石增強來自訂此行為。",
+   "type": "text"
+  },
+  {
+   "text": "使用此模組可以建造大型的伸縮橋與門道。（如果你在 1.7.10 時期用過 Mechworks 模組中的 Tinker's Drawbridge，應該會覺得很熟悉）。$(li)另請參閱$(l:upgrades/camouflage)偽裝升級/$，它可用來隱藏路由器。$(li)預設範圍（即可放置的方塊數）為 12，但使用$(l:augments/range_up)範圍提升增強/$可提高到 24。",
+   "type": "text"
+  },
+  {
+   "text": "$(li)如果在方塊已伸出時改變模組的方向，路由器可能會有點混亂。這時拆除並重新放置路由器通常就能解決。$(li)如果在方塊已伸出時打破路由器，它不會記得這件事，你需要手動移除那些方塊。",
+   "type": "text"
+  },
+  {
+   "text": "$(li)如果你將多個路由器搭配擠出模組使用（例如建造寬門或橋樑），可能會覺得$(l:upgrades/sync)同步升級/$很有用，它能確保所有路由器在同一個 tick 運作。$(li)擠出模組（與$(l:modules/placer)放置模組/$一樣）也可以在耕地上種植作物種子，並在相鄰的叢林木原木上放置可可豆。",
+   "type": "text"
+  },
+  {
+   "text": "值得注意的是，用來合成此模組的$(l:modules/breaker)破壞模組/$會將其採集等級（與附魔）轉移到此模組上。因此，如果你希望擠出模組能破壞例如$(item)黑曜石/$，請務必使用以$(item)鑽石鎬/$合成的破壞模組！",
+   "type": "text"
+  },
+  {
+   "recipe": "modularrouters:extruder_module_1",
+   "type": "crafting"
+  }
+ ]
+}

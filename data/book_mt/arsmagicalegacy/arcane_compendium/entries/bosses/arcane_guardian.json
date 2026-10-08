@@ -1,0 +1,30 @@
+{
+ "category": "arsmagicalegacy:bosses",
+ "icon": "arsmagicalegacy:arcane_guardian_spawn_egg",
+ "name": "item.arsmagicalegacy.arcane_compendium.bosses.arcane_guardian.name",
+ "pages": [
+  {
+   "text": "item.arsmagicalegacy.arcane_compendium.bosses.arcane_guardian.page0.text",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "arsmagicalegacy:arcane_guardian",
+   "text": "建議魔法等級：40",
+   "type": "patchouli:entity"
+  },
+  {
+   "multiblock_id": "arsmagicalegacy:arcane_guardian_spawn_ritual",
+   "name": "item.arsmagicalegacy.arcane_compendium.bosses.arcane_guardian.page2.title",
+   "type": "patchouli:multiblock"
+  },
+  {
+   "text": "item.arsmagicalegacy.arcane_compendium.bosses.arcane_guardian.page3.text",
+   "type": "patchouli:text"
+  },
+  {
+   "item": "arsmagicalegacy:arcane_spell_book",
+   "text": "item.arsmagicalegacy.arcane_compendium.bosses.arcane_guardian.page4.text",
+   "type": "patchouli:spotlight"
+  }
+ ]
+}

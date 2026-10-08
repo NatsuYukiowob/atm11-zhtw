@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:ingredients",
+ "icon": "croptopia:whipping_cream",
+ "name": "鮮奶油",
+ "pages": [
+  {
+   "recipe": "croptopia:whipping_cream",
+   "text": "合成指南。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

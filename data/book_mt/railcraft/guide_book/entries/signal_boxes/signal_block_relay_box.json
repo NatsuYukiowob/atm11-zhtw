@@ -1,0 +1,15 @@
+{
+ "category": "railcraft:signal_boxes",
+ "icon": "railcraft:signal_block_relay_box",
+ "name": "訊號方塊中繼箱",
+ "pages": [
+  {
+   "text": "訊號方塊中繼箱最多可與另外兩個訊號方塊或中繼器配對。它可以作為訊號方塊的端蓋，也可以作為延伸器使用。當作為延伸器使用時，可以將訊號方塊延伸繞過轉角，並使其功能如同單一訊號方塊。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "此外，中繼器可設定為發出紅石訊號，並作為控制器運作。它也可以如訊號接收箱一樣，與訊號控制箱及訊號電容箱相鄰放置。",
+   "type": "patchouli:text"
+  }
+ ]
+}

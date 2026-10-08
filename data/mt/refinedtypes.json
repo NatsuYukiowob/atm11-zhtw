@@ -1,0 +1,18 @@
+{
+ "block.refinedtypes.creative_energy_storage_block": "創造能量儲存方塊",
+ "block.refinedtypes.creative_soul_storage_block": "創造靈魂儲存方塊",
+ "block.refinedtypes.creative_source_storage_block": "創造源質儲存方塊",
+ "block.refinedtypes.network_energizer": "網路充能器",
+ "gui.refinedtypes.network_energizer.redstone_mode_help": "當此裝置處於非啟用狀態時，儲存網路不會消耗能量磁碟中的能量來維持運作。",
+ "item.refinedtypes.creative_energy_storage_block.help": "已儲存無限量的 FE。",
+ "item.refinedtypes.creative_energy_storage_disk": "創造能量儲存磁碟",
+ "item.refinedtypes.creative_energy_storage_disk.help": "已儲存無限量的 FE。",
+ "item.refinedtypes.creative_soul_storage_block.help": "已儲存無限量的靈魂。",
+ "item.refinedtypes.creative_soul_storage_disk": "創造靈魂儲存磁碟",
+ "item.refinedtypes.creative_soul_storage_disk.help": "已儲存無限量的靈魂。",
+ "item.refinedtypes.creative_source_storage_block.help": "已儲存無限量的源質。",
+ "item.refinedtypes.creative_source_storage_disk": "創造源質儲存磁碟",
+ "item.refinedtypes.creative_source_storage_disk.help": "已儲存無限量的源質。",
+ "item.refinedtypes.network_energizer.help": "自動消耗網路內能量磁碟中儲存的能量以維持運作。",
+ "item.refinedtypes.soul.help": "提示：使用調節器升級可防止輸出器把你所有的靈魂傾倒進相連的靈魂管道"
+}

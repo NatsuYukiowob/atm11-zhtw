@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:ingredients",
+ "icon": "croptopia:noodle",
+ "name": "麵條",
+ "pages": [
+  {
+   "recipe": "croptopia:noodle",
+   "text": "麵條的合成配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

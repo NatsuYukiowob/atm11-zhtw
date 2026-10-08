@@ -1,0 +1,5 @@
+{
+ "configured.chat.failed_config_update": "更新設定 %s 時發生錯誤，該請求由 %s 傳送",
+ "configured.gui.unsupported_property": "不支援的屬性。請編輯原始設定檔以變更此屬性",
+ "key.categories.configured": "Configured"
+}

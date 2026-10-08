@@ -1,0 +1,15 @@
+{
+ "category": "modularrouters:modules",
+ "icon": "modularrouters:sender_module_3",
+ "name": "傳送模組 Mk3",
+ "pages": [
+  {
+   "text": " 這是頂級的傳送模組，運作方式與$(l:modules/sender_3)傳送模組 Mk2/$非常相似，但可以傳送到任何維度中的任何物品欄，沒有任何限制！$(p)注意：目標物品欄必須是已載入的區塊；$(modr) 不會替你處理這點。",
+   "type": "text"
+  },
+  {
+   "recipe": "modularrouters:sender_module_3",
+   "type": "crafting"
+  }
+ ]
+}

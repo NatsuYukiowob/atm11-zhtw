@@ -1,0 +1,8 @@
+{
+ "getittogetherdrops.configuration.checkY": "檢查 Y 軸",
+ "getittogetherdrops.configuration.checkY.tooltip": "設為 true 時，掉落物也會檢查其上方與下方的掉落物；設為 false 則不檢查（\"false\" 為原版行為）。",
+ "getittogetherdrops.configuration.radius": "半徑",
+ "getittogetherdrops.configuration.radius.tooltip": "掉落物周圍用於檢查並合併其他掉落物的半徑（單位為方塊）（\"0.5\" 為原版行為）。",
+ "tag.item.getittogetherdrops.do_not_combine": "掉落物不合併",
+ "tag.item.getittogetherdrops.ignore": "掉落物正常合併"
+}

@@ -1,0 +1,18 @@
+{
+ "category": "mffs:interdiction_modules",
+ "icon": "mffs:anti_spawn_module",
+ "name": "生成抑制模組",
+ "pages": [
+  {
+   "item": "mffs:anti_spawn_module",
+   "link_recipe": true,
+   "text": "$(5)生成抑制模組$()是$(l:mffs:machines/interdiction_matrix)干涉矩陣$()的選配模組。安裝此模組後，矩陣會阻止敵對或友善生物在其作用區域內生成。若玩家持有生怪蛋，站在矩陣作用範圍外側，即可將生物生成在受保護的區域內。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "mffs:anti_spawn_module",
+   "text": "合成$(5)生成抑制模組$()。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

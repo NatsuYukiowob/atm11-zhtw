@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:snacks",
+ "icon": "croptopia:roasted_nuts",
+ "name": "烘烤堅果",
+ "pages": [
+  {
+   "recipe": "croptopia:roasted_nuts",
+   "text": "烘烤堅果的製作配方。",
+   "type": "patchouli:smelting"
+  }
+ ]
+}

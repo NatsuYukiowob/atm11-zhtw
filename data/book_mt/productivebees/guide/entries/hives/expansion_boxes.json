@@ -1,0 +1,71 @@
+{
+ "category": "productivebees:hives",
+ "icon": "productivebees:expansion_box_oak",
+ "name": "擴充箱",
+ "pages": [
+  {
+   "text": "擴充箱可以附加在進階蜂箱上，將蜂箱的蜜蜂容量從 3 增加到 5。擴充箱可以放在蜂箱的上方或旁邊。每個蜂箱只能有一個擴充箱。",
+   "type": "patchouli:text"
+  },
+  {
+   "recipe": "productivebees:expansion_boxes/expansion_box_oak",
+   "type": "patchouli:crafting"
+  },
+  {
+   "enable_visualize": false,
+   "multiblock": {
+    "mapping": {
+     "E": "productivebees:expansion_box_oak[expanded=up]",
+     "H": "productivebees:advanced_oak_beehive[expanded=up]"
+    },
+    "offset": [
+     0,
+     1,
+     0
+    ],
+    "pattern": [
+     [
+      "E"
+     ],
+     [
+      "H"
+     ],
+     [
+      "0"
+     ]
+    ],
+    "symmetrical": true
+   },
+   "name": "垂直擴充套件",
+   "type": "multiblock"
+  },
+  {
+   "enable_visualize": false,
+   "multiblock": {
+    "mapping": {
+     "E": "productivebees:expansion_box_oak[expanded=left]",
+     "H": "productivebees:advanced_oak_beehive[expanded=left]"
+    },
+    "offset": [
+     0,
+     1,
+     0
+    ],
+    "pattern": [
+     [
+      "H",
+      "E"
+     ],
+     [
+      "0",
+      " "
+     ]
+    ],
+    "symmetrical": true
+   },
+   "name": "水平擴充套件",
+   "type": "multiblock"
+  }
+ ],
+ "sortnum": 3
+}

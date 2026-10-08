@@ -1,0 +1,15 @@
+{
+ "category": "railcraft:tracks",
+ "icon": "railcraft:iron_turnout_track",
+ "name": "道岔軌道",
+ "pages": [
+  {
+   "text": "道岔軌道讓你可以將礦車從一條軌道線路轉移到另一條。它們與原版 Minecraft 的道岔不同，原版道岔只能左轉或右轉，而道岔軌道可以Select直行或轉彎。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "但是，它們無法直接由紅石操控。若要做到這點，你需要道岔馬達。道岔馬達必須放置在道岔的對面。若你只想要手動道岔，則可以使用道岔控制桿。$(br2)從分岔線接近的礦車會暫時撥動道岔，無論其目前設定為何，讓它們能透過道岔而不需要手動重新對準。",
+   "type": "patchouli:text"
+  }
+ ]
+}

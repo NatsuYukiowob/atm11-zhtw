@@ -1,0 +1,18 @@
+{
+ "category": "productivebees:bees_hive",
+ "icon": "minecraft:coal",
+ "name": "煤炭蜜蜂",
+ "pages": [
+  {
+   "anchor": "coal",
+   "text": "由$(l:bees/hive/redstone)烈焰蜜蜂$(/l)與$(l:bees/solitary/leafcutter)葉切蜂$(/l)培育而成。",
+   "title": "煤炭蜜蜂",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:configurable_bee{type:'productivebees:coal'}",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true
+}

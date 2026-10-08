@@ -1,0 +1,12 @@
+{
+ "gui.crafting_on_a_stick.selection_wheel.no_tool": "haiku",
+ "item.crafting_on_a_stick.anvil": "haiku",
+ "item.crafting_on_a_stick.cartography_table": "haiku",
+ "item.crafting_on_a_stick.chipped_anvil": "haiku",
+ "item.crafting_on_a_stick.crafting_table": "haiku",
+ "item.crafting_on_a_stick.damaged_anvil": "haiku",
+ "item.crafting_on_a_stick.grindstone": "haiku",
+ "item.crafting_on_a_stick.loom": "haiku",
+ "item.crafting_on_a_stick.smithing_table": "haiku",
+ "item.crafting_on_a_stick.stonecutter": "haiku"
+}

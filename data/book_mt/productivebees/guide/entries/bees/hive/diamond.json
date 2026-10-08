@@ -1,0 +1,18 @@
+{
+ "category": "productivebees:bees_hive",
+ "icon": "minecraft:diamond",
+ "name": "鑽石蜂",
+ "pages": [
+  {
+   "anchor": "diamond",
+   "text": "由$(l:bees/wild/ender)終界蜂$(/l)與$(l:bees/hive/lapis)青金石蜂$(/l)繁殖而來。",
+   "title": "鑽石蜂",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:configurable_bee{type:'productivebees:diamond'}",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true
+}

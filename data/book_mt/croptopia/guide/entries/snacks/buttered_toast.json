@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:snacks",
+ "icon": "croptopia:buttered_toast",
+ "name": "奶油吐司",
+ "pages": [
+  {
+   "recipe": "croptopia:buttered_toast",
+   "text": "製作奶油吐司的食譜。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

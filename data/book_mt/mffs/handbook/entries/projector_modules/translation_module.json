@@ -1,0 +1,18 @@
+{
+ "category": "mffs:projector_modules",
+ "icon": "mffs:translation_module",
+ "name": "位移模組",
+ "pages": [
+  {
+   "item": "mffs:translation_module",
+   "link_recipe": true,
+   "text": "$(5)位移模組$()可以放入$(l:mffs:machines/projector)力場投影機$()的力場格中，以偏移投射力場的位置。在各自對應的力場格中放入$(5)位移模組$()，即可讓力場朝該方向移動。每個模組會讓力場移動 1 格。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "mffs:translation_module",
+   "text": "製作$(5)位移模組$()。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

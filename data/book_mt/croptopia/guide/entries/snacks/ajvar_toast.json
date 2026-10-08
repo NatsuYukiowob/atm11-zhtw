@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:snacks",
+ "icon": "croptopia:ajvar_toast",
+ "name": "阿伊瓦爾烤麵包",
+ "pages": [
+  {
+   "recipe": "croptopia:shaped_ajvar_toast",
+   "text": "製作阿伊瓦爾烤麵包的食譜。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

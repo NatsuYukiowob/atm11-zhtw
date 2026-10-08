@@ -1,0 +1,28 @@
+{
+ "category": "mffs:tools",
+ "icon": "mffs:remote_controller",
+ "name": "遙控器",
+ "pages": [
+  {
+   "item": "mffs:remote_controller",
+   "link_recipe": true,
+   "text": "$(5)遙控器$()是一種非凡的裝置，處於遠端設定技術的最前沿。它不只是單純讓MFFS機器開啟或關閉，而是提供對機器實際介面的實質存取。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "mffs:remote_controller",
+   "text": "合成$(5)遙控器$()。",
+   "type": "patchouli:crafting"
+  },
+  {
+   "text": "啟動時，遙控器會與其設定控制的機器建立雙向物質流。如此一來，玩家不僅能存取該機器所有可設定的選項，還能像站在機器旁邊一樣放入和取出物品。$(5)遙控器$()不需要充能，它會使用相同頻率直接從附近的MFFS機器汲取能量。因此，若$(l:mffs:getting_started/fortron)Fortron$()不足，遙控器就無法運作。",
+   "title": "運作方式",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "$(li)開啟要控制的MFFS機器介面，並將遙控器放入其頻率槽，以設定遙控器的頻率。$(li)按住 Shift 右鍵點選目標機器，將遙控器連結到該機器。遙控器會顯示其已連結機器的名稱與座標。$(li)離開機器後，用遙控器右鍵即可存取該機器的介面。",
+   "title": "用法",
+   "type": "patchouli:text"
+  }
+ ]
+}

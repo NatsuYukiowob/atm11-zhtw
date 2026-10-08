@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:meals",
+ "icon": "croptopia:fried_chicken",
+ "name": "炸雞",
+ "pages": [
+  {
+   "recipe": "croptopia:fried_chicken",
+   "text": "炸雞配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

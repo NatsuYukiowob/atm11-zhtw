@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:drinks",
+ "icon": "croptopia:pumpkin_spice_latte",
+ "name": "南瓜香料拿鐵",
+ "pages": [
+  {
+   "recipe": "croptopia:pumpkin_spice_latte",
+   "text": "南瓜香料拿鐵的合成配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

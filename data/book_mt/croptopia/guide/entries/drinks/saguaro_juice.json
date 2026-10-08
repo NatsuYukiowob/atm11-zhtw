@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:drinks",
+ "icon": "croptopia:saguaro_juice",
+ "name": "仙人掌果汁",
+ "pages": [
+  {
+   "recipe": "croptopia:saguaro_juice",
+   "text": "仙人掌果汁的合成配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

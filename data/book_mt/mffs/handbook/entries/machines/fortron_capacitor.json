@@ -1,0 +1,36 @@
+{
+ "category": "mffs:machines",
+ "icon": "mffs:fortron_capacitor",
+ "name": "Fortron 電容器",
+ "pages": [
+  {
+   "item": "mffs:fortron_capacitor",
+   "link_recipe": true,
+   "text": "$(9)Fortron 電容器$()是 MFFS 機器的能量儲存與管理裝置。它負責收集$(l:mffs:machines/coercion_deriver)強制匯出器$()產生的 Fortron，並將其傳送給需要$(l:mffs:getting_started/fortron)Fortron$()才能運作的其他機器，本質上扮演「樞紐」的角色。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "mffs:fortron_capacitor",
+   "text": "合成$(9)Fortron 電容器$()。",
+   "type": "patchouli:crafting"
+  },
+  {
+   "text": "放置電容器並設定其使用的頻率。預設情況下，電容器使用頻率編號 0，但可以透過以下任一方式改變：$(li)右鍵點選電容器，並在其 GUI 中輸入所需的頻率數字$(li)手持$(l:mffs:tools/frequency_card)頻率卡$()並潛行右鍵點選電容器。",
+   "title": "用法",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "以紅石訊號啟動 Fortron 電容器。啟動後，電容器會從紅色變為藍色，並開始在使用相同頻率且位於範圍內的其他 MFFS 裝置之間傳輸$(l:mffs:getting_started/fortron)Fortron$()（預設範圍為 15 格）。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "Fortron 電容器可以加裝各種模組以強化其功能：$(li)$(l:mffs:upgrade_modules/scale_module)$(5)比例模組$()：使電容器能以更遠的距離連結其他 MFFS 機器。每個模組會在預設的 15 格基礎上增加 1 格範圍。$(li)$(l:mffs:upgrade_modules/speed_module)$(5)速度模組$()：使電容器能更快速地與機器之間傳輸$(l:mffs:getting_started/fortron)Fortron$()。每個模組會將傳輸速率提高 50 FE。",
+   "title": "升級性",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "$(li)$(l:mffs:upgrade_modules/capacity_module)$(5)容量模組$()：增加電容器能儲存的$(l:mffs:getting_started/fortron)Fortron$()數量。",
+   "type": "patchouli:text"
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:meals",
+ "icon": "croptopia:refried_beans",
+ "name": "炸豆泥",
+ "pages": [
+  {
+   "recipe": "croptopia:refried_beans",
+   "text": "配方指南。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

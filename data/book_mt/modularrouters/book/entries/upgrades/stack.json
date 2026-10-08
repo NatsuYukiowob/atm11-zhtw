@@ -1,0 +1,19 @@
+{
+ "category": "modularrouters:upgrades",
+ "icon": "modularrouters:stack_upgrade",
+ "name": "堆疊升級",
+ "pages": [
+  {
+   "text": "路由器中的模組一次只會處理一個物品：例如$(l:modules/sender_1)傳送模組/$每次路由器 tick 只會從路由器緩衝中傳送一個物品，無論緩衝中有多少物品。",
+   "type": "text"
+  },
+  {
+   "text": "在路由器中加入堆疊升級，即可提高此數量。每個堆疊升級會使各模組可處理的物品數量加倍，上限為 64，或該物品的原生堆疊上限（例如$(item)終界珍珠/$為 16）。$(p)因此，一座路由器中有效的堆疊升級最多為 6 個。",
+   "type": "text"
+  },
+  {
+   "recipe": "modularrouters:stack_upgrade",
+   "type": "crafting"
+  }
+ ]
+}

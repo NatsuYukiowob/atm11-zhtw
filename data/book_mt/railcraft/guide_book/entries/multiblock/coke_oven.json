@@ -1,0 +1,20 @@
+{
+ "category": "railcraft:multiblock",
+ "icon": "railcraft:coke_oven_bricks",
+ "name": "焦炭爐",
+ "pages": [
+  {
+   "text": "焦炭爐是一座 3x3x3 的磚砌結構，中間中空，用來將煤炭轉換為煤焦，或將木頭轉換為木炭，並副產木焦油。$(br2)此爐由 26 塊以磚塊與沙製成的特殊磚塊建造。若拆解，建造一座焦炭爐需要 104 個黏土與 130 個沙。焦炭爐不可彼此相鄰，爐與爐之間至少要間隔一格。",
+   "type": "patchouli:text"
+  },
+  {
+   "multiblock_id": "railcraft:coke_oven",
+   "name": "焦炭爐",
+   "type": "patchouli:multiblock"
+  },
+  {
+   "text": "焦炭爐最多可儲存 64,000 單位的木焦油，可用桶或玻璃瓶取出並儲存。每個桶或瓶可裝 1,000 單位的木焦油。裝滿的桶不會堆疊，裝滿的瓶則會。$(br2)將煤炭轉換為煤焦是個緩速的過程。若打算製作大量鐵軌，您可能會想建造數座焦炭爐。",
+   "type": "patchouli:text"
+  }
+ ]
+}

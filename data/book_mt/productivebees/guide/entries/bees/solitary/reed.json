@@ -1,0 +1,19 @@
+{
+ "category": "productivebees:bees_solitary",
+ "icon": "productivebees:spawn_egg_reed_bee",
+ "name": "蘆葦蜂",
+ "pages": [
+  {
+   "anchor": "reed",
+   "text": "[Exoneura robusta]",
+   "title": "蘆葦蜂",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:reed_bee",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true,
+ "sortnum": 11
+}

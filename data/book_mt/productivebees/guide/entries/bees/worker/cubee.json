@@ -1,0 +1,18 @@
+{
+ "category": "productivebees:bees_worker",
+ "icon": "minecraft:arrow",
+ "name": "CuBee",
+ "pages": [
+  {
+   "text": "這種蜂分泌的費洛蒙會讓動物發情。",
+   "title": "CuBee",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:cupid_bee",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true,
+ "sortnum": 7
+}

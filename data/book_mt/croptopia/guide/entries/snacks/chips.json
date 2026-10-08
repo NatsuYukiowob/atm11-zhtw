@@ -1,0 +1,16 @@
+{
+ "category": "croptopia:snacks",
+ "icon": "croptopia:potato_chips",
+ "name": "薯片",
+ "pages": [
+  {
+   "recipe": "croptopia:kale_chips",
+   "recipe2": "croptopia:potato_chips",
+   "type": "patchouli:crafting"
+  },
+  {
+   "text": "各種薯片的製作食譜。",
+   "type": "patchouli:text"
+  }
+ ]
+}

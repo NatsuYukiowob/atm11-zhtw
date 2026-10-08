@@ -1,0 +1,18 @@
+{
+ "category": "mffs:interdiction_modules",
+ "icon": "mffs:anti_hostile_module",
+ "name": "敵對生物剋制模組",
+ "pages": [
+  {
+   "item": "mffs:anti_hostile_module",
+   "link_recipe": true,
+   "text": "$(5)敵對生物剋制模組$()是$(l:mffs:machines/interdiction_matrix)干涉矩陣$()的選配模組。安裝此模組後，矩陣能自動偵測進入掃描範圍的敵對生物，並在瞬間將其擊殺。玩家與村民、動物等非敵對生物則不會受到傷害。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "mffs:anti_hostile_module",
+   "text": "合成$(5)敵對生物剋制模組$()。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

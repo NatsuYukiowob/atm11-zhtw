@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:snacks",
+ "icon": "croptopia:nougat",
+ "name": "牛軋糖",
+ "pages": [
+  {
+   "recipe": "croptopia:nougat",
+   "text": "牛軋糖的製作配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

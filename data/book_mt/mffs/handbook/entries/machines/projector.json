@@ -1,0 +1,36 @@
+{
+ "category": "mffs:machines",
+ "icon": "mffs:projector",
+ "name": "力場投影機",
+ "pages": [
+  {
+   "item": "mffs:projector",
+   "link_recipe": true,
+   "text": "$(9)力場投影機$()是 MFFS 機器系列的基礎部件。它利用 Fortron 能量，在世界中投射各種形狀與大小的力場。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "mffs:projector",
+   "text": "合成$(9)力場投影機$()。",
+   "type": "patchouli:crafting"
+  },
+  {
+   "text": "要產生力場，須為$(9)力場投影機$()提供$(l:mffs:getting_started/fortron)Fortron$()供應，方法是將它連結到附近的$(l:mffs:machines/fortron_capacitor)Fortron 電容器$()。可透過以下任一方式完成：$(li)右鍵點選$(9)力場投影機$()，並在其 GUI 介面中輸入相符的頻率數字$(li)手持$(l:mffs:tools/frequency_card)頻率卡$()並潛行右鍵點選投影機。",
+   "title": "用法",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "透過合成$(l:mffs:projector_modes)投影模式道具$()，決定要產生的力場形狀。右鍵點選投影機，並將投影模式道具放入中央（紅色）欄位，該欄位周圍有朝外的箭頭。合成若干$(l:mffs:upgrade_modules/scale_module)$(5)比例模組$()，並將它們放入$(9)力場投影機$()GUI 左側的欄位矩陣中。放入投影機矩陣欄位的每個$(l:mffs:upgrade_modules/scale_module)$(5)比例模組$()，都會使力場半徑增加一格。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "GUI 底部的數字表示維持指定大小與形狀的力場所需的 Fortron 量。以紅石訊號啟動投影機。啟動後，$(9)力場投影機$()會從紅色變為藍色，並開始投射力場（前提是有足夠的可用$(l:mffs:getting_started/fortron)Fortron$()）。$(p)若要能穿過力場，需要$(l:mffs:machines/biometric_identifier)生物辨識器$()。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "$(9)力場投影機$()可以加裝各種模組。這些一般模組的效果如下：$(li)$(l:mffs:upgrade_modules/scale_module)$(5)比例模組$()：調整投射力場的形狀。$(li)$(l:mffs:upgrade_modules/speed_module)$(5)速度模組$()：使投影機能更快速地產生力場。$(li)$(l:mffs:upgrade_modules/capacity_module)$(5)容量模組$()：增加投影機能儲存的$(l:mffs:getting_started/fortron)Fortron$()數量。$()",
+   "title": "升級性",
+   "type": "patchouli:text"
+  }
+ ]
+}

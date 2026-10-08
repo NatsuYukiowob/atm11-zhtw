@@ -1,0 +1,17 @@
+{
+ "advancements.mffs.smelt_steel.description": "熔煉一個鋼錠",
+ "advancements.mffs.smelt_steel.title": "比鐵更堅硬",
+ "advancements.mffs.steel_compound.description": "合成鋼化合物",
+ "advancements.mffs.steel_compound.title": "堅固的混合物",
+ "fluid_type.mffs.fortron": "Fortron",
+ "info.mffs.entity_identity": "%s (%s)",
+ "info.mffs.fortron_usage": "Fortron：%s L/s",
+ "info.mffs.key.shift": "Shift",
+ "item.mffs.reinforcement_module": "強化模組",
+ "item.mffs.reinforcement_module.description": "使力場方塊免疫凋零效果",
+ "screen.mffs.fortron": "Fortron：%s L / %s L",
+ "screen.mffs.fortron.name": "Fortron：",
+ "screen.mffs.fortron.short": "Fortron：%s L",
+ "screen.mffs.fortron.value": "%s L / %s L",
+ "screen.mffs.fortron_cost": "%s%s L/s"
+}

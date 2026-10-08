@@ -1,0 +1,11 @@
+{
+ "category": "railcraft:tracks",
+ "icon": "railcraft:iron_buffer_stop_track",
+ "name": "緩衝擋軌",
+ "pages": [
+  {
+   "text": "正在尋找為你的鐵道線路增添時尚端點的裝飾嗎？那麼這種軌道就是為你準備的！它是完美的端點，可防止車廂從軌道末端滾落。車廂在這裡也不會彈開或爆炸！",
+   "type": "patchouli:text"
+  }
+ ]
+}

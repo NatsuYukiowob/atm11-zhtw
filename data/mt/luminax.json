@@ -1,0 +1,21 @@
+{
+ "block.luminax.luminax_block": "Luminax 方塊",
+ "block.luminax.luminax_button": "Luminax 按鈕",
+ "block.luminax.luminax_pressure_plate": "Luminax 壓力板",
+ "block.luminax.luminax_slab": "Luminax 半磚",
+ "block.luminax.luminax_stair": "Luminax 階梯",
+ "block.luminax.luminax_wall": "Luminax 圍牆",
+ "creative_tab.luminax.default": "Luminax",
+ "item.luminax.luminax_wand": "Luminax 魔杖",
+ "key.category.luminax.default": "Luminax",
+ "key.luminax.open_color_picker": "開啟顏色Select器",
+ "key.luminax.toggle_glowing": "切換發光",
+ "property.luminax.color": "顏色",
+ "property.luminax.color.tooltip": "改變方塊的顏色",
+ "property.luminax.glowing": "發光",
+ "tooltip.luminax.glowing.off": "讓方塊發出光亮",
+ "tooltip.luminax.glowing.on": "讓方塊發出光亮",
+ "tooltip.luminax.lmb": "%s 或 %s 向前切換",
+ "tooltip.luminax.mmb": "%s 開啟顏色Select器",
+ "tooltip.luminax.rmb": "%s 或 %s 向後切換"
+}

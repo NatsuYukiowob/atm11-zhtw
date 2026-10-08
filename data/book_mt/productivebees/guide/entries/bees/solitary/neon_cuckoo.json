@@ -1,0 +1,19 @@
+{
+ "category": "productivebees:bees_solitary",
+ "icon": "productivebees:spawn_egg_neon_cuckoo_bee",
+ "name": "霓虹杜鵑蜂",
+ "pages": [
+  {
+   "anchor": "neon_cuckoo",
+   "text": "[Thyreus nitidulus]",
+   "title": "霓虹杜鵑蜂",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:neon_cuckoo_bee",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true,
+ "sortnum": 9
+}

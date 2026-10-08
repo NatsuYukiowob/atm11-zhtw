@@ -1,0 +1,19 @@
+{
+ "chat.waystones.destination_out_of_bounds": "目的地超出世界邊界。",
+ "chat.waystones.requirements_not_met.specific": "失敗 - %s",
+ "commands.waystones.activate.success.multiple": "已啟用路標 %s，對 %d 名玩家生效",
+ "commands.waystones.activate.success.single": "已啟用路標 %s，物件為 %s",
+ "commands.waystones.cooldown.reset.success.multiple": "已重設路標 %s 的冷卻，對 %d 名玩家生效",
+ "commands.waystones.cooldown.reset.success.single": "已重設路標 %s 的冷卻，物件為 %s",
+ "commands.waystones.forget.success.multiple": "已取消啟用路標 %s，對 %d 名玩家生效",
+ "commands.waystones.forget.success.single": "已取消啟用路標 %s，物件為 %s",
+ "commands.waystones.list.coordinates": "%d, %d, %d",
+ "container.waystones.personal_waystone_settings": "%s",
+ "gui.waystones.manage_waystones.hide_waystone": "隱藏路標",
+ "gui.waystones.manage_waystones.show_waystone": "顯示路標",
+ "gui.waystones.waystone_selection.epitaph_requirement": "%s",
+ "gui.waystones.waystone_selection.twinbound_feather": "%s",
+ "gui.waystones.waystone_selection.twinbound_feather_requirement": "%s",
+ "waystones.configuration.rules.warpSettings": "傳送設定",
+ "waystones.configuration.rules.warpSettings.tooltip": "warpRequirements 設定中使用的變數清單。"
+}

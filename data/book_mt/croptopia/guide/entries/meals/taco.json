@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:meals",
+ "icon": "croptopia:taco",
+ "name": "塔可",
+ "pages": [
+  {
+   "recipe": "croptopia:taco",
+   "text": "塔可的食譜。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

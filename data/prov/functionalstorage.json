@@ -1,0 +1,9 @@
+{
+ "block.functionalstorage.pale_oak_1": "haiku",
+ "block.functionalstorage.pale_oak_2": "haiku",
+ "block.functionalstorage.pale_oak_4": "haiku",
+ "gui.functionalstorage.fluid_drawer_hint": "haiku",
+ "gui.functionalstorage.fluid_drawer_hint.empty": "haiku",
+ "gui.functionalstorage.fluid_drawer_hint.fill": "haiku",
+ "gui.functionalstorage.priority": "haiku"
+}

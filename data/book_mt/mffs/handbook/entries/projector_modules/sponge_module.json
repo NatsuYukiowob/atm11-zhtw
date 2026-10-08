@@ -1,0 +1,18 @@
+{
+ "category": "mffs:projector_modules",
+ "icon": "mffs:sponge_module",
+ "name": "海綿模組",
+ "pages": [
+  {
+   "item": "mffs:sponge_module",
+   "link_recipe": true,
+   "text": "在$(l:mffs:machines/projector)力場投影機$()中放入$(5)海綿模組$()，會使其持續偵測並移除力場內的任何流體。可以透過安裝$(l:mffs:upgrade_modules/speed_module)$(5)速度模組$()來提高移除流體的速度。移除無限流體（例如水）時可能需要更高的速率。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "mffs:sponge_module",
+   "text": "製作$(5)海綿模組$()。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

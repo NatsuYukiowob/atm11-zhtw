@@ -1,0 +1,21 @@
+{
+ "affix.apotheosis.cooldown": "[⌛ %s]",
+ "button.apotheosis.return": "X",
+ "button.apotheosis.tier_advancement_criteria": "",
+ "chat.apotheosis.link_item_with_count": "%s %s",
+ "info.apotheosis.criteria_done": "☑ %s",
+ "info.apotheosis.criteria_unfinished": "☐ %s",
+ "info.apotheosis.criteria_unknown": "❓ %s",
+ "item.apotheosis.gem.normal": "%s",
+ "jukebox_song.apotheosis.flash": "Renren - Flash",
+ "misc.apotheosis.affix_bounds": "[%s - %s]",
+ "painting.apotheosis.craig.author": "Astrel",
+ "painting.apotheosis.enchanting_table.author": "Faellynna",
+ "painting.apotheosis.gems.author": "Faellynna",
+ "painting.apotheosis.tower.author": "Faellynna",
+ "painting.apotheosis.window.author": "Faellynna",
+ "subtitle.apotheosis.music_disc.flash": "Renren - Flash",
+ "text.apotheosis.dot_prefix": "• %s",
+ "text.apotheosis.star_prefix": "🌟 %s",
+ "text.apotheosis.world_tier.difficulty": "難易度："
+}

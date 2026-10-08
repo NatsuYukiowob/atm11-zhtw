@@ -1,0 +1,15 @@
+{
+ "category": "modularrouters:modules",
+ "icon": "modularrouters:void_module",
+ "name": "虛空模組",
+ "pages": [
+  {
+   "text": "這個危險的模組會永久摧毀路由器緩衝區中的物品！強烈建議為此模組設定$(l:intro/modules#filter)白名單過濾器/$，以防止誤刪珍貴物品……",
+   "type": "text"
+  },
+  {
+   "recipe": "modularrouters:void_module",
+   "type": "crafting"
+  }
+ ]
+}

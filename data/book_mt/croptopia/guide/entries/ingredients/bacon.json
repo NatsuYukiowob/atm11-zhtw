@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:ingredients",
+ "icon": "croptopia:bacon",
+ "name": "培根",
+ "pages": [
+  {
+   "recipe": "croptopia:shaped_bacon",
+   "text": "合成配方",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

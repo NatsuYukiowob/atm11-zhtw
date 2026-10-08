@@ -1,0 +1,20 @@
+{
+ "config.jade.plugin_jade.loot_table": "戰利品表",
+ "config.jade.plugin_jade.loot_table_desc": "需要 OP 許可權。",
+ "config.jade.plugin_jade.registry_name.special.poi": "POI：%s",
+ "config.jade.profile.0": "#0",
+ "config.jade.profile.1": "#1",
+ "config.jade.profile.2": "#2",
+ "config.jade.profile.3": "#3",
+ "jade.access.block.door_open": "{0}",
+ "jade.blockpos": "%s %s %s",
+ "jade.distance1": " [%s]",
+ "jade.fluid": "%s %s",
+ "jade.infinity": "∞",
+ "jade.lootTable": "戰利品表：%s",
+ "jade.lootTableSeed": "世界種子碼：%s",
+ "jade.typeNameEntity": "%s (%s)",
+ "key.category.jade.main": "Jade",
+ "modmenu.nameTranslation.jade": "Jade",
+ "narration.jade.blockpos": "X {0} Y {1} Z {2} "
+}

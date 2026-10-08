@@ -1,0 +1,19 @@
+{
+ "category": "modularrouters:upgrades",
+ "icon": "modularrouters:speed_upgrade",
+ "name": "速度升級",
+ "pages": [
+  {
+   "text": "預設情況下，$(l:router/modular_router)路由器/$每 20 個伺服器 tick 運作一次，即每秒一次。每次 tick 時，所有已安裝的模組會由左至右依序執行。$(p)若你需要路由器運作得比這更快，請加入$(thing)速度升級/$；每個速度升級會將 tick 間隔縮短 2 個伺服器 tick，最低可至每 2 個伺服器 tick 一次（即每秒 10 次）。",
+   "type": "text"
+  },
+  {
+   "text": "基礎 tick 速率、每個升級增加的 tick 數，以及 tick 速率的硬性下限，皆可於模組設定檔（config/modularrouters-common.toml）中調整。$(p)基於效能考量，若可行，應優先使用$(l:upgrades/stack)堆疊升級/$，而非速度升級；速度升級請審慎使用，僅在必須達到最高物品傳輸速率時才使用。$(p)請善待你的伺服器 (tm)。",
+   "type": "text"
+  },
+  {
+   "recipe": "modularrouters:speed_upgrade",
+   "type": "crafting"
+  }
+ ]
+}

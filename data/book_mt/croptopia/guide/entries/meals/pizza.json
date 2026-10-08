@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:meals",
+ "icon": "croptopia:pizza",
+ "name": "披薩",
+ "pages": [
+  {
+   "recipe": "croptopia:pizza",
+   "text": "披薩配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

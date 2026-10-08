@@ -1,0 +1,19 @@
+{
+ "category": "productivebees:bees_solitary",
+ "icon": "productivebees:spawn_egg_resin_bee",
+ "name": "樹脂蜂",
+ "pages": [
+  {
+   "anchor": "resin",
+   "text": "[Megachile mystaceana]",
+   "title": "樹脂蜂",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:resin_bee",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true,
+ "sortnum": 12
+}

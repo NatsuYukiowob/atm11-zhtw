@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:ingredients",
+ "icon": "croptopia:olive_oil",
+ "name": "橄欖油",
+ "pages": [
+  {
+   "recipe": "croptopia:olive_oil",
+   "text": "橄欖油的合成配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

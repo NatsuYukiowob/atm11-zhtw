@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:ingredients",
+ "icon": "croptopia:paprika",
+ "name": "紅椒粉",
+ "pages": [
+  {
+   "recipe": "croptopia:paprika",
+   "text": "紅椒粉的合成配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

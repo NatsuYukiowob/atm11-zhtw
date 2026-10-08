@@ -1,0 +1,15 @@
+{
+ "category": "railcraft:tracks",
+ "icon": "railcraft:iron_launcher_track",
+ "name": "發射軌道",
+ "pages": [
+  {
+   "text": "這種軌道會將經過其上的任何車廂發射到空中。發射力道可用撬棍右鍵點選鐵軌來調整。$(br2)軌道必須通以紅石供電才能發射車廂。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "或許不太寫實，但還是超好玩！這種軌道會將經過其上的任何車廂發射到空中。發射力道可用撬棍右鍵點選鐵軌來調整。$(br2)軌道必須通以紅石供電才能發射車廂。$(br2)或許不太寫實，但還是超好玩！",
+   "type": "patchouli:text"
+  }
+ ]
+}

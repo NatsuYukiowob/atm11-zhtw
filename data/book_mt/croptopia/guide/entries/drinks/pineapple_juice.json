@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:drinks",
+ "icon": "croptopia:pineapple_juice",
+ "name": "鳳梨汁",
+ "pages": [
+  {
+   "recipe": "croptopia:pineapple_juice",
+   "text": "鳳梨汁的合成配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "advancements.mffs.smelt_steel.description": "haiku",
+ "advancements.mffs.smelt_steel.title": "haiku",
+ "advancements.mffs.steel_compound.description": "haiku",
+ "advancements.mffs.steel_compound.title": "haiku",
+ "fluid_type.mffs.fortron": "haiku",
+ "info.mffs.entity_identity": "haiku",
+ "info.mffs.fortron_usage": "haiku",
+ "info.mffs.key.shift": "haiku",
+ "item.mffs.reinforcement_module": "haiku",
+ "item.mffs.reinforcement_module.description": "haiku",
+ "screen.mffs.fortron": "haiku",
+ "screen.mffs.fortron.name": "haiku",
+ "screen.mffs.fortron.short": "haiku",
+ "screen.mffs.fortron.value": "haiku",
+ "screen.mffs.fortron_cost": "haiku"
+}

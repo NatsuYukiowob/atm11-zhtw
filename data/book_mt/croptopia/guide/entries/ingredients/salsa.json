@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:ingredients",
+ "icon": "croptopia:salsa",
+ "name": "莎莎醬",
+ "pages": [
+  {
+   "recipe": "croptopia:salsa",
+   "text": "莎莎醬的合成配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

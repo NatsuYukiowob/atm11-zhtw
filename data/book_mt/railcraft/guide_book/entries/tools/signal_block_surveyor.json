@@ -1,0 +1,11 @@
+{
+ "category": "railcraft:tools",
+ "icon": "railcraft:signal_block_surveyor",
+ "name": "訊號區段測量器",
+ "pages": [
+  {
+   "text": "這個測量工具用於將兩個區段訊號配對，以建立一個訊號區段。開始測量時，請右鍵點選一個區段訊號。要完成訊號區段，請移動到另一端的訊號並同樣右鍵點選。如果訊號區段有效，畫面上會出現訊息，告知配對成功。如果配對失敗，也會出現訊息說明失敗原因。",
+   "type": "patchouli:text"
+  }
+ ]
+}

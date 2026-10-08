@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:meals",
+ "icon": "croptopia:toast_sandwich",
+ "name": "吐司三明治",
+ "pages": [
+  {
+   "recipe": "croptopia:shaped_toast_sandwich",
+   "text": "食譜",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

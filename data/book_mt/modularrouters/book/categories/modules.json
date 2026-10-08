@@ -1,0 +1,6 @@
+{
+ "description": "模組會放入模組化路由器中，並決定路由器的功能。",
+ "icon": "modularrouters:sender_module_1",
+ "name": "模組",
+ "sortnum": 2
+}

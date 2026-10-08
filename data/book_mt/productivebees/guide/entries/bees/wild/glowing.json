@@ -1,0 +1,18 @@
+{
+ "category": "productivebees:bees_wild",
+ "icon": "minecraft:glowstone_dust",
+ "name": "發光蜂",
+ "pages": [
+  {
+   "anchor": "glowing",
+   "text": "棲息於地獄的發光巢穴中。發光蜂偏好為螢光石或燈等發光方塊授粉。",
+   "title": "發光蜂",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:configurable_bee{type:'productivebees:glowing'}",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true
+}

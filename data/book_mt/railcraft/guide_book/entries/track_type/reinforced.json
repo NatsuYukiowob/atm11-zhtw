@@ -1,0 +1,15 @@
+{
+ "category": "railcraft:track_type",
+ "icon": "railcraft:reinforced_track",
+ "name": "強化",
+ "pages": [
+  {
+   "text": "強化軌道相較鐵製軌道類型有幾項優勢。$(li)它的抗爆性更強。（45，足以抵擋TNT爆炸）$(li)它的速度也比鐵製軌道類型快25%。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "與高速軌道類型相比，它慢得多，但也安全得多。$(br2)不過，你應該把強化軌道鋪在抗爆方塊上，因為只要支撐方塊被移除，軌道必定會掉落。",
+   "type": "patchouli:text"
+  }
+ ]
+}

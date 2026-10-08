@@ -1,0 +1,11 @@
+{
+ "category": "railcraft:tracks",
+ "icon": "railcraft:iron_control_track",
+ "name": "控制軌道",
+ "pages": [
+  {
+   "text": "這些鐵軌就像弱增速器，只會朝一個方向增速。任何朝反方向行駛的車廂都會逐漸減速。通電後會反轉鐵軌的方向。它們製作成本低，能在任一方上傳遞最多十六格的紅石訊號。預設方向可以用撬棍改變。",
+   "type": "patchouli:text"
+  }
+ ]
+}

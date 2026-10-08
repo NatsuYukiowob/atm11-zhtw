@@ -1,0 +1,18 @@
+{
+ "category": "productivetrees:treetap",
+ "flag": "mod:treetap",
+ "icon": "productivetrees:maple_syrup",
+ "name": "楓糖漿",
+ "pages": [
+  {
+   "item": "productivetrees:maple_sap_bucket",
+   "text": "可以從糖楓樹上採集楓樹汁液。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "productivetrees:maple_syrup",
+   "text": "楓樹汁液可製成楓糖漿，美味的楓糖漿。",
+   "type": "patchouli:smelting"
+  }
+ ]
+}

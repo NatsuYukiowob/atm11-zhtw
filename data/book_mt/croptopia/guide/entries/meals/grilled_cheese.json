@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:meals",
+ "icon": "croptopia:grilled_cheese",
+ "name": "烤起司三明治",
+ "pages": [
+  {
+   "recipe": "croptopia:grilled_cheese",
+   "text": "烤起司三明治配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

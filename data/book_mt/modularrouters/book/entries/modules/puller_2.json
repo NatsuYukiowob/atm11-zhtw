@@ -1,0 +1,20 @@
+{
+ "category": "modularrouters:modules",
+ "icon": "modularrouters:puller_module_2",
+ "name": "拉取模組 Mk2",
+ "pages": [
+  {
+   "text": "其行為與$(l:modules/puller_1)拉取模組 Mk1/$相似，但可以從非相鄰的物品欄拉取物品。$(p)目標物品欄最遠可達 12 格（使用$(l:augments/range_up)範圍增強/$可達 24 格）；$(italic)不需要/$清晰的視線。",
+   "type": "text"
+  },
+  {
+   "text": "$(li)要Select目標物品欄，請手持拉取模組 Mk2 並$(thing)潛行右鍵點選/$該方塊，你會收到確定訊息。$(li)手持已設定目標的拉取模組 Mk2 時，目標方塊會被高亮顯示。",
+   "type": "text"
+  },
+  {
+   "recipe": "modularrouters:puller_module_2",
+   "recipe2": "modularrouters:puller_module_2_x4",
+   "type": "crafting"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "category": "productivebees:bees_solitary",
+ "icon": "productivebees:spawn_egg_ashy_mining_bee",
+ "name": "灰地蜂",
+ "pages": [
+  {
+   "anchor": "ashy_mining",
+   "text": "[Andrena cineraria]",
+   "title": "灰地蜂",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:ashy_mining_bee",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true,
+ "sortnum": 1
+}

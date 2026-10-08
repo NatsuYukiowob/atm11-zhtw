@@ -1,0 +1,16 @@
+{
+ "category": "railcraft:multiblock",
+ "icon": "railcraft:water_tank_siding",
+ "name": "水塔",
+ "pages": [
+  {
+   "text": "水塔是您鐵路的水源。它是一套被動系統，會從周遭環境收集水，使儲槽保持充滿。儲槽本身可容納 400 桶水，可用來為您的蒸汽機車（或其他耗水裝置）補水。儲槽的補充速度取決於生態域、天氣，以及儲槽是否位於戶外（能看見天空）。一般建議不要讓鐵路穿越沙漠。$(br2)要建造水塔，請使用水塔側板建造一座 3x3x3 的中空結構，做法與建造焦炭爐相似。",
+   "type": "patchouli:text"
+  },
+  {
+   "multiblock_id": "railcraft:water_tank",
+   "name": "水塔",
+   "type": "patchouli:multiblock"
+  }
+ ]
+}

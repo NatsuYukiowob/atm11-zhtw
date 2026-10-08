@@ -1,0 +1,15 @@
+{
+ "category": "railcraft:track_type",
+ "icon": "railcraft:strap_iron_track",
+ "name": "鐵條",
+ "pages": [
+  {
+   "text": "鐵條軌道，也就是木製軌道類型，其特色是速度上限極慢，僅為鐵製軌道類型的30%。這種軌道由木製鐵軌和木製鐵軌基座建成。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "鐵條軌道比鐵製軌道需要的鐵少得多，但需要的木材和防腐油稍多。一般來說，當你的鐵料不足時，最好建造這種軌道。其他建議用途包括風景觀光路線和精準計時應用",
+   "type": "patchouli:text"
+  }
+ ]
+}

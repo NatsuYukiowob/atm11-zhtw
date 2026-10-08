@@ -1,0 +1,9 @@
+{
+ "gui.advanced_ae.OverdriveThroughputMonitorValue": "%s%s/t",
+ "gui.advanced_ae.SlowThroughputMonitorValue": "%s%s/m",
+ "gui.advanced_ae.SlowerThroughputMonitorValue": "%s%s/10m",
+ "gui.advanced_ae.ThroughputMonitorValue": "%s%s/s",
+ "gui.tooltips.advanced_ae.TankAmount": "%s / %s B",
+ "item.advanced_ae.quantum_crafter_terminal_part": "量子合成器終端",
+ "key.category.advanced_ae.category": "Advanced AE"
+}

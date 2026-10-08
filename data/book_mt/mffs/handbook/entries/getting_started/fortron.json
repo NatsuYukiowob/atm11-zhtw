@@ -1,0 +1,16 @@
+{
+ "category": "mffs:getting_started",
+ "icon": "mffs:battery",
+ "name": "Fortron",
+ "pages": [
+  {
+   "text": "Fortron 是 MFFS 機器用來供電的一種能量形式。它最初由$(l:mffs:machines/coercion_deriver)強制匯出器$()產生並儲存，再由$(l:mffs:machines/fortron_capacitor)Fortron 電容器$()傳送給其他機器。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "另一個 Fortron 能量來源是僅限創造模式的物品$(5)無限電力卡$()。將它放入$(l:mffs:machines/fortron_capacitor)Fortron 電容器$()（最左側的物品欄位）即可提供無限的 Fortron。Fortron 也能以液體形式存在，可以像水或岩漿一樣直接從電容器中抽取並操作。",
+   "type": "patchouli:text"
+  }
+ ],
+ "sortnum": 3
+}

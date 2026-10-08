@@ -1,0 +1,8 @@
+{
+ "announcements.atm.dismiss_up_to_version": "[關閉至版本 %s 為止的公告]",
+ "announcements.atm.dismissed_up_to_version": "已關閉至版本 %s 為止的公告！",
+ "kubejs.atm.click_here": "點此關閉",
+ "packmenu.atm.discord": "Discord",
+ "packmenu.atm.github": "Github",
+ "packmenu.atm.reddit": "Reddit"
+}

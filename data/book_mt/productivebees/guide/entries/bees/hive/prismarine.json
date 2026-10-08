@@ -1,0 +1,18 @@
+{
+ "category": "productivebees:bees_hive",
+ "icon": "minecraft:prismarine_shard",
+ "name": "海晶蜂",
+ "pages": [
+  {
+   "anchor": "prismarine",
+   "text": "在海洋生態域釣魚即可獲得。",
+   "title": "海晶蜂",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:configurable_bee{type:'productivebees:prismarine'}",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true
+}

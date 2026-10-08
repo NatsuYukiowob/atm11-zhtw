@@ -1,0 +1,6 @@
+{
+ "commands.shogi.cooldown.add.success": "已增加 %s 秒到冷卻 %s，涵蓋 %s 名玩家。",
+ "commands.shogi.cooldown.reset.all.success": "已重設 %s 名玩家的所有冷卻。",
+ "commands.shogi.cooldown.reset.success": "已重設符合 %s 的冷卻，涵蓋 %s 名玩家。",
+ "commands.shogi.cooldown.set.success": "已將冷卻 %s 設為 %s 秒，涵蓋 %s 名玩家。"
+}

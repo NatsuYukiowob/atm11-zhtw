@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:ingredients",
+ "icon": "croptopia:flour",
+ "name": "麵粉",
+ "pages": [
+  {
+   "recipe": "croptopia:flour",
+   "text": "麵粉的合成配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

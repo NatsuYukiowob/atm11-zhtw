@@ -1,0 +1,19 @@
+{
+ "category": "modularrouters:modules",
+ "icon": "modularrouters:flinger_module",
+ "name": "投擲模組",
+ "pages": [
+  {
+   "text": "此模組的行為與$(l:modules/dropper)投放模組/$相似，但還會為掉落的物品施加可設定的速度，可能將物品拋到相當遠的距離。你可以透過模組的 GUI 調整物品的速度、俯仰角與偏航角。$(li)俯仰角與偏航角以度為單位，相對於基準俯仰角或偏航角。",
+   "type": "text"
+  },
+  {
+   "text": "$(li)如果模組朝上或朝下投出，基準俯仰角分別為 +90° 或 -90°；否則基準俯仰角為 0°。$(li)如果模組朝上或朝下投出，基準偏航角為路由器的朝向；否則基準偏航角取自模組的方向。$(li)範例：速度 1.0、俯仰角與偏航角皆為 0°，且模組方向為水平時，會讓物品沿地面飛出約 7 格的距離。",
+   "type": "text"
+  },
+  {
+   "recipe": "modularrouters:flinger_module",
+   "type": "crafting"
+  }
+ ]
+}

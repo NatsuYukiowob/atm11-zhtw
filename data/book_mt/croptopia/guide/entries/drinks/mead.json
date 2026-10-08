@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:drinks",
+ "icon": "croptopia:mead",
+ "name": "蜂蜜酒",
+ "pages": [
+  {
+   "recipe": "croptopia:mead",
+   "text": "蜂蜜酒的合成配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

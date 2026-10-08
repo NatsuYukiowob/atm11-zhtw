@@ -1,0 +1,23 @@
+{
+ "category": "modularrouters:modules",
+ "icon": "modularrouters:breaker_module",
+ "name": "破壞模組",
+ "pages": [
+  {
+   "text": "此模組會嘗試破壞與$(l:router/item_router)路由器/$相鄰、位於模組$(l:intro/modules#direction)設定方向/$上的方塊。$(p)大多數方塊都可以破壞，但具有不可破壞硬度的方塊（例如原版的$(item)基岩/$或$(item)終界傳送門/$）無法被破壞，流體方塊也無法被破壞。若方塊被破壞，其主要掉落物會自動插入物品路由器的緩衝區（若可能的話）。",
+   "type": "text"
+  },
+  {
+   "text": "破壞模組可以用任何種類的鎬（包括模組鎬）合成，但合成該模組所用的鎬會決定其採集等級。例如，若用$(item)鐵鎬/$製作破壞模組，它將無法破壞$(item)黑曜石/$。$(p)此外，合成時所用鎬上的任何$(thing)附魔/$都會記錄在模組中（其中$(thing)絲綢之觸/$與$(thing)幸運/$特別有用）。",
+   "type": "text"
+  },
+  {
+   "text": "預設情況下，破壞模組的過濾器是針對$(thing)會掉落的物品/$運作，而不是方塊本身。例如，若過濾$(item)石頭/$，除非模組具有$(thing)絲綢之觸/$，否則無法用來破壞石頭。在這種情況下，你應該過濾$(item)鵝卵石/$。$(p)你可以透過模組介面將模組設定為依$(thing)方塊/$比對；這在區分兩種都不掉落任何東西的方塊時很有用，例如$(item)冰/$與$(item)封裝冰/$。",
+   "type": "text"
+  },
+  {
+   "recipe": "modularrouters:breaker_module",
+   "type": "crafting"
+  }
+ ]
+}

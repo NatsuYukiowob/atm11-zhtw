@@ -1,0 +1,19 @@
+{
+ "category": "productivetrees:stuff",
+ "icon": "productivetrees:pollen",
+ "name": "花粉",
+ "pages": [
+  {
+   "flag": "mod:productivebees",
+   "item": "productivetrees:pollen",
+   "text": "蜜蜂採集的花粉可用來手動為樹葉授粉，培育出新的樹種。請在 JEI 中檢視哪些樹需要雜交，以便知道該把哪種花粉用在哪些樹葉上。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "flag": "!mod:productivebees",
+   "item": "productivetrees:pollen",
+   "text": "花粉篩取器採集的花粉可用來手動為樹葉授粉，培育出新的樹種。請在 JEI 中檢視哪些樹需要雜交，以便知道該把哪種花粉用在哪些樹葉上。",
+   "type": "patchouli:spotlight"
+  }
+ ]
+}

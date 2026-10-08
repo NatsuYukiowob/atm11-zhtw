@@ -1,0 +1,18 @@
+{
+ "category": "mffs:projector_modules",
+ "icon": "mffs:collection_module",
+ "name": "收集模組",
+ "pages": [
+  {
+   "item": "mffs:collection_module",
+   "link_recipe": true,
+   "text": "放入$(l:mffs:machines/projector)力場投影機$()的矩陣格中，並搭配$(l:mffs:projector_modules/disintegration_module)$(5)分解模組$()使用時，$(5)收集模組$()會把被摧毀掉落方塊的物品收集到投影機周圍的容器中。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "mffs:collection_module",
+   "text": "製作$(5)收集模組$()。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

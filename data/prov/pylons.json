@@ -1,0 +1,12 @@
+{
+ "block.pylons.protection_pylon": "haiku",
+ "gui.pylons.protectedMobsAndBlocks": "haiku",
+ "item.pylons.block_filter": "haiku",
+ "pylons.int.jei.category.protection_pylon": "haiku",
+ "tooltip.pylons.effect_banned": "haiku",
+ "tooltip.pylons.no_block": "haiku",
+ "tooltip.pylons.protection": "haiku",
+ "tooltip.pylons.protection1": "haiku",
+ "tooltip.pylons.protection2": "haiku",
+ "tooltip.pylons.protection3": "haiku"
+}

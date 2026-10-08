@@ -1,0 +1,13 @@
+{
+ "tag.item.transmog.transmog_fuels": "變形燃料",
+ "transmog.config.disable_during_pvp_duration": "PvP 期間停用",
+ "transmog.config.disable_during_pvp_duration.label": "%d 秒",
+ "transmog.config.disable_during_pvp_duration.tooltip": "若你攻擊或被其他玩家攻擊，將暫時停止顯示變形外觀，持續設定的時間。設為 0 則忽略 PvP。",
+ "transmog.config.tooltip": "提示資訊詳細程度",
+ "transmog.config.tooltip.full": "完整",
+ "transmog.config.tooltip.full.tooltip": "在物品提示中加入其所變形成之外觀物品的原始提示。這是預設選項。",
+ "transmog.config.tooltip.minimal": "簡要",
+ "transmog.config.tooltip.minimal.tooltip": "在物品提示中加入其所變形成之外觀物品的名稱。",
+ "transmog.config.tooltip.none": "無",
+ "transmog.config.tooltip.none.tooltip": "完全不在物品提示中加入任何關於變形的資訊。"
+}

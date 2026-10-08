@@ -1,0 +1,6 @@
+{
+ "description": "預設介紹頁面",
+ "icon": "minecraft:writable_book",
+ "name": "介紹",
+ "sortnum": 1
+}

@@ -1,0 +1,29 @@
+{
+ "category": "mffs:getting_started",
+ "icon": "minecraft:lectern",
+ "name": "簡介",
+ "pages": [
+  {
+   "text": "$(l)模組化力場系統$()（簡稱 MFFS）是一個為 Minecraft 加入$(3)力場$()、$(5)高科技機械$()與$(6)防禦措施$()的模組。是否厭倦了核爆把你的房子炸掉，或想把人擋在你的秘密基地外？那就交給我們吧，$(l)我們全都幫你搞定！$()",
+   "type": "patchouli:text"
+  },
+  {
+   "border": true,
+   "images": [
+    "mffs:textures/gui/handbook/overview.png"
+   ],
+   "text": "MFFS 力場技術概覽",
+   "type": "patchouli:image"
+  },
+  {
+   "text": "力場可以用於許多用途，包括：$(li)把入侵者擋在家門外$(li)建造結構$(li)建立水下基地或氣閘$(li)消滅接近的生物$(li)將敵人困在陷阱中$(li)防禦彈道飛彈$(li)沒收玩家的物品$()",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "MFFS 也提供設定選項，可以$(3)移除其對電能的依賴$()，使其能在原版 Minecraft 中使用，或與其他模組搭配。MFFS 最常用於$(2)多人$()世界，但在$(2)單人$()遊戲中同樣能帶來許多好處。",
+   "type": "patchouli:text"
+  }
+ ],
+ "priority": true,
+ "sortnum": 0
+}

@@ -1,0 +1,18 @@
+{
+ "category": "productivebees:bees_worker",
+ "icon": "minecraft:red_dye",
+ "name": "染料蜂",
+ "pages": [
+  {
+   "text": "依其授粉的花朵產生染料。",
+   "title": "染料蜂",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:dye_bee",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true,
+ "sortnum": 6
+}

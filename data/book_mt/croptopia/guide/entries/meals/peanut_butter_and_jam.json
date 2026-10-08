@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:meals",
+ "icon": "croptopia:peanut_butter_and_jam",
+ "name": "花生醬果醬三明治",
+ "pages": [
+  {
+   "recipe": "croptopia:peanut_butter_and_jam",
+   "text": "花生醬果醬三明治配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

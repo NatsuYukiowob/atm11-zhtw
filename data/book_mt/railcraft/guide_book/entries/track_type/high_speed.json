@@ -1,0 +1,11 @@
+{
+ "category": "railcraft:track_type",
+ "icon": "railcraft:high_speed_track",
+ "name": "高速",
+ "pages": [
+  {
+   "text": "這種軌道與一般軌道略有不同。在這些鐵軌上行駛的車廂，只要沿直線前進，速度可達一般的2.5倍。此速度可在設定中調整。此外，若未先減速就試圖離開這些軌道，必定會發生爆炸。碰撞也很危險。更多資訊請參閱此處。",
+   "type": "patchouli:text"
+  }
+ ]
+}

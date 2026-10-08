@@ -1,0 +1,19 @@
+{
+ "category": "modularrouters:intro",
+ "icon": "modularrouters:augment_core",
+ "name": "強化",
+ "pages": [
+  {
+   "text": "$(thing)強化/$類似於$(l:intro/upgrades)升級/$，但是插入到$(l:intro/modules)模組/$中，而非$(l:intro/modular_router)模組化路由器/$中。每個模組有 4 個強化槽位（部分強化可以堆疊）。強化會以各種方式增強或擴充套件模組的功能。",
+   "type": "text"
+  },
+  {
+   "border": true,
+   "images": [
+    "modularrouters:textures/patchouli/augments.png"
+   ],
+   "text": "$(italic)一個帶有 6 個範圍提升強化與一個經驗吸取強化的吸取模組/$",
+   "type": "image"
+  }
+ ]
+}

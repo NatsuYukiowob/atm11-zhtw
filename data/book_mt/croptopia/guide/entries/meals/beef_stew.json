@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:meals",
+ "icon": "croptopia:beef_stew",
+ "name": "牛肉燉菜",
+ "pages": [
+  {
+   "recipe": "croptopia:shaped_beef_stew",
+   "text": "配方",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "category": "croptopia:ingredients",
+ "icon": "croptopia:salt",
+ "name": "鹽",
+ "pages": [
+  {
+   "text": "鹽會在河流與冰河河流生態域中少量生成。它們看起來像較白的沙。",
+   "type": "patchouli:text"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "category": "productivebees:bees_hive",
+ "icon": "minecraft:bone_meal",
+ "name": "骷髏蜂",
+ "pages": [
+  {
+   "anchor": "skeletal",
+   "text": "若蜂箱在黑暗中空置，將會搬入進階蜂箱。",
+   "title": "骷髏蜂",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:configurable_bee{type:'productivebees:skeletal'}",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true
+}

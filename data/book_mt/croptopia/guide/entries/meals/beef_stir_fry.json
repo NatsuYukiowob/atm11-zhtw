@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:meals",
+ "icon": "croptopia:beef_stir_fry",
+ "name": "炒牛肉",
+ "pages": [
+  {
+   "recipe": "croptopia:shaped_beef_stir_fry",
+   "text": "食譜",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

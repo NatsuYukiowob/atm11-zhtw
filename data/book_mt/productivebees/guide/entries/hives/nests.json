@@ -1,0 +1,16 @@
+{
+ "category": "productivebees:hives",
+ "icon": "productivebees:oak_wood_nest",
+ "name": "蜂窩",
+ "pages": [
+  {
+   "text": "蜂窩遍佈世界各地，每個蜂窩都是一隻獨居蜜蜂的家。破壞蜂窩時可以連同裡面的蜜蜂一起拾取，不需要絲綢之觸。要清除蜂窩中的蜜蜂和卵，只需將蜂窩與自身合成即可。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "空的蜂窩若放入一個或多個蜂蜜零食，就能吸引新蜜蜂。用蜂蜜零食右鍵點選即可開始重新繁殖冷卻計時。",
+   "type": "patchouli:text"
+  }
+ ],
+ "sortnum": 1
+}

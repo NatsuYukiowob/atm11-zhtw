@@ -1,0 +1,18 @@
+{
+ "category": "mffs:tools",
+ "icon": "mffs:frequency_card",
+ "name": "頻率卡",
+ "pages": [
+  {
+   "item": "mffs:frequency_card",
+   "link_recipe": true,
+   "text": "$(5)頻率卡$()可以儲存、記憶並產生用於與機器互動的頻率。將它放進機器的頻率槽即可設定其頻率。對任何機器使用時，會將該機器的頻率設為卡片上所設定的頻率。持著卡片並按住 Shift 右鍵，可以產生隨機頻率。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "mffs:frequency_card",
+   "text": "合成$(5)頻率卡$()。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

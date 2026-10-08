@@ -1,0 +1,16 @@
+{
+ "gui.refinedstorage.autocrafting_monitor.state.extracting_initial_resources": "正在提取初始資源",
+ "gui.refinedstorage.autocrafting_monitor.state.returning_internal_storage": "正在歸還內部儲存",
+ "gui.refinedstorage.autocrafting_preview.request_cancelled.too_many_subcomponents": "所需的子元件過多。",
+ "gui.refinedstorage.autocrafting_preview.style.tree": "樹狀",
+ "gui.refinedstorage.grid.drag_and_drop_to_pin": "拖曳以釘選",
+ "gui.refinedstorage.grid.pin_help": "拖曳以釘選。拖曳至釘選區域外即可取消釘選。",
+ "gui.refinedstorage.grid.resource_type.fluid": "流體",
+ "gui.refinedstorage.grid.resource_type.item": "物品",
+ "gui.refinedstorage.priority.storage_help.alt_click_to_modify_extract_priority": "按住 ALT 並點選以修改提取優先順序。",
+ "gui.refinedstorage.priority.storage_help.click_to_modify_insert_extract_priority": "點選以修改注入／提取優先順序。",
+ "gui.refinedstorage.priority.storage_help.cmd_click_to_modify_insert_priority": "按住 CMD 並點選以修改注入優先順序。",
+ "gui.refinedstorage.priority.storage_help.ctrl_click_to_modify_insert_priority": "按住 CTRL 並點選以修改注入優先順序。",
+ "item.refinedstorage.regulator_upgrade.cleared_configuration": "已清除設定。",
+ "misc.refinedstorage.no_permission.open": "你沒有許可權開啟 %s。"
+}

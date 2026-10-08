@@ -1,0 +1,18 @@
+{
+ "category": "productivebees:bees_worker",
+ "icon": "minecraft:milk_bucket",
+ "name": "牧場蜂",
+ "pages": [
+  {
+   "text": "會擠取附近乳牛、綿羊或駱馬的奶，在蜂窩中製造乳脂蜂窩。綿羊也會被剪毛。$(br2)這隻蜂的誕生讓許多乳牛受到了傷害。",
+   "title": "牧場蜂",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:rancher_bee",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true,
+ "sortnum": 2
+}

@@ -1,0 +1,12 @@
+{
+ "block.pylons.protection_pylon": "保護電塔",
+ "gui.pylons.protectedMobsAndBlocks": "加入要保護的生物或方塊：",
+ "item.pylons.block_filter": "方塊過濾器",
+ "pylons.int.jei.category.protection_pylon": "防止電塔擁有者在所選的區塊範圍（1x1 至 5x5 區塊）內破壞方塊或擊殺生物。\n加入生物過濾器與方塊過濾器以指定要保護的生物與方塊。\n\n可由紅石自動切換。\n",
+ "tooltip.pylons.effect_banned": "此效果已被標籤停用。",
+ "tooltip.pylons.no_block": "右鍵點選方塊以選取。",
+ "tooltip.pylons.protection": "用於保護電塔。",
+ "tooltip.pylons.protection1": "防止你不小心",
+ "tooltip.pylons.protection2": "破壞方塊或擊殺生物，",
+ "tooltip.pylons.protection3": "依據已設定的過濾器判定。"
+}

@@ -1,0 +1,16 @@
+{
+ "category": "railcraft:multiblock",
+ "icon": "railcraft:steam_oven",
+ "name": "蒸汽烤爐",
+ "pages": [
+  {
+   "text": "蒸汽烤爐是一座 2x2x2 的結構，只要供應蒸汽，就會幫您烹飪物品。它能在短短 256 刻（即 12.8 秒）內同時烹飪最多 9 件物品！",
+   "type": "patchouli:text"
+  },
+  {
+   "multiblock_id": "railcraft:steam_oven",
+   "name": "蒸汽烤爐",
+   "type": "patchouli:multiblock"
+  }
+ ]
+}

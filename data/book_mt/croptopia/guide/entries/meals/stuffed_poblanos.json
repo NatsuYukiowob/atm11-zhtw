@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:meals",
+ "icon": "croptopia:stuffed_poblanos",
+ "name": "釀波布拉諾辣椒",
+ "pages": [
+  {
+   "recipe": "croptopia:stuffed_poblanos",
+   "text": "食譜指南。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "category": "modularrouters:filters",
+ "icon": "modularrouters:bulk_item_filter",
+ "name": "大量物品過濾器",
+ "pages": [
+  {
+   "text": "此過濾器可高效比對最多 54 種不同物品，包括可選的 NBT 比對。大量物品過濾器可以用幾種方式設定：$(p)$(li)對任何容器$(thing)潛行+右鍵點選/$過濾器，可將該容器內容物的副本合併到過濾器中。",
+   "type": "text"
+  },
+  {
+   "text": "$(li)$(thing)右鍵點選/$過濾器可開啟介面，顯示目前過濾器中的物品。你可以在這裡加入（幽靈副本）物品到過濾器、點選物品將其移除，或按下紅色的$(bold)$(4)X/$按鈕完全清空過濾器。",
+   "type": "text"
+  },
+  {
+   "text": "$(li)當過濾器位於路由器的某個模組中時，可以用中鍵點選它，或在其上按下$(bold)$(4)[$(k:modularrouters.configure)]/$來開啟過濾器介面。$(p)$(bold)若/$模組已設定有效的目標容器，介面上會出現兩個額外按鈕：綠色的$(bold)$(2)+/$按鈕可$(italic)合併/$目標容器的物品，藍色的$(bold)$(1)=/$按鈕可$(italic)載入/$目標容器的物品（覆蓋過濾器目前的內容）。",
+   "type": "text"
+  },
+  {
+   "text": "最後這種設定方式與$(l:modules/sender_2)傳送模組/$搭配特別實用，可用來建立分類系統，因為即使目標容器之後被清空，大量物品過濾器仍會記得該容器應有的物品。",
+   "type": "text"
+  },
+  {
+   "recipe": "modularrouters:bulk_item_filter",
+   "type": "crafting"
+  }
+ ]
+}

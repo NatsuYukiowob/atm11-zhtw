@@ -1,0 +1,18 @@
+{
+ "category": "mffs:upgrade_modules",
+ "icon": "mffs:speed_module",
+ "name": "速度模組",
+ "pages": [
+  {
+   "item": "mffs:speed_module",
+   "link_recipe": true,
+   "text": "$(5)速度模組$()可放入多種MFFS機器的升級槽，以提升其效能。效果因機器而異，但最常見的包括：$(li)加快力場投射速度$(li)提高$(l:mffs:machines/fortron_capacitor)Fortron Capacitor$()的$(l:mffs:getting_started/fortron)Fortron$()傳輸上限$(li)提高$(l:mffs:machines/coercion_deriver)強制匯出器$()的效率",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "mffs:speed_module",
+   "text": "合成$(5)速度模組$()。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

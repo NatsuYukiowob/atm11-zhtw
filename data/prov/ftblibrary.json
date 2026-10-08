@@ -1,0 +1,9 @@
+{
+ "dimension.hyperbox.hyperbox": "haiku",
+ "ftblibrary.select_entity.animals": "haiku",
+ "ftblibrary.select_entity.hostiles": "haiku",
+ "ftblibrary.select_entity.neutrals": "haiku",
+ "ftblibrary.select_item.list_mode.emi": "haiku",
+ "ftblibrary.select_item.list_mode.jei": "haiku",
+ "ftblibrary.select_item.list_mode.rei": "haiku"
+}

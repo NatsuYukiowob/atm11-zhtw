@@ -1,0 +1,19 @@
+{
+ "category": "modularrouters:filters",
+ "icon": "modularrouters:mod_filter",
+ "name": "模組來源過濾器",
+ "pages": [
+  {
+   "text": "此過濾器可依物品所屬的模組來比對物品。每個已安裝的過濾器最多可加入 6 個模組。$(li)$(thing)右鍵點選/$過濾器可開啟其介面（或在已安裝於模組中的過濾器上$(thing)中鍵點選/$，或按下$(bold)$(4)[$(k:modularrouters.configure)]/$）。",
+   "type": "text"
+  },
+  {
+   "text": "$(li)將任何物品放入介面左上角的物品槽中，該物品的模組名稱會顯示在右側。點選$(bold)$(2)+/$按鈕可將其加入下方的模組清單。$(li)點選某專案旁的紅色$(bold)$(4)X/$按鈕可將該模組從清單中移除。$(p)原版物品也可以加入，其「模組」會顯示為$(italic)Minecraft/$。",
+   "type": "text"
+  },
+  {
+   "recipe": "modularrouters:mod_filter",
+   "type": "crafting"
+  }
+ ]
+}

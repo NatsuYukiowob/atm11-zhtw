@@ -1,0 +1,18 @@
+{
+ "category": "productivebees:bees_hive",
+ "icon": "minecraft:gunpowder",
+ "name": "苦力怕蜂",
+ "pages": [
+  {
+   "anchor": "creeper",
+   "text": "將一個TNT方塊餵給原版蜜蜂即可獲得。",
+   "title": "苦力怕蜂",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:creeper_bee",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true
+}

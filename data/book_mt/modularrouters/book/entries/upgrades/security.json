@@ -1,0 +1,35 @@
+{
+ "category": "modularrouters:upgrades",
+ "icon": "modularrouters:security_upgrade",
+ "name": "安全升級",
+ "pages": [
+  {
+   "text": "$(thing)安全升級/$具有數項重要功能，詳見後續頁面。",
+   "type": "text"
+  },
+  {
+   "text": "安裝了安全升級的路由器$(italic)只能/$被該升級白名單中的玩家開啟。此升級並不能防止路由器被破壞；但由於升級與模組會留在被破壞的路由器中，玩家無法靠破壞路由器來偷取模組／升級，或重新設定路由器。若你想防止路由器被破壞，可以考慮其他模組的方塊保護功能。",
+   "title": "保護",
+   "type": "text"
+  },
+  {
+   "text": "當$(l:modules/activator)啟動器模組/$處於$(thing)攻擊模式/$時，它會忽略路由器中安裝的安全升級所列出的白名單玩家。若你的路由器裡放了高傷害武器，這通常是個好主意，可以避免不必要的慘劇……",
+   "title": "啟動器攻擊模式",
+   "type": "text"
+  },
+  {
+   "anchor": "override",
+   "item": "modularrouters:override_card",
+   "text": "$(li)有一種無法合成的物品，稱為$(thing)安全覆寫卡/$，可在創造模式取得，或透過 JEI 等方式作弊取得。玩家若任一手持有此卡，便不受任何安全升級影響，且可存取任何路由器。",
+   "type": "spotlight"
+  },
+  {
+   "text": "你可以用慣用手持有升級的狀態$(thing)右鍵點選/$玩家，將其加入安全升級。$(p)你也可以$(thing)潛行右鍵點選/$玩家，將其從安全升級中移除。$(p)每個安全升級最多可額外加入 6 名玩家（包含建立者在內共 7 人），但若有需要，你可以在一座路由器中安裝一個以上的安全升級。",
+   "type": "text"
+  },
+  {
+   "recipe": "modularrouters:security_upgrade",
+   "type": "crafting"
+  }
+ ]
+}

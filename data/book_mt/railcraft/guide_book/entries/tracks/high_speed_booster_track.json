@@ -1,0 +1,11 @@
+{
+ "category": "railcraft:tracks",
+ "icon": "railcraft:high_speed_booster_track",
+ "name": "高速增速軌道",
+ "pages": [
+  {
+   "text": "通電時，這些鐵軌會將車廂加速到高速；斷電時則會將車廂減速，並維持正常礦車的速度。$(br2)你需要用這些軌道或高速過渡軌道，才能達到高速軌道允許的最高速度。",
+   "type": "patchouli:text"
+  }
+ ]
+}

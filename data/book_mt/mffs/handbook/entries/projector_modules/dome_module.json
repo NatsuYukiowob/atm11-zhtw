@@ -1,0 +1,18 @@
+{
+ "category": "mffs:projector_modules",
+ "icon": "mffs:dome_module",
+ "name": "圓頂模組",
+ "pages": [
+  {
+   "item": "mffs:dome_module",
+   "link_recipe": true,
+   "text": "$(5)圓頂模組$()可以放入$(l:mffs:machines/projector)力場投影機$()的矩陣格中，將投影機 Y 座標以下的所有投射方塊切除，形成圓頂形狀。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "mffs:dome_module",
+   "text": "製作$(5)圓頂模組$()。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

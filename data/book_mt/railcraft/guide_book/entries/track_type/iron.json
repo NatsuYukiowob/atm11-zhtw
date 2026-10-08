@@ -1,0 +1,11 @@
+{
+ "category": "railcraft:track_type",
+ "icon": "minecraft:rail",
+ "name": "鐵製",
+ "pages": [
+  {
+   "text": "標準軌道基本上等同於原版Minecraft的鐵軌。它們由正常鐵軌和木製鐵軌基座建成。不過，與Railcraft其他柔性軌道一樣，它們可以加裝軌道套件。",
+   "type": "patchouli:text"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "category": "modularrouters:augments",
+ "icon": "modularrouters:pushing_augment",
+ "name": "推動增強",
+ "pages": [
+  {
+   "text": "此增強只能加到$(l:modules/extruder_1)擠出模組 Mk1/$與$(l:modules/extruder_2)擠出模組 Mk2/$。$(p)可以疊加；每個增強都會增加模組擠出方塊時推開實體的力道。",
+   "type": "text"
+  },
+  {
+   "recipe": "modularrouters:pushing_augment",
+   "type": "crafting"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "category": "mffs:interdiction_modules",
+ "icon": "mffs:block_access_module",
+ "name": "方塊存取模組",
+ "pages": [
+  {
+   "item": "mffs:block_access_module",
+   "link_recipe": true,
+   "text": "$(5)方塊存取模組$()是$(l:mffs:machines/interdiction_matrix)禁制矩陣$()的選配模組。它能讓矩陣阻止玩家對方塊按右鍵並開啟其 GUI 介面。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "mffs:block_access_module",
+   "text": "合成$(5)方塊存取模組().",
+   "type": "patchouli:crafting"
+  },
+  {
+   "text": "如果未經授權的玩家嘗試對位於禁制矩陣作用範圍內（且裝有$(5)方塊存取模組$()）的方塊或機器按右鍵，將無法開啟其 GUI。一如預期，作用範圍之外的方塊或機器仍可正常使用。",
+   "title": "運作方式",
+   "type": "patchouli:text"
+  }
+ ]
+}

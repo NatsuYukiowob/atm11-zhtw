@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:snacks",
+ "icon": "croptopia:oatmeal",
+ "name": "燕麥粥",
+ "pages": [
+  {
+   "recipe": "croptopia:oatmeal",
+   "text": "燕麥粥的製作配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

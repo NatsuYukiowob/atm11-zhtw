@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:desserts",
+ "icon": "croptopia:apple_pie",
+ "name": "蘋果派",
+ "pages": [
+  {
+   "recipe": "croptopia:apple_pie",
+   "text": "蘋果派的配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

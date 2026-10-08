@@ -1,0 +1,23 @@
+{
+ "gui.sfm.facade_confirm_apply.message": "haiku",
+ "gui.sfm.label_gun.label_button": "haiku",
+ "gui.sfm.manager.button.discord": "haiku",
+ "gui.sfm.program_editor_config.preferred_editor.v2": "haiku",
+ "gui.sfm.remove_active_label_confirm.message": "haiku",
+ "gui.sfm.remove_all_labels_confirm.message": "haiku",
+ "key.sfm.label_gun.open_gui": "haiku",
+ "log.sfm.cable_network.body": "haiku",
+ "log.sfm.cable_network.footer": "haiku",
+ "log.sfm.label_position_holder.body": "haiku",
+ "log.sfm.label_position_holder.footer": "haiku",
+ "log.sfm.program.voided_resources": "haiku",
+ "log.sfm.statement.tick.forget": "haiku",
+ "log.sfm.statement.tick.if.false": "haiku",
+ "log.sfm.statement.tick.if.true": "haiku",
+ "log.sfm.statement.tick.input": "haiku",
+ "log.sfm.statement.tick.io.move_to.extracted": "haiku",
+ "log.sfm.statement.tick.io.move_to.zero_simulated_movement": "haiku",
+ "log.sfm.statement.tick.output": "haiku",
+ "program.sfm.error.literal": "haiku",
+ "program.sfm.warnings.unused_input_label": "haiku"
+}

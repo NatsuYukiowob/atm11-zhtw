@@ -1,0 +1,33 @@
+{
+ "category": "mffs:interdiction_modules",
+ "icon": "mffs:confiscation_module",
+ "name": "沒收模組",
+ "pages": [
+  {
+   "item": "mffs:confiscation_module",
+   "link_recipe": true,
+   "text": "$(5)沒收模組$()是$(l:mffs:machines/interdiction_matrix)干涉矩陣$()的選配模組，可讓矩陣自動從玩家身上取走物品。若玩家位於干涉矩陣的作用範圍內，矩陣會掃描玩家的物品欄並沒收其中任何被禁止的物品。無論物品是被持有、穿戴還是存放在物品欄中，皆適用此規則。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "mffs:confiscation_module",
+   "text": "合成$(5)沒收模組$()。",
+   "type": "patchouli:crafting"
+  },
+  {
+   "text": "過濾模式設定以及沿著$(l:mffs:machines/interdiction_matrix)干涉矩陣$()GUI 底部排列的 9 個相關欄位，用於設定此模組的行為。過濾模式設定有兩種狀態：禁止（預設）與允許。$(br2)被沒收的物品會收集到與$(l:mffs:machines/interdiction_matrix)干涉矩陣$()相鄰的物品欄中。",
+   "title": "過濾模式",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "當切換按鈕顯示「禁止」時，$(l:mffs:machines/interdiction_matrix)干涉矩陣$()會將 9 個（紅色）欄位視為必須沒收的禁止物品清單。只有這些物品會被取走，玩家仍可保留其他任何物品。若 9 個物品欄位全部為空，矩陣則會將玩家的所有物品都視為需要沒收。",
+   "title": "禁止",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "若切換按鈕顯示「允許」，矩陣會將 9 個（綠色）欄位視為玩家可以保留的物品清單。任何其他物品都會被沒收。當 9 個欄位全部為空時，$(l:mffs:machines/interdiction_matrix)干涉矩陣$()會判定所有物品皆被允許，因此不會沒收任何東西。",
+   "title": "允許",
+   "type": "patchouli:text"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "category": "modularrouters:modules",
+ "icon": "modularrouters:energy_output_module",
+ "name": "能量輸出模組",
+ "pages": [
+  {
+   "text": "此模組會將路由器中的 FE（Forge Energy）依其設定的方向輸出到相鄰的可接收能量方塊。模組可以從路由器的內部能量緩衝區（若已安裝任何$(l:upgrades/energy)能量升級/$）或路由器物品緩衝區中的含能量物品抽取能量。會優先使用內部能量緩衝區。",
+   "type": "text"
+  },
+  {
+   "recipe": "modularrouters:energy_output_module",
+   "type": "crafting"
+  }
+ ]
+}

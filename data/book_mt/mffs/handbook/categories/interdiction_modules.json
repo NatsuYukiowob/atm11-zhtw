@@ -1,0 +1,6 @@
+{
+ "description": "可用於你的攔截矩陣的升級模組。",
+ "icon": "mffs:anti_hostile_module",
+ "name": "攔截模組",
+ "sortnum": 5
+}

@@ -1,0 +1,15 @@
+{
+ "category": "modularrouters:upgrades",
+ "icon": "modularrouters:blast_upgrade",
+ "name": "爆炸升級",
+ "pages": [
+  {
+   "text": "此升級可使路由器完全免疫爆炸傷害，也不會被首領類生物摧毀。",
+   "type": "text"
+  },
+  {
+   "recipe": "modularrouters:blast_upgrade",
+   "type": "crafting"
+  }
+ ]
+}

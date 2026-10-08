@@ -1,0 +1,8 @@
+{
+ "config.jade.plugin_balm.jade": "Balm",
+ "gui.balm.configuration.edit": "編輯",
+ "gui.balm.configuration.title": "%s...",
+ "gui.balm.configuration.validation.negative_infinity": "-inf",
+ "gui.balm.configuration.validation.positive_infinity": "+inf",
+ "gui.balm.configuration.validation.range": "範圍：%s 至 %s"
+}

@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:desserts",
+ "icon": "croptopia:banana_nut_bread",
+ "name": "香蕉堅果麵包",
+ "pages": [
+  {
+   "recipe": "croptopia:banana_nut_bread",
+   "text": "香蕉堅果麵包的配方（製作中）。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

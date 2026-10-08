@@ -1,0 +1,12 @@
+{
+ "category": "productivebees:blocks",
+ "icon": "productivebees:advanced_oak_beehive",
+ "name": "進階蜂箱",
+ "pages": [
+  {
+   "item": "productivebees:advanced_oak_beehive",
+   "text": "$(l:hives/advanced_hives)請參閱關於進階蜂箱的章節$(/l)。",
+   "type": "patchouli:spotlight"
+  }
+ ]
+}

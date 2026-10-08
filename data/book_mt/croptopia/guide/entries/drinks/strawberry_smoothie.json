@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:drinks",
+ "icon": "croptopia:strawberry_smoothie",
+ "name": "草莓冰沙",
+ "pages": [
+  {
+   "recipe": "croptopia:strawberry_smoothie",
+   "text": "草莓冰沙的合成配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

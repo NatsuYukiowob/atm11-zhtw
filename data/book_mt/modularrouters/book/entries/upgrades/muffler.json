@@ -1,0 +1,19 @@
+{
+ "category": "modularrouters:upgrades",
+ "icon": "modularrouters:muffler_upgrade",
+ "name": "消音升級",
+ "pages": [
+  {
+   "text": "此升級可用來抑制物品路由器發出的音效與粒子密度，若有吵鬧的模組經常在玩家常待的地方運作，它就很有用。$(li)路由器中安裝一個或以上的消音升級，將停用所有音效$(li)兩個或以上還會停用所有粒子密度（光束與飛行中的物品）",
+   "type": "text"
+  },
+  {
+   "text": "$(li)三個升級還會停用路由器的運作動畫，即路由器方塊正面會閃爍的材質$(p)請注意，所有音效與粒子密度也可以在模組設定中停用；只有在音效／效果未被停用時，此升級才有用。",
+   "type": "text"
+  },
+  {
+   "recipe": "modularrouters:muffler_upgrade",
+   "type": "crafting"
+  }
+ ]
+}

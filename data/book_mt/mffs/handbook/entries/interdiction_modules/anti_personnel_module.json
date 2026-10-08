@@ -1,0 +1,18 @@
+{
+ "category": "mffs:interdiction_modules",
+ "icon": "mffs:anti_personnel_module",
+ "name": "玩家剋制模組",
+ "pages": [
+  {
+   "item": "mffs:anti_personnel_module",
+   "link_recipe": true,
+   "text": "$(5)玩家剋制模組$()是$(l:mffs:machines/interdiction_matrix)干涉矩陣$()的選配模組。安裝此模組後，矩陣會自動偵測進入其作用範圍的未授權玩家，並在瞬間將其擊殺。友善與敵對生物則不會受到傷害。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "mffs:anti_personnel_module",
+   "text": "合成$(5)玩家剋制模組$()。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:ingredients",
+ "icon": "croptopia:milk_bottle",
+ "name": "牛奶瓶",
+ "pages": [
+  {
+   "recipe": "croptopia:shaped_milk_bottle",
+   "text": "牛奶瓶的合成配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

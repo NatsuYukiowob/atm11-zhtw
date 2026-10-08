@@ -1,0 +1,11 @@
+{
+ "category": "railcraft:tools",
+ "icon": "railcraft:charge_meter",
+ "name": "電荷計",
+ "pages": [
+  {
+   "text": "電荷計是 Railcraft 的工具，用來測量各種使用或傳輸 Railcraft 電荷的機器、電線或軌道的電荷量，包括電力機車、電力饋送單元與各種電力軌道。它會記錄 5 秒期間的網路用量。",
+   "type": "patchouli:text"
+  }
+ ]
+}

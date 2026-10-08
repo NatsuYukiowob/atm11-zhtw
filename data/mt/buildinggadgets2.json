@@ -1,0 +1,6 @@
+{
+ "buildinggadgets2.messages.redprintgivefail": "無法將藍圖 %s 給予 %s",
+ "buildinggadgets2.messages.redprintremovesuccess": "已成功刪除藍圖：%s",
+ "item.buildinggadgets2.template_manager": "樣板管理器",
+ "key.category.buildinggadgets2.main": "Building Gadgets 2"
+}

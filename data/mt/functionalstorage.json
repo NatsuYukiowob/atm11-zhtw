@@ -1,0 +1,9 @@
+{
+ "block.functionalstorage.pale_oak_1": "淡橡木抽屜（1x1）",
+ "block.functionalstorage.pale_oak_2": "淡橡木抽屜（1x2）",
+ "block.functionalstorage.pale_oak_4": "淡橡木抽屜（2x2）",
+ "gui.functionalstorage.fluid_drawer_hint": "流體抽屜",
+ "gui.functionalstorage.fluid_drawer_hint.empty": "%s：將容器內容物倒入抽屜",
+ "gui.functionalstorage.fluid_drawer_hint.fill": "%s：從抽屜裝填容器",
+ "gui.functionalstorage.priority": "優先順序"
+}

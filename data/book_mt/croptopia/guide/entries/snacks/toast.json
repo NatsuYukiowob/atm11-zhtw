@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:snacks",
+ "icon": "croptopia:toast",
+ "name": "吐司",
+ "pages": [
+  {
+   "recipe": "croptopia:toast_from_bread",
+   "text": "吐司的製作配方。",
+   "type": "patchouli:smelting"
+  }
+ ]
+}

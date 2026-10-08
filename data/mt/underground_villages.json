@@ -1,0 +1,9 @@
+{
+ "text.autoconfig.underground_villages.option.generation": "生成",
+ "text.autoconfig.underground_villages.option.generation.yLevel": "Y 高度",
+ "text.autoconfig.underground_villages.title": "地下村莊",
+ "underground_villages.configuration.Generation": "生成",
+ "underground_villages.configuration.Generation.tooltip": "生成設定",
+ "underground_villages.configuration.yLevel": "Y 高度",
+ "underground_villages.configuration.yLevel.tooltip": "村莊嘗試生成的 Y 高度"
+}

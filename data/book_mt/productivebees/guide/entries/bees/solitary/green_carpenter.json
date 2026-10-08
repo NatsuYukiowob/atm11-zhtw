@@ -1,0 +1,19 @@
+{
+ "category": "productivebees:bees_solitary",
+ "icon": "productivebees:spawn_egg_green_carpenter_bee",
+ "name": "綠木蜂",
+ "pages": [
+  {
+   "anchor": "green_carpenter",
+   "text": "[Xylocopa aerata]",
+   "title": "綠木蜂",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:green_carpenter_bee",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true,
+ "sortnum": 3
+}

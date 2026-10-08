@@ -1,0 +1,162 @@
+{
+ "category": "productivebees:items",
+ "icon": "productivelib:upgrade_base",
+ "name": "升級",
+ "pages": [
+  {
+   "item": "productivelib:upgrade_base",
+   "text": "升級模組可放入機器和蜂箱中，以提升其功能或改善效能",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "productivelib:upgrades/base_pb",
+   "text": "所有其他升級的基礎。",
+   "type": "patchouli:crafting"
+  },
+  {
+   "anchor": "babee",
+   "recipe": "productivelib:upgrades/child",
+   "text": "",
+   "type": "patchouli:crafting"
+  },
+  {
+   "text": "安裝在蜂箱中時，BaBee 升級會讓蜂箱內的蜜蜂有小機率在你不介入的情況下繁殖並產下後代。注意，無法正常繁殖的蜜蜂無法與此升級搭配使用。$(br)安裝在$(l:blocks/catcher)捕捉器$(/l)中時，只會捕捉 BaBee 並裝入蜂籠。",
+   "type": "patchouli:text"
+  },
+  {
+   "anchor": "productivity",
+   "recipe": "productivelib:upgrades/productivity",
+   "text": "",
+   "type": "patchouli:crafting"
+  },
+  {
+   "text": "安裝在蜂箱中時，產量升級會增加蜜蜂每趟產出的蜂窩梳數量。可安裝多個產量升級。",
+   "type": "patchouli:text"
+  },
+  {
+   "anchor": "speed",
+   "recipe": "productivelib:upgrades/time",
+   "text": "",
+   "type": "patchouli:crafting"
+  },
+  {
+   "text": "安裝在蜂箱中時，速度升級會縮短蜜蜂在蜂箱內的停留時間。$(br)安裝在$(l:blocks/centrifuge)離心機$(/l)或$(l:blocks/incubator)孵化器$(/l)中時，會提升其運作速度",
+   "type": "patchouli:text"
+  },
+  {
+   "anchor": "filter",
+   "recipe": "productivelib:upgrades/filter",
+   "text": "",
+   "type": "patchouli:crafting"
+  },
+  {
+   "text": "對蜜蜂右鍵點選即可將其加入過濾器。將過濾器放入合成格即可清空。安裝在蜂箱中時，只允許過濾器中指定的蜜蜂進入。$(br)安裝在捕捉器中時，只會捕捉過濾器中指定的蜜蜂。",
+   "type": "patchouli:text"
+  },
+  {
+   "anchor": "range",
+   "recipe": "productivelib:upgrades/range",
+   "text": "",
+   "type": "patchouli:crafting"
+  },
+  {
+   "text": "安裝在蜂箱中時，採集者與囤積者蜜蜂的作業範圍會增加，每個升級增加 1 格（預設為 4 格）。安裝在捕捉器中時，範圍升級會讓作業區域在各方向擴大 1 格。可安裝多個範圍升級。",
+   "type": "patchouli:text"
+  },
+  {
+   "anchor": "anti_teleport",
+   "recipe": "productivelib:upgrades/anti_teleport",
+   "text": "",
+   "type": "patchouli:crafting"
+  },
+  {
+   "text": "安裝在蜂箱中時，能傳送的蜜蜂在蜂箱中居住時將不再傳送。",
+   "type": "patchouli:text"
+  },
+  {
+   "anchor": "sampler",
+   "recipe": "productivelib:upgrades/gene_sampler",
+   "text": "",
+   "type": "patchouli:crafting"
+  },
+  {
+   "text": "安裝在蜂箱中時，每次拜訪都會抽取一小份授粉蜜蜂的樣本。這不會對蜜蜂造成任何傷害。同一蜂箱可安裝多個以提高速率。",
+   "type": "patchouli:text"
+  },
+  {
+   "anchor": "comb_block",
+   "recipe": "productivelib:upgrades/block",
+   "text": "",
+   "type": "patchouli:crafting"
+  },
+  {
+   "text": "安裝在蜂箱中時，蜜蜂將產出完整的蜂窩梳方塊，而非蜂窩梳。",
+   "type": "patchouli:text"
+  },
+  {
+   "anchor": "simulator",
+   "recipe": "productivelib:upgrades/simulator",
+   "text": "",
+   "type": "patchouli:crafting"
+  },
+  {
+   "text": "安裝在蜂箱中時，蜜蜂將不再離開蜂箱，其採花行程會改為模擬計算，以提升伺服器效能。蜜蜂的花朵方塊或放有花朵方塊的餵食板必須放在蜂箱正下方，不可擋住正面。",
+   "type": "patchouli:text"
+  },
+  {
+   "enable_visualize": false,
+   "multiblock": {
+    "mapping": {
+     "E": "productivebees:expansion_box_oak[expanded=up]",
+     "F": "productivebees:feeder[type=top]",
+     "H": "productivebees:advanced_oak_beehive[expanded=up]"
+    },
+    "offset": [
+     0,
+     1,
+     0
+    ],
+    "pattern": [
+     [
+      " E"
+     ],
+     [
+      " H"
+     ],
+     [
+      "F0"
+     ]
+    ]
+   },
+   "name": "模擬蜂箱",
+   "type": "multiblock"
+  },
+  {
+   "enable_visualize": false,
+   "multiblock": {
+    "mapping": {
+     "E": "productivebees:expansion_box_oak[expanded=left,facing=east]",
+     "F": "minecraft:iron_block",
+     "H": "productivebees:advanced_oak_beehive[expanded=left,facing=east]"
+    },
+    "offset": [
+     0,
+     1,
+     0
+    ],
+    "pattern": [
+     [
+      "HE",
+      "  "
+     ],
+     [
+      "0 ",
+      "F "
+     ]
+    ]
+   },
+   "name": "模擬蜂箱",
+   "type": "multiblock"
+  }
+ ]
+}

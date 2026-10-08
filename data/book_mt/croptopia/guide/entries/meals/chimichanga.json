@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:meals",
+ "icon": "croptopia:chimichanga",
+ "name": "墨西哥炸捲餅",
+ "pages": [
+  {
+   "recipe": "croptopia:chimichanga",
+   "text": "食譜指南。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

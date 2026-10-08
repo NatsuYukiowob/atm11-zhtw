@@ -1,0 +1,6 @@
+{
+ "description": "蜂窩蜜蜂與原版蜜蜂一樣，住在蜂窩中，並產出蜂蜜與資源。它們必須居住在$(l:hives/advanced_hives)進階蜂窩$(/l)中才能產出資源蜂脾。大多數蜂窩蜜蜂是由獨居蜂與其他蜂窩蜜蜂培育而來，但也有些是透過餵食特定物品給蜜蜂，或合成生怪蛋取得。所有蜜蜂的配方與花朵需求都可以在 JEI 中找到。",
+ "icon": "productivebees:adv_breed_bee",
+ "name": "蜂窩蜜蜂",
+ "parent": "productivebees:bees"
+}

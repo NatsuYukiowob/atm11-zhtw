@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:drinks",
+ "icon": "croptopia:limeade",
+ "name": "萊姆水",
+ "pages": [
+  {
+   "recipe": "croptopia:limeade",
+   "text": "萊姆水的合成配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

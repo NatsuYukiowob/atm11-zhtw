@@ -1,0 +1,19 @@
+{
+ "category": "productivebees:misc",
+ "icon": "productivelib:upgrade_time",
+ "name": "效能",
+ "pages": [
+  {
+   "text": "部分模組內容若設定不當可能非常耗費資源。本節將提供一些建議，讓你在不拖慢電腦的情況下充分利用蜜蜂。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "蜜蜂在世界中是實體而非單純的方塊或物品，本身就會消耗較多資源。實體最耗資源的部分是蜜蜂的尋路與 AI，而蜜蜂在這方面表現並不理想。為避免不必要的 AI 運算，請確保所有蜜蜂都有居所和所需的花朵方塊。同時請將蜜蜂關在不要太大的圍欄內，否則它們會開始亂飛。另外，你也可以在蜂箱中使用模擬升級，讓蜜蜂實體不必存在於世界中。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "另一個資源大戶可能是離心機的蜂窩梳顯示。若有大量離心機同幸運作，建議關閉蜂窩梳顯示。此選項位於 config/productivebees-client.toml 中。",
+   "type": "patchouli:text"
+  }
+ ]
+}

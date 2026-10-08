@@ -1,0 +1,19 @@
+{
+ "category": "modularrouters:intro",
+ "icon": "modularrouters:bulk_item_filter",
+ "name": "智慧過濾器",
+ "pages": [
+  {
+   "text": "$(thing)智慧過濾器/$可以放入$(l:intro/modules)模組/$的過濾槽中，取代一般物品。過濾器不只是直接比對物品本身，而是具有特殊的比對功能。$(p)例如，$(l:filters/bulk_item)大量物品過濾器/$可高效比對最多 54 種不同物品，並且可以從現有的容器中設定其物品。",
+   "type": "text"
+  },
+  {
+   "border": true,
+   "images": [
+    "modularrouters:textures/patchouli/bulk_filter.png"
+   ],
+   "text": "$(italic)安裝在 Puller Mk2 模組中的大量物品過濾器/$",
+   "type": "image"
+  }
+ ]
+}

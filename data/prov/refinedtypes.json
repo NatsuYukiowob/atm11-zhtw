@@ -1,0 +1,18 @@
+{
+ "block.refinedtypes.creative_energy_storage_block": "haiku",
+ "block.refinedtypes.creative_soul_storage_block": "haiku",
+ "block.refinedtypes.creative_source_storage_block": "haiku",
+ "block.refinedtypes.network_energizer": "haiku",
+ "gui.refinedtypes.network_energizer.redstone_mode_help": "haiku",
+ "item.refinedtypes.creative_energy_storage_block.help": "haiku",
+ "item.refinedtypes.creative_energy_storage_disk": "haiku",
+ "item.refinedtypes.creative_energy_storage_disk.help": "haiku",
+ "item.refinedtypes.creative_soul_storage_block.help": "haiku",
+ "item.refinedtypes.creative_soul_storage_disk": "haiku",
+ "item.refinedtypes.creative_soul_storage_disk.help": "haiku",
+ "item.refinedtypes.creative_source_storage_block.help": "haiku",
+ "item.refinedtypes.creative_source_storage_disk": "haiku",
+ "item.refinedtypes.creative_source_storage_disk.help": "haiku",
+ "item.refinedtypes.network_energizer.help": "haiku",
+ "item.refinedtypes.soul.help": "haiku"
+}

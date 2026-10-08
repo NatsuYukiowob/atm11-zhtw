@@ -1,0 +1,13 @@
+{
+ "category": "productivetrees:treetap",
+ "flag": "mod:treetap",
+ "icon": "productivetrees:date_palm_juice",
+ "name": "椰棗棕櫚汁",
+ "pages": [
+  {
+   "item": "productivetrees:date_palm_juice",
+   "text": "椰棗棕櫚的樹幹汁液豐富，好好利用它吧。",
+   "type": "patchouli:spotlight"
+  }
+ ]
+}

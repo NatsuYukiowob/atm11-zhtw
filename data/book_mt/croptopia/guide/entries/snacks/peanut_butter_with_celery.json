@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:snacks",
+ "icon": "croptopia:peanut_butter_with_celery",
+ "name": "芹菜花生醬",
+ "pages": [
+  {
+   "recipe": "croptopia:shaped_peanut_butter_with_celery",
+   "text": "配方",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "category": "railcraft:signal_boxes",
+ "icon": "railcraft:analog_signal_controller_box",
+ "name": "類比訊號控制箱",
+ "pages": [
+  {
+   "text": "類比訊號控制箱與先前版本的控制箱一樣會發出訊號，但它不會只在供電時發出一種訊號、斷電時發出另一種訊號。它會根據接收到的電力強度發出對應的訊號類型。您可以在介面中設定，例如紅石電力為 5 時發出綠色、為 0 時發出紅色，而電力為 15 時則關閉。",
+   "type": "patchouli:text"
+  }
+ ]
+}

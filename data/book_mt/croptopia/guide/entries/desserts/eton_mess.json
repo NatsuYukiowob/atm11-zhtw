@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:desserts",
+ "icon": "croptopia:eton_mess",
+ "name": "伊頓混合甜點",
+ "pages": [
+  {
+   "recipe": "croptopia:shaped_eton_mess",
+   "text": "伊頓混合甜點的配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

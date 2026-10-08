@@ -1,0 +1,6 @@
+{
+ "description": "升級可安裝在模組化路由器中，用以強化或修改其功能。",
+ "icon": "modularrouters:speed_upgrade",
+ "name": "升級",
+ "sortnum": 3
+}

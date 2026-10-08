@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:desserts",
+ "icon": "croptopia:sticky_toffee_pudding",
+ "name": "焦糖黏布丁",
+ "pages": [
+  {
+   "recipe": "croptopia:shaped_sticky_toffee_pudding",
+   "text": "焦糖黏布丁的合成配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

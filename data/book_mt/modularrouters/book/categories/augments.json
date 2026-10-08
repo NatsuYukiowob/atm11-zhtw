@@ -1,0 +1,6 @@
+{
+ "description": "模組增強可安裝在模組中，用以強化或擴充其功能",
+ "icon": "modularrouters:xp_vacuum_augment",
+ "name": "增強",
+ "sortnum": 4
+}

@@ -1,0 +1,18 @@
+{
+ "category": "productivetrees:stuff",
+ "flag": "!mod:productivebees",
+ "icon": "productivetrees:pollen_sifter",
+ "name": "花粉篩取器",
+ "pages": [
+  {
+   "item": "productivetrees:pollen_sifter",
+   "text": "從樹葉中提取花粉。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "productivetrees:pollen_sifter",
+   "text": "",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

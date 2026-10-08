@@ -1,0 +1,36 @@
+{
+ "category": "mffs:projector_modes",
+ "icon": "mffs:pyramid_mode",
+ "name": "金字塔模式",
+ "pages": [
+  {
+   "item": "mffs:pyramid_mode",
+   "link_recipe": true,
+   "text": "預設情況下，$(2)金字塔模式$()會讓投影機產生類似金字塔的力場形狀。此形狀的厚度取決於其大小。每個$(l:mffs:upgrade_modules/scale_module)$(5)縮放模組$()會使力場在各個方上增加 1 格大小。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "mffs:pyramid_mode",
+   "text": "製作$(2)金字塔模式$()。",
+   "type": "patchouli:crafting"
+  },
+  {
+   "text": "把$(l:mffs:upgrade_modules/scale_module)$(5)縮放模組$()放入標有方向箭頭的物品欄位中，效果有所不同。放在左、右、前或後方的物品欄位中，會同時讓力場在相對的兩個方向各增加 1 格。放在上方或下方的物品欄位中，則只會朝該方向增加 1 格。",
+   "title": "力場調整",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "例如，要讓力場高度增加 1 格，就把$(l:mffs:upgrade_modules/scale_module)$(5)縮放模組$()放入標有箭頭、指向介面左上或右上的物品欄位。",
+   "type": "patchouli:text"
+  },
+  {
+   "border": true,
+   "images": [
+    "mffs:textures/gui/handbook/pyramid_mode.png"
+   ],
+   "text": "正在投射一個經過縮放的$(2)金字塔模式$()力場。",
+   "title": "投射",
+   "type": "patchouli:image"
+  }
+ ]
+}

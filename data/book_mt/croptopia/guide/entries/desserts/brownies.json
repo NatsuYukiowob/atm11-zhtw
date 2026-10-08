@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:desserts",
+ "icon": "croptopia:brownies",
+ "name": "布朗尼",
+ "pages": [
+  {
+   "recipe": "croptopia:brownies",
+   "text": "布朗尼的配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

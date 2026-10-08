@@ -1,0 +1,19 @@
+{
+ "category": "productivebees:bees_solitary",
+ "icon": "productivebees:spawn_egg_nomad_bee",
+ "name": "遊牧蜂",
+ "pages": [
+  {
+   "anchor": "nomad",
+   "text": "[Nomada marshamella]",
+   "title": "遊牧蜂",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:nomad_bee",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true,
+ "sortnum": 10
+}

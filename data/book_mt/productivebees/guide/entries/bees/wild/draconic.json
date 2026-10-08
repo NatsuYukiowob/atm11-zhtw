@@ -1,0 +1,18 @@
+{
+ "category": "productivebees:bees_wild",
+ "icon": "productivebees:draconic_chunk",
+ "name": "龍之吐息蜂",
+ "pages": [
+  {
+   "anchor": "draconic",
+   "text": "稀少地棲息於終界主島上的黑曜石柱中。龍之吐息蜂會在終界中飛行，從空氣中收集花蜜來授粉。若有機會，牠們也會啃食龍蛋。",
+   "title": "龍之吐息蜂",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:configurable_bee{type:'productivebees:draconic'}",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true
+}

@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:meals",
+ "icon": "croptopia:cheese_pizza",
+ "name": "起司披薩",
+ "pages": [
+  {
+   "recipe": "croptopia:cheese_pizza",
+   "text": "起司披薩食譜。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

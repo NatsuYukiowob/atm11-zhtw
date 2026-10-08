@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:snacks",
+ "icon": "croptopia:pork_and_beans",
+ "name": "豬肉燉豆",
+ "pages": [
+  {
+   "recipe": "croptopia:pork_and_beans",
+   "text": "豬肉燉豆的製作配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

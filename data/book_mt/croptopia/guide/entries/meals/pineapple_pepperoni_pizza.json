@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:meals",
+ "icon": "croptopia:pineapple_pepperoni_pizza",
+ "name": "鳳梨臘腸披薩",
+ "pages": [
+  {
+   "recipe": "croptopia:pineapple_pepperoni_pizza",
+   "text": "鳳梨臘腸披薩配方。鳳梨就該放在披薩上。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

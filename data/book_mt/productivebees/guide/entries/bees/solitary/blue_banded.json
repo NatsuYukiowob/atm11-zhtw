@@ -1,0 +1,19 @@
+{
+ "category": "productivebees:bees_solitary",
+ "icon": "productivebees:spawn_egg_blue_banded_bee",
+ "name": "藍帶蜂",
+ "pages": [
+  {
+   "anchor": "blue_banded",
+   "text": "[Amegilla cingulata]",
+   "title": "藍帶蜂",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:blue_banded_bee",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true,
+ "sortnum": 2
+}

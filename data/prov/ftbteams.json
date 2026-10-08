@@ -1,0 +1,22 @@
+{
+ "ftbteams.click_show_info": "haiku",
+ "ftbteams.disbanded_no_lives": "haiku",
+ "ftbteams.gui.toggle_chat": "haiku",
+ "ftbteams.kicked_no_lives": "haiku",
+ "ftbteams.lost_a_life": "haiku",
+ "ftbteams.message.added_stage": "haiku",
+ "ftbteams.message.chat_redirected.off": "haiku",
+ "ftbteams.message.chat_redirected.on": "haiku",
+ "ftbteams.message.limited_lives": "haiku",
+ "ftbteams.message.limited_lives.warn": "haiku",
+ "ftbteams.message.no_team_stages": "haiku",
+ "ftbteams.message.parse_failed": "haiku",
+ "ftbteams.message.property_not_editable": "haiku",
+ "ftbteams.message.removed_stage": "haiku",
+ "ftbteams.message.set_property": "haiku",
+ "ftbteams.message.team_stages_header": "haiku",
+ "ftbteams.out_of_lives": "haiku",
+ "ftbteams.party_creation_failed": "haiku",
+ "ftbteams.team_already_exists": "haiku",
+ "key.category.ftbteams.ftbteams_key": "haiku"
+}

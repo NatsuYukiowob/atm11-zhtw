@@ -1,0 +1,12 @@
+{
+ "gui.crafting_on_a_stick.selection_wheel.no_tool": "你沒有任何工具",
+ "item.crafting_on_a_stick.anvil": "%s",
+ "item.crafting_on_a_stick.cartography_table": "%s",
+ "item.crafting_on_a_stick.chipped_anvil": "%s",
+ "item.crafting_on_a_stick.crafting_table": "%s",
+ "item.crafting_on_a_stick.damaged_anvil": "%s",
+ "item.crafting_on_a_stick.grindstone": "%s",
+ "item.crafting_on_a_stick.loom": "%s",
+ "item.crafting_on_a_stick.smithing_table": "%s",
+ "item.crafting_on_a_stick.stonecutter": "%s"
+}

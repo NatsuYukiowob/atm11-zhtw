@@ -1,0 +1,10 @@
+{
+ "iris.keybind.wireframe": "線框模式（僅單人）",
+ "iris.load.failure.generic": "Iris 在載入著色器時發生問題，請回報給 Iris 開發者。 ",
+ "iris.load.failure.shader": "光影包載入失敗！請將錯誤回報給光影開發者。 ",
+ "iris.shaders.debug.restartNoDebug": "已啟用著色器除錯；NeoForge 不支援 OpenGL 除錯。",
+ "iris.unsupported.iris": "Iris",
+ "key.category.iris.keybinds": "Iris",
+ "options.iris.colorSpace": "色彩空間",
+ "options.iris.colorSpace.sodium_tooltip": "將畫面轉換至的色彩空間。可與光影包搭配使用。不確定時請使用 SRGB。"
+}

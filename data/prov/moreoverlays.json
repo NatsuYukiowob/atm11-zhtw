@@ -1,0 +1,8 @@
+{
+ "config.moreoverlays.lightoverlay.spawn_numbers": "haiku",
+ "config.moreoverlays.lightoverlay.update_interval_frames": "haiku",
+ "config.moreoverlays.rendersettings.chunk_line_thick": "haiku",
+ "config.moreoverlays.rendersettings.spawn_number_scale": "haiku",
+ "config.moreoverlays.rendersettings.spawn_safe_color": "haiku",
+ "key.moreoverlays.category": "haiku"
+}

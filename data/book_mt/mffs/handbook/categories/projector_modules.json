@@ -1,0 +1,6 @@
+{
+ "description": "可用於力場投影機的升級模組。",
+ "icon": "mffs:dome_module",
+ "name": "投影機模組",
+ "sortnum": 4
+}

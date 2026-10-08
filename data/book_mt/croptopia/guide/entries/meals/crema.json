@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:meals",
+ "icon": "croptopia:crema",
+ "name": "墨西哥酸奶油",
+ "pages": [
+  {
+   "recipe": "croptopia:crema",
+   "text": "食譜指南。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

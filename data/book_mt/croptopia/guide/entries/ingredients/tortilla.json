@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:ingredients",
+ "icon": "croptopia:tortilla",
+ "name": "玉米餅",
+ "pages": [
+  {
+   "recipe": "croptopia:tortilla",
+   "text": "玉米餅的合成配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

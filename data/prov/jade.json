@@ -1,0 +1,20 @@
+{
+ "config.jade.plugin_jade.loot_table": "haiku",
+ "config.jade.plugin_jade.loot_table_desc": "haiku",
+ "config.jade.plugin_jade.registry_name.special.poi": "haiku",
+ "config.jade.profile.0": "haiku",
+ "config.jade.profile.1": "haiku",
+ "config.jade.profile.2": "haiku",
+ "config.jade.profile.3": "haiku",
+ "jade.access.block.door_open": "haiku",
+ "jade.blockpos": "haiku",
+ "jade.distance1": "haiku",
+ "jade.fluid": "haiku",
+ "jade.infinity": "haiku",
+ "jade.lootTable": "haiku",
+ "jade.lootTableSeed": "haiku",
+ "jade.typeNameEntity": "haiku",
+ "key.category.jade.main": "haiku",
+ "modmenu.nameTranslation.jade": "haiku",
+ "narration.jade.blockpos": "haiku"
+}

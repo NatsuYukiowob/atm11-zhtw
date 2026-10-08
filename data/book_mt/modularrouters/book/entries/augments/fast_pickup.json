@@ -1,0 +1,15 @@
+{
+ "category": "modularrouters:augments",
+ "icon": "modularrouters:fast_pickup_augment",
+ "name": "快速拾取增強",
+ "pages": [
+  {
+   "text": "此增強只能加到$(l:modules/vacuum)真空模組/$。它能讓真空模組忽略掉落物的一般拾取延遲（玩家丟出的物品為 40 tick，其他方式掉落的物品如剪羊毛為 10 tick），並在看到物品時立即拾取。$(p)最多隻能加入一個快速拾取增強。",
+   "type": "text"
+  },
+  {
+   "recipe": "modularrouters:fast_pickup_augment",
+   "type": "crafting"
+  }
+ ]
+}

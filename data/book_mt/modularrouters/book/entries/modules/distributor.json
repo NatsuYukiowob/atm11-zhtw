@@ -1,0 +1,19 @@
+{
+ "category": "modularrouters:modules",
+ "icon": "modularrouters:distributor_module",
+ "name": "分配模組",
+ "pages": [
+  {
+   "text": "這是$(l:modules/sender_2)傳送模組 Mk2/$的擴充版本，可以傳送物品到多個目標。$(thing)潛行右鍵點選/$容器可將其加入分配模組，再次$(thing)潛行右鍵點選/$同一容器則可將其移除。$(p)分配模組最多可分配到 8 個目標。",
+   "type": "text"
+  },
+  {
+   "text": "透過右側的介面控制，可以對分配策略做一些額外調整：$(li)$(bold)輪流/$－依序分配到每個容器，盡可能平均$(li)$(bold)隨機/$－隨機挑選一個目標$(li)$(bold)最近/$－總是填充最近且有空間容納該物品的目標$(li)$(bold)最遠/$－總是填充最遠且有空間容納該物品的目標",
+   "type": "text"
+  },
+  {
+   "recipe": "modularrouters:distributor_module",
+   "type": "crafting"
+  }
+ ]
+}

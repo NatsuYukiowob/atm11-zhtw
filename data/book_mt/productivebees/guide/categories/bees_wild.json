@@ -1,0 +1,6 @@
+{
+ "description": "野生蜜蜂與獨居蜂一樣，住在世界各地的蜂窩中，但不同於獨居蜂的是，它們也樂於搬進蜂箱。野生蜜蜂主要生活在地獄與終界。",
+ "icon": "minecraft:lily_of_the_valley",
+ "name": "野生蜜蜂",
+ "parent": "productivebees:bees"
+}

@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:drinks",
+ "icon": "croptopia:lemonade",
+ "name": "檸檬水",
+ "pages": [
+  {
+   "recipe": "croptopia:lemonade",
+   "text": "檸檬水的合成配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

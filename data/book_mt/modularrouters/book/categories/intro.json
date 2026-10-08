@@ -1,0 +1,6 @@
+{
+ "description": "歡迎來到 $(modr) !",
+ "icon": "minecraft:knowledge_book",
+ "name": "簡介",
+ "sortnum": 0
+}

@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:utensils",
+ "icon": "croptopia:mortar_and_pestle",
+ "name": "研缽與杵",
+ "pages": [
+  {
+   "recipe": "croptopia:mortar_and_pestle",
+   "text": "研缽與杵的配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

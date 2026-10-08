@@ -1,0 +1,19 @@
+{
+ "conduit.enderio.energetic_energy": "充能能量導管",
+ "conduit.enderio.energetic_fluid": "充能流體導管",
+ "conduit.enderio.energetic_item": "充能物品導管",
+ "conduit.enderio.vibrant_energy": "鮮活能量導管",
+ "conduit.enderio.vibrant_fluid": "鮮活流體導管",
+ "conduit.enderio.vibrant_item": "鮮活物品導管",
+ "key.category.enderio.enderio_keys": "EnderIO",
+ "message.enderio.tool.soul_vial.error.denied": "此實體已被列入拒絕清單。",
+ "tag.entity_type.enderio.soul_vial_allow_list": "靈魂瓶允許清單",
+ "tag.entity_type.enderio.soul_vial_deny_list": "靈魂瓶拒絕清單",
+ "tag.entity_type.enderio.spawner_allow_list": "生怪磚允許清單",
+ "tag.entity_type.enderio.spawner_deny_list": "生怪磚拒絕清單",
+ "tag.item.enderio.deny_lists.broken_spawner": "損壞生怪磚拒絕清單",
+ "tag.item.enderio.deny_lists.electromagnet": "電磁鐵拒絕清單",
+ "tooltip.enderio.conduit.slot.fluid_filter": "流體過濾器欄位",
+ "tooltip.enderio.conduit.slot.item_filter": "物品過濾器欄位",
+ "tooltip.enderio.conduit.slot.redstone_filter": "紅石過濾器欄位"
+}

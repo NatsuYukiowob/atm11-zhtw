@@ -1,0 +1,18 @@
+{
+ "category": "productivebees:bees_wild",
+ "icon": "minecraft:cocoa_beans",
+ "name": "糖袋蜂",
+ "pages": [
+  {
+   "anchor": "sugarbag",
+   "text": "這種溫暖潮濕的小蜜蜂出沒於熱帶地區，會製造一種特殊、超級美味的蜂窩。$(br)即使可可豆生長在其原本氣候之外，牠仍能找到通往可可豆的路。",
+   "title": "糖袋蜂",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:configurable_bee{type:'productivebees:sugarbag'}",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true
+}

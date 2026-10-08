@@ -1,0 +1,8 @@
+{
+ "config.moreoverlays.lightoverlay.spawn_numbers": "使用數字覆蓋層",
+ "config.moreoverlays.lightoverlay.update_interval_frames": "更新間隔（幀）",
+ "config.moreoverlays.rendersettings.chunk_line_thick": "區塊：粗線",
+ "config.moreoverlays.rendersettings.spawn_number_scale": "生成：數字大小",
+ "config.moreoverlays.rendersettings.spawn_safe_color": "生成：安全顏色",
+ "key.moreoverlays.category": "More Overlays 更新版"
+}

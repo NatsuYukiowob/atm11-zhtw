@@ -1,0 +1,19 @@
+{
+ "category": "mffs:getting_started",
+ "icon": "mffs:focus_matrix",
+ "name": "合成元件",
+ "pages": [
+  {
+   "item": "mffs:focus_matrix",
+   "link_recipe": true,
+   "text": "用於合成$(l:mffs:projector_modes)投影模式$()、$(l:mffs:projector_modules)投影機模組$()與$(l:mffs:machines)機器$()的堅固鋼板。手邊備幾個總是好的。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "mffs:focus_matrix",
+   "text": "合成聚焦矩陣。",
+   "type": "patchouli:crafting"
+  }
+ ],
+ "sortnum": 2
+}

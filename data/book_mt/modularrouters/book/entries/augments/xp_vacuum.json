@@ -1,0 +1,19 @@
+{
+ "category": "modularrouters:augments",
+ "icon": "modularrouters:xp_vacuum_augment",
+ "name": "經驗吸取強化",
+ "pages": [
+  {
+   "text": "此強化只能加到$(l:modules/vacuum)吸取模組/$上。$(p)加上此強化後，吸取模組會改為吸收經驗球。經驗球會以每瓶 7 點經驗的比率轉換為$(item)經驗瓶/$（這是破壞經驗瓶所獲得經驗的平均值）。",
+   "type": "text"
+  },
+  {
+   "text": "視安裝了哪些其他模組而定，也可能將經驗球轉換為經驗流體。這需要路由器的緩衝區中有含流體的儲罐，或是儲罐與路由器相鄰。後者的情況下，請確定吸取模組介面中的$(bold)離開媒體/$按鈕已啟用。",
+   "type": "text"
+  },
+  {
+   "recipe": "modularrouters:xp_vacuum_augment",
+   "type": "crafting"
+  }
+ ]
+}

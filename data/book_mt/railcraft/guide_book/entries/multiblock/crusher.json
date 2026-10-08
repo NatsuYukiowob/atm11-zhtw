@@ -1,0 +1,16 @@
+{
+ "category": "railcraft:multiblock",
+ "icon": "railcraft:crusher",
+ "name": "碎石機",
+ "pages": [
+  {
+   "text": "碎石機是一座 3x2x2 的結構，用來加工各種材料。碎石機由 12 個特殊方塊建造，這些方塊以鋼塊、活塞與鑽石製成。若拆解，建造一台碎石機需要 3 個鋼塊、12 個活塞與 12 顆鑽石。碎石機不可彼此相鄰，碎石機之間至少要間隔一格。",
+   "type": "patchouli:text"
+  },
+  {
+   "multiblock_id": "railcraft:crusher",
+   "name": "碎石機",
+   "type": "patchouli:multiblock"
+  }
+ ]
+}

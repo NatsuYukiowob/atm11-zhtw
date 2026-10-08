@@ -1,0 +1,43 @@
+{
+ "category": "laserio:blocks",
+ "icon": "laserio:laser_connector_advanced",
+ "name": "進階聯結器",
+ "pages": [
+  {
+   "text": "進階雷射聯結器的運作方式與$(l:laserio:laser_connector)雷射聯結器$(/l)相同，可連線至 8 格內的其他（基礎）聯結器與節點。$(br2)但它只能與另一個進階聯結器相連，形成一對。進階聯結器與其配對者之間的連線範圍是無限的，甚至可跨維度！",
+   "type": "patchouli:text"
+  },
+  {
+   "border": true,
+   "images": [
+    "laserio:textures/book/entries/laser_connector_advanced1.png"
+   ],
+   "text": "兩個相互連結的進階聯結器",
+   "title": "進階聯結器",
+   "type": "patchouli:image"
+  },
+  {
+   "text": "若進階聯結器已有配對者，而你嘗試將它與新的配對者配對，原有的連線將被斷開，改為形成新的連線。$(br2)手持$(l:laserio:laser_wrench)雷射扳手$(/l)看向方塊時，會顯示配對方塊的座標。",
+   "type": "patchouli:text"
+  },
+  {
+   "border": true,
+   "images": [
+    "laserio:textures/book/entries/laser_connector_advanced2.png"
+   ],
+   "text": "顯示配對聯結器的座標",
+   "title": "配對座標",
+   "type": "patchouli:image"
+  },
+  {
+   "text": "進階雷射聯結器不會為你載入區塊。你必須自行處理所有區塊載入！未載入區塊中的節點將無法運作。",
+   "type": "patchouli:text"
+  },
+  {
+   "recipe": "laserio:laser_connector_advanced",
+   "title": "進階雷射聯結器",
+   "type": "patchouli:crafting"
+  }
+ ],
+ "sortnum": 2
+}

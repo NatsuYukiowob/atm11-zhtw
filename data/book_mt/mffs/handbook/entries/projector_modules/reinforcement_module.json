@@ -1,0 +1,18 @@
+{
+ "category": "mffs:projector_modules",
+ "icon": "mffs:reinforcement_module",
+ "name": "強化模組",
+ "pages": [
+  {
+   "item": "mffs:reinforcement_module",
+   "link_recipe": true,
+   "text": "在$(l:mffs:machines/projector)力場投影機$()中放入$(5)強化模組$()，會使投射的力場方塊免疫凋零的破壞。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "mffs:reinforcement_module",
+   "text": "製作$(5)強化模組$()。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

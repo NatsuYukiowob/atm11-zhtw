@@ -1,0 +1,12 @@
+{
+ "item.camol.camo_item": "haiku",
+ "item.camol.camo_item.camo": "haiku",
+ "item.camol.camo_item.hover": "haiku",
+ "item.camol.camo_item.hover_empty": "haiku",
+ "item.camol.camo_item.hover_type": "haiku",
+ "item.camol.solid_camo_item": "haiku",
+ "item.camol.solid_camo_item.camo": "haiku",
+ "item.camol.solid_camo_item.hover": "haiku",
+ "item.camol.solid_camo_item.hover_empty": "haiku",
+ "item.camol.solid_camo_item.hover_type": "haiku"
+}

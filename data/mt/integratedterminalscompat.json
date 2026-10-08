@@ -1,0 +1,10 @@
+{
+ "_comment": "Gui",
+ "gui.integratedterminalscompat.terminal_storage.crafting_job.error.title": "合成工作錯誤",
+ "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.failed_only": "%s 的自動合成失敗",
+ "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.mixed": "已開始 %s 的自動合成，但 %s 失敗",
+ "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.started_only": "已開始 %s 的自動合成",
+ "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.title.failed_only": "自動合成失敗",
+ "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.title.mixed": "自動合成部分失敗",
+ "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.title.started_only": "自動合成開始"
+}

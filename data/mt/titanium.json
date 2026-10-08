@@ -1,0 +1,9 @@
+{
+ "block.titanium.block_asset_test": "測試方塊：（資產）",
+ "block.titanium.block_test": "測試方塊：（基礎）",
+ "block.titanium.block_twenty_four_test": "測試方塊：（二十四方向旋轉）",
+ "block.titanium.machine_test": "測試方塊：（機器）",
+ "tooltip.titanium.facing_handler.test": "測試朝向物",
+ "tooltip.titanium.facing_handler.test2": "這是第二個測試",
+ "tooltip.titanium.sec_short": "秒"
+}

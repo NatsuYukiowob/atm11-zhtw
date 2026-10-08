@@ -1,0 +1,6 @@
+{
+ "commands.shogi.cooldown.add.success": "haiku",
+ "commands.shogi.cooldown.reset.all.success": "haiku",
+ "commands.shogi.cooldown.reset.success": "haiku",
+ "commands.shogi.cooldown.set.success": "haiku"
+}

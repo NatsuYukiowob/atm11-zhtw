@@ -1,0 +1,9 @@
+{
+ "artifacts.config.client.showArtifactsOnPlayers.description.0": "是否在玩家身上顯示已裝備的神器",
+ "artifacts.config.client.showArtifactsOnPlayers.description.1": "此設定僅限客戶端，不會改變其他玩家看到的內容",
+ "artifacts.config.client.showArtifactsOnPlayers.title": "在玩家身上顯示神器",
+ "artifacts.config.items.scarf_of_invisibility.hidesEffectParticles.description": "隱形圍巾是否能阻止所有狀態效果產生粒子",
+ "artifacts.config.items.scarf_of_invisibility.hidesEffectParticles.title": "隱藏效果粒子",
+ "artifacts.tooltip.plus_mob_effect": "+%s",
+ "artifacts.tooltip.plus_mob_effect_chance": "+%s (%s%%)"
+}

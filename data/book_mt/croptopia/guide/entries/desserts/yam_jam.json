@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:desserts",
+ "icon": "croptopia:yam_jam",
+ "name": "山藥果醬",
+ "pages": [
+  {
+   "recipe": "croptopia:yam_jam",
+   "text": "山藥果醬的合成配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

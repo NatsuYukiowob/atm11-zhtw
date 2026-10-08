@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:drinks",
+ "icon": "croptopia:beer",
+ "name": "啤酒",
+ "pages": [
+  {
+   "recipe": "croptopia:beer",
+   "text": "啤酒的合成配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

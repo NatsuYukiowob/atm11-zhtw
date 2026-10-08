@@ -1,0 +1,8 @@
+{
+ "misc.justenoughrecipesharing.share_cooldown": "haiku",
+ "misc.justenoughrecipesharing.shared_recipe": "haiku",
+ "misc.justenoughrecipesharing.unknown": "haiku",
+ "text.autoconfig.justenoughrecipesharing.option.showSharedRecipesInChat": "haiku",
+ "text.autoconfig.justenoughrecipesharing.option.showSharedRecipesInChat.@Tooltip": "haiku",
+ "tooltip.justenoughrecipesharing.share": "haiku"
+}

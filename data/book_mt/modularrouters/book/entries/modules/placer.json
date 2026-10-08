@@ -1,0 +1,19 @@
+{
+ "category": "modularrouters:modules",
+ "icon": "modularrouters:placer_module",
+ "name": "放置模組",
+ "pages": [
+  {
+   "text": "此模組會嘗試將路由器緩衝區中的物品以方塊形式放置在路由器旁、模組$(l:intro/modules#direction)設定方向/$的相鄰位置。$(li)如果該物品不是方塊，或目標方塊空間被阻擋，則不會執行任何動作。$(li)會遵循原版的放置規則；例如甘蔗只能放在旁邊有水的沙或泥土上。",
+   "type": "text"
+  },
+  {
+   "text": "$(li)流體方塊會被取代，高草等可替換方塊也會被取代。$(li)放置模組可以在耕地上種植種子，並在相鄰的叢林木原木上放置可可豆。",
+   "type": "text"
+  },
+  {
+   "recipe": "modularrouters:placer_module",
+   "type": "crafting"
+  }
+ ]
+}

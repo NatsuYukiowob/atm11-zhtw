@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:meals",
+ "icon": "croptopia:tamales",
+ "name": "墨西哥粽",
+ "pages": [
+  {
+   "recipe": "croptopia:tamales",
+   "text": "食譜指南。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "category": "productivetrees:stuff",
+ "icon": "productivetrees:sawmill",
+ "name": "鋸木機",
+ "pages": [
+  {
+   "item": "productivetrees:sawmill",
+   "text": "切割木材……",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "productivetrees:sawmill",
+   "text": "",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

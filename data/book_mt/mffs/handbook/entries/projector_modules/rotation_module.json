@@ -1,0 +1,18 @@
+{
+ "category": "mffs:projector_modules",
+ "icon": "mffs:rotation_module",
+ "name": "旋轉模組",
+ "pages": [
+  {
+   "item": "mffs:rotation_module",
+   "link_recipe": true,
+   "text": "$(5)旋轉模組$()可以放入$(l:mffs:machines/projector)力場投影機$()的力場格中，以旋轉投射的力場。只要在對應軸向的格子中放入$(5)旋轉模組$()，就能讓力場繞 x、y 或 z 軸移動。$(li)東、西 - 調整偏航角$(li)上、下 - 調整俯仰角$(li)南、北 - 調整翻滾角$()",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "mffs:rotation_module",
+   "text": "製作$(5)旋轉模組$()。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

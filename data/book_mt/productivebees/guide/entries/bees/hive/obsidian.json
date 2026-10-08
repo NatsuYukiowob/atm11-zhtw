@@ -1,0 +1,18 @@
+{
+ "category": "productivebees:bees_hive",
+ "icon": "minecraft:obsidian",
+ "name": "黑曜石蜂",
+ "pages": [
+  {
+   "anchor": "obsidian",
+   "text": "由$(l:bees/wild/magmatic)岩漿蜂$(/l)與$(l:bees/solitary/sweat)汗蜂$(/l)繁殖而來。",
+   "title": "黑曜石蜂",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:configurable_bee{type:'productivebees:obsidian'}",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true
+}

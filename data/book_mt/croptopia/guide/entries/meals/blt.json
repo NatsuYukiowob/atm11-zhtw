@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:meals",
+ "icon": "croptopia:blt",
+ "name": "BLT 三明治",
+ "pages": [
+  {
+   "recipe": "croptopia:blt",
+   "text": "BLT 三明治食譜。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

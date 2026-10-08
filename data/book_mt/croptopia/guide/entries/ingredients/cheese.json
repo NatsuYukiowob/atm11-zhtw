@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:ingredients",
+ "icon": "croptopia:cheese",
+ "name": "起司",
+ "pages": [
+  {
+   "recipe": "croptopia:cheese",
+   "text": "起司的合成配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

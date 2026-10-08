@@ -1,0 +1,8 @@
+{
+ "gui.ae2.ETAFormat": "HH:mm:ss",
+ "gui.ae2.ToastCraftingJobFinishedText": "%d %s",
+ "gui.ae2.units.appliedenergistics": "AE",
+ "gui.ae2.units.fe": "FE",
+ "gui.tooltips.ae2.CpuStatusSuspended": "已暫停",
+ "theoneprobe.ae2.stored_energy": "%1$d / %2$d"
+}

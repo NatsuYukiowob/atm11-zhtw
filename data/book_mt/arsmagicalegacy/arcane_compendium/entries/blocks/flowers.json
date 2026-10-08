@@ -1,0 +1,55 @@
+{
+ "category": "arsmagicalegacy:blocks",
+ "icon": "arsmagicalegacy:aum",
+ "name": "item.arsmagicalegacy.arcane_compendium.blocks.flowers.name",
+ "pages": [
+  {
+   "text": "item.arsmagicalegacy.arcane_compendium.blocks.flowers.page0.text",
+   "type": "patchouli:text"
+  },
+  {
+   "anchor": "aum",
+   "item": "arsmagicalegacy:aum",
+   "text": "一種具有治癒效果的花，Aum 是許多法術的組成材料。可以在森林中找到。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "anchor": "cerublossom",
+   "item": "arsmagicalegacy:cerublossom",
+   "text": "Cerublossom 花生長於茂盛翠綠的環境中。它是最早被發現的魔法植物之一，被用於藥水與光系法術。發現後不久，人們也注意到 Cerublossom 可以作為$(l:items/purified_vinteum_dust)Vinteum 粉淨化過程$()的一部分。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "anchor": "desert_nova",
+   "item": "arsmagicalegacy:desert_nova",
+   "text": "Desert Nova 生長於乾燥環境中。以沙漠植物而言，Nova 具有非凡的魔法特性，備受追捧。它是$(l:items/purified_vinteum_dust)Vinteum 粉淨化過程$()中使用的兩種植物之一。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "anchor": "tarma_root",
+   "item": "arsmagicalegacy:tarma_root",
+   "text": "Tarma Root 比外觀看起來輕得多，生長於山地生態域。它是法術與風元素精華的材料之一。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "anchor": "wakebloom",
+   "item": "arsmagicalegacy:wakebloom",
+   "text": "Wakebloom 生長於溫暖氣候中的水面上，常用於水系法術，也是水屬性精華的組成材料。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "arsmagicalegacy:pink_dye_from_aum",
+   "recipe2": "arsmagicalegacy:blue_dye_from_cerublossom",
+   "type": "patchouli:crafting"
+  },
+  {
+   "recipe": "arsmagicalegacy:red_dye_from_desert_nova",
+   "recipe2": "arsmagicalegacy:brown_dye_from_tarma_root",
+   "type": "patchouli:crafting"
+  },
+  {
+   "recipe": "arsmagicalegacy:magenta_dye_from_wakebloom",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

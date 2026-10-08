@@ -1,0 +1,16 @@
+{
+ "category": "modularrouters:filters",
+ "flag": "|mod:ftbfiltersystem",
+ "icon": "ftbfiltersystem:smart_filter",
+ "name": "FTB 過濾系統",
+ "pages": [
+  {
+   "text": "FTB 過濾系統是一個強大的模組，可讓多種過濾條件以直覺的介面組合成各種有趣的效果。若安裝了 FFS（如果你正在閱讀這段文字，那就是已安裝！），模組中的$(item)智慧過濾器/$物品可放在模組的過濾槽中，並會適當地過濾物品。",
+   "type": "text"
+  },
+  {
+   "text": "限制：FFS 智慧過濾器無法像模組化路由器的過濾器那樣在安裝狀態下設定；你必須將過濾器物品放在揹包中才能重新設定。",
+   "type": "text"
+  }
+ ]
+}

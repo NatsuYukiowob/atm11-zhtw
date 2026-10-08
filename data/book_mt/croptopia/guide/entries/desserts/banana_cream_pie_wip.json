@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:desserts",
+ "icon": "croptopia:banana_cream_pie",
+ "name": "香蕉奶油派",
+ "pages": [
+  {
+   "recipe": "croptopia:banana_cream_pie",
+   "text": "香蕉奶油派的配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

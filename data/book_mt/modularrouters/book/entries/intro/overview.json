@@ -1,0 +1,20 @@
+{
+ "category": "modularrouters:intro",
+ "icon": "minecraft:cake",
+ "name": "概覽",
+ "pages": [
+  {
+   "text": "歡迎來到模組化路由器！$(p)這是一個非常靈活的模組，用於以各種方式在世界中移動物品。只需一個方塊——$(thing)模組化路由器/$——加上一個或多個外掛$(thing)模組/$，你就能從任何容器中抽取物品、將其送往遠近各處的其他容器、以方塊形式放置物品、破壞方塊、將物品丟到世界中、排序物品，以及更多功能。",
+   "type": "text"
+  },
+  {
+   "border": "true",
+   "images": [
+    "modularrouters:textures/patchouli/modular_router.png"
+   ],
+   "text": "$(italic)可以把它想像成一個超級可設定的進階漏斗……/$",
+   "type": "image"
+  }
+ ],
+ "priority": "true"
+}

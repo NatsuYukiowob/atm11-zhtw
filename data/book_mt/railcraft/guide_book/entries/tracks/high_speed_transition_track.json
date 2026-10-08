@@ -1,0 +1,11 @@
+{
+ "category": "railcraft:tracks",
+ "icon": "railcraft:high_speed_transition_track",
+ "name": "高速過渡軌道",
+ "pages": [
+  {
+   "text": "這些定向加速鐵軌通電時，只會朝一個方向加速車廂。朝反方向行駛的車廂，若軌道通電會減速至正常礦車速度，若未通電則會停止。",
+   "type": "patchouli:text"
+  }
+ ]
+}

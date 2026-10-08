@@ -1,0 +1,49 @@
+{
+ "category": "productivebees:genetics",
+ "icon": "productivebees:gene",
+ "name": "蜜蜂屬性",
+ "pages": [
+  {
+   "text": "蜜蜂屬性可以透過將分離出的基因放在蜂蜜零食上，再餵給蜜蜂，從一隻蜜蜂轉移到另一隻。$(br)請參閱$(l:genetics/collecting#crystalline)收集基因$(/l)頁面。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "生產力較高的蜜蜂每趟會產出更多蜂窩。$(br2)等級如下：$(br)正常$(br)中等$(br)高$(br)極高",
+   "title": "生產力",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "一般情況下，蜜蜂會在下雨和雷暴期間退回蜂窩以確保安全。將蜜蜂拴在戶外惡劣天氣中，可以讓它們逐漸適應天氣。不過請注意，在適應之前它們有受傷甚至死亡的風險，因此請留意它們，並隨身備好蜂蜜零食。",
+   "title": "天氣耐受",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "等級如下：$(br)無 - 僅能在晴朗天氣工作$(br)雨天 - 可在雨天工作$(br)任意 - 可在任何天氣工作",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "大多數蜜蜂只在白天工作，但這是可以改變的。夜間將晝行性蜜蜂拴在某物上，它有機會轉變為夜行性。$(br)白天將夜行性蜜蜂拴住，它有機會轉變為全時性。$(br)不過請小心，若在不適應的環境中拴住它們，它們可能會受傷。",
+   "title": "行為模式",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "等級如下：$(br)晝行性 - 僅在白天工作$(br)夜行性 - 僅在夜晚工作$(br)全時性 - 全天候工作",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "影響蜜蜂的最高生命值。$(br)耐久較高的蜜蜂在攻擊時有機會不失去螫針。$(br)等級如下：$(br)弱$(br)正常$(br)中等$(br)強",
+   "title": "耐久",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "蜜蜂的脾氣各不相同，有些會見人就攻擊，有些則會完全避免有害互動。餵食大量蜂蜜零食的蜜蜂，脾氣會變好。$(br)等級如下：$(br)溫和$(br)正常$(br)好鬥$(br)敵對",
+   "title": "脾氣",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "有些蜜蜂可以對附近的玩家施加正面或負面效果。",
+   "title": "效果",
+   "type": "patchouli:text"
+  }
+ ]
+}

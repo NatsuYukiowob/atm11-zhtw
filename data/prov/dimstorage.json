@@ -1,0 +1,12 @@
+{
+ "config.jade.plugin_dimstorage.dim_block_base": "haiku",
+ "config.jade.plugin_dimstorage.dim_tank": "haiku",
+ "gui.dimstorage.amount": "haiku",
+ "gui.dimstorage.liquid": "haiku",
+ "gui.dimstorage.luminosity": "haiku",
+ "gui.dimstorage.temperature": "haiku",
+ "message.dimstorage.bind_dimchest": "haiku",
+ "message.dimstorage.for_details": "haiku",
+ "message.dimstorage.hold": "haiku",
+ "message.dimstorage.press": "haiku"
+}

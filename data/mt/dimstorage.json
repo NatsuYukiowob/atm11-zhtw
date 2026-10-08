@@ -1,0 +1,12 @@
+{
+ "config.jade.plugin_dimstorage.dim_block_base": "為 DimChest 啟用自訂視覺化",
+ "config.jade.plugin_dimstorage.dim_tank": "為 DimTank 啟用自訂視覺化",
+ "gui.dimstorage.amount": "數量：%s mb",
+ "gui.dimstorage.liquid": "流體：%s",
+ "gui.dimstorage.luminosity": "亮度：%s",
+ "gui.dimstorage.temperature": "溫度：%s °C",
+ "message.dimstorage.bind_dimchest": "右鍵點選以繫結 DimChest",
+ "message.dimstorage.for_details": "檢視詳細資訊",
+ "message.dimstorage.hold": "按住",
+ "message.dimstorage.press": "按下"
+}

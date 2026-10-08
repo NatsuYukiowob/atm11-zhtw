@@ -1,0 +1,10 @@
+{
+ "apothic_attributes:cooldown_reduction": "haiku",
+ "apothic_attributes:cooldown_reduction.desc": "haiku",
+ "attribute.name.block_break_speed.desc": "haiku",
+ "attribute.name.burning_time.desc": "haiku",
+ "attribute.name.fall_damage_multiplier.desc": "haiku",
+ "attribute.name.jump_strength.desc": "haiku",
+ "attribute.name.max_absorption.desc": "haiku",
+ "comment_id": "haiku"
+}

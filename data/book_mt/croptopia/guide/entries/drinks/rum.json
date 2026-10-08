@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:drinks",
+ "icon": "croptopia:rum",
+ "name": "蘭姆酒",
+ "pages": [
+  {
+   "recipe": "croptopia:rum",
+   "text": "蘭姆酒的合成配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

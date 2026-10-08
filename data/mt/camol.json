@@ -1,0 +1,12 @@
+{
+ "item.camol.camo_item": "偽裝方塊",
+ "item.camol.camo_item.camo": "偽裝方塊 - %s",
+ "item.camol.camo_item.hover": "右鍵點選方塊以將其偽裝成此方塊。右鍵點選已偽裝的方塊可取消偽裝。",
+ "item.camol.camo_item.hover_empty": "與一個方塊合成。",
+ "item.camol.camo_item.hover_type": "使用被偽裝方塊的碰撞箱。",
+ "item.camol.solid_camo_item": "保形偽裝方塊",
+ "item.camol.solid_camo_item.camo": "保形偽裝方塊 - %s",
+ "item.camol.solid_camo_item.hover": "右鍵點選方塊以將其偽裝成此方塊。右鍵點選已偽裝的方塊可取消偽裝。",
+ "item.camol.solid_camo_item.hover_empty": "與一個方塊合成。",
+ "item.camol.solid_camo_item.hover_type": "使用偽裝中方塊的碰撞箱。"
+}

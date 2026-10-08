@@ -1,0 +1,19 @@
+{
+ "category": "modularrouters:modules",
+ "icon": "modularrouters:fluid_module_2",
+ "name": "流體模組 Mk2",
+ "pages": [
+  {
+   "text": "與$(l:modules/fluid_1)流體模組 Mk1/$相似，當緩衝區中有含流體的物品時，此模組也可以將流體輸入或輸出路由器。但此模組還能指定距離更遠的目標位置，最遠可達 12 格（使用$(l:augments/range_up)範圍提升增強/$可達 24 格）。",
+   "type": "text"
+  },
+  {
+   "text": "$(thing)潛行右鍵點選/$任一方塊即可設定模組的目標。$(p)注意，目標方塊不一定要是流體儲罐；若你在設定模組目標後打破該方塊，模組仍能將一桶流體倒入世界中該位置。",
+   "type": "text"
+  },
+  {
+   "recipe": "modularrouters:fluid_module_2",
+   "type": "crafting"
+  }
+ ]
+}

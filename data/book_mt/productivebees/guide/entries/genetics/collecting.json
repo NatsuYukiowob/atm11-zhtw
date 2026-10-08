@@ -1,0 +1,42 @@
+{
+ "category": "productivebees:genetics",
+ "icon": "productivebees:gene",
+ "name": "收集基因",
+ "pages": [
+  {
+   "text": "裝瓶機搭配活塞可以用來裝瓶蜜蜂。將蜜蜂放在中間並拉動控制桿。確保裝瓶機內有空瓶。把裝瓶的蜜蜂丟進離心機，將有用的東西與廢料分離。",
+   "type": "patchouli:text"
+  },
+  {
+   "enable_visualize": false,
+   "multiblock": {
+    "mapping": {
+     "B": "productivebees:bottler[has_bottle=true]",
+     "P": "minecraft:piston[facing=down]"
+    },
+    "offset": [
+     0,
+     1,
+     0
+    ],
+    "pattern": [
+     [
+      "P"
+     ],
+     [
+      " "
+     ],
+     [
+      "B"
+     ],
+     [
+      "0"
+     ]
+    ],
+    "symmetrical": true
+   },
+   "name": "蜜蜂裝瓶機",
+   "type": "multiblock"
+  }
+ ]
+}

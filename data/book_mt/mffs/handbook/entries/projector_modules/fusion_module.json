@@ -1,0 +1,18 @@
+{
+ "category": "mffs:projector_modules",
+ "icon": "mffs:fusion_module",
+ "name": "力場融合模組",
+ "pages": [
+  {
+   "item": "mffs:fusion_module",
+   "link_recipe": true,
+   "text": "$(5)力場融合模組$()可以放入$(l:mffs:machines/projector)力場投影機$()的矩陣格中，使兩個或更多投射出的力場融合在一起。此模組會切除與其他力場重疊的投射方塊。多個安裝此模組的力場會因此無縫合併成一個。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "mffs:fusion_module",
+   "text": "製作$(5)力場融合模組$()。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

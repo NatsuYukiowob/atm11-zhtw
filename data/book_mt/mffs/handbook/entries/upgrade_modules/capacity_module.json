@@ -1,0 +1,18 @@
+{
+ "category": "mffs:upgrade_modules",
+ "icon": "mffs:capacity_module",
+ "name": "容量模組",
+ "pages": [
+  {
+   "item": "mffs:capacity_module",
+   "link_recipe": true,
+   "text": "$(5)容量模組$()可放入多種MFFS機器的升級槽，以提升其$(l:mffs:getting_started/fortron)Fortron$()儲存能力。效果因機器而異，但最常見的是提高裝置的$(l:mffs:getting_started/fortron)Fortron$()容量。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "mffs:capacity_module",
+   "text": "合成$(5)容量模組$()。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

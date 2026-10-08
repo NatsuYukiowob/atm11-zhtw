@@ -1,0 +1,27 @@
+{
+ "category": "mffs:machines",
+ "icon": "mffs:interdiction_matrix",
+ "name": "干涉矩陣",
+ "pages": [
+  {
+   "item": "mffs:interdiction_matrix",
+   "link_recipe": true,
+   "text": "$(9)干涉矩陣$()是 MFFS 機器系列的一員。它會對其周圍空間內的玩家或生物施加限制。例如，它可以設定為自動擊殺進入其作用範圍的生物或玩家，或阻止未授權的玩家幹擾其他機器。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "mffs:interdiction_matrix",
+   "text": "合成$(9)干涉矩陣$()。",
+   "type": "patchouli:crafting"
+  },
+  {
+   "text": "$(9)干涉矩陣$()周圍的空間分為兩個邏輯區域：$(bold)作用$()與$(bold)警告$()。作用區域會從矩陣本身向外延伸，延伸的格數與安裝的$(l:mffs:upgrade_modules/scale_module)$(5)比例模組$()數量相同。預設情況下，警告區域會從作用區域的邊緣（以同心球形）再延伸 3 格。",
+   "title": "運作方式",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "當玩家進入$(l:mffs:machines/interdiction_matrix)干涉矩陣$()的警告區域時，系統會傳送提示訊息，告知其已進入掃描範圍。若玩家不想親身體驗矩陣安裝了哪些模組，就不應再靠近。在未安裝任何模組的情況下，$(l:mffs:machines/interdiction_matrix)干涉矩陣$()其實不會做任何事。若安裝了$(l:mffs:interdiction_modules)$(5)模組$()，它就能成為強大的防禦系統。",
+   "type": "patchouli:text"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "category": "productivebees:bees_hive",
+ "icon": "minecraft:lapis_lazuli",
+ "name": "青金石蜂",
+ "pages": [
+  {
+   "anchor": "lapis",
+   "text": "由$(l:bees/hive/redstone)紅石蜂$(/l)與$(l:bees/solitary/blue_banded)藍帶蜂$(/l)繁殖而來。",
+   "title": "青金石蜂",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:configurable_bee{type:'productivebees:lapis'}",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true
+}

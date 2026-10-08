@@ -1,0 +1,32 @@
+{
+ "category": "mffs:projector_modes",
+ "icon": "mffs:cylinder_mode",
+ "name": "圓柱模式",
+ "pages": [
+  {
+   "item": "mffs:cylinder_mode",
+   "link_recipe": true,
+   "text": "預設情況下，$(2)圓柱模式$()會讓投影機產生一個恰好 1 格厚的圓柱形力場。每個$(l:mffs:upgrade_modules/scale_module)$(5)縮放模組$()會使力場在目標方上增加 1 格大小。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "mffs:cylinder_mode",
+   "text": "製作$(2)圓柱模式$()。",
+   "type": "patchouli:crafting"
+  },
+  {
+   "text": "把$(l:mffs:upgrade_modules/scale_module)$(5)縮放模組$()放入標有方向箭頭的物品欄位中，會讓力場只朝該方向增加 1 格。例如，要讓力場高度增加 1 格，就把$(l:mffs:upgrade_modules/scale_module)$(5)縮放模組$()放入標有箭頭、指向介面左上或右上的物品欄位。",
+   "title": "力場調整",
+   "type": "patchouli:text"
+  },
+  {
+   "border": true,
+   "images": [
+    "mffs:textures/gui/handbook/cylinder_mode.png"
+   ],
+   "text": "正在投射一個經過縮放的$(2)圓柱模式$()力場。",
+   "title": "投射",
+   "type": "patchouli:image"
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+{
+ "gui.solcarrot.food_book.fraction": "haiku",
+ "message.solcarrot.chat_wrapper": "haiku",
+ "solcarrot.configuration.filtering": "haiku",
+ "solcarrot.configuration.milestone_celebration": "haiku",
+ "solcarrot.configuration.milestones": "haiku",
+ "solcarrot.configuration.miscellaneous": "haiku",
+ "solcarrot.networking.food_list_message.failed": "haiku"
+}

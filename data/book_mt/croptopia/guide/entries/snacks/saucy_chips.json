@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:snacks",
+ "icon": "croptopia:saucy_chips",
+ "name": "醬汁薯片",
+ "pages": [
+  {
+   "recipe": "croptopia:saucy_chips",
+   "text": "沾醬或醬汁薯片的製作配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

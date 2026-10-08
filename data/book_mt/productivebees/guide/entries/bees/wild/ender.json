@@ -1,0 +1,18 @@
+{
+ "category": "productivebees:bees_wild",
+ "icon": "minecraft:ender_pearl",
+ "name": "終界蜂",
+ "pages": [
+  {
+   "anchor": "ender",
+   "text": "棲息於終界群島上的終界石巢穴中。終界蜂偏好為周圍的歌萊植物授粉。",
+   "title": "終界蜂",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:configurable_bee{type:'productivebees:ender'}",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true
+}

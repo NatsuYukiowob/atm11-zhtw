@@ -1,0 +1,11 @@
+{
+ "category": "railcraft:signal_boxes",
+ "icon": "railcraft:signal_receiver_box",
+ "name": "訊號接收箱",
+ "pages": [
+  {
+   "text": "此箱可與任何控制器配對。配對後，您可以開啟介面，Select哪些訊號號誌應從此箱發出紅石電流。若放置於訊號控制箱旁，它也會將號誌傳送給控制箱。",
+   "type": "patchouli:text"
+  }
+ ]
+}

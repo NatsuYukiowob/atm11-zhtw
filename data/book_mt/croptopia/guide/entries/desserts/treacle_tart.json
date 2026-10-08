@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:desserts",
+ "icon": "croptopia:treacle_tart",
+ "name": "糖蜜塔",
+ "pages": [
+  {
+   "recipe": "croptopia:shaped_treacle_tart",
+   "text": "糖蜜塔的合成配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

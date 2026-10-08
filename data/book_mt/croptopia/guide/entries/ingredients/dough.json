@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:ingredients",
+ "icon": "croptopia:dough",
+ "name": "麵團",
+ "pages": [
+  {
+   "recipe": "croptopia:dough",
+   "text": "麵團的合成配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

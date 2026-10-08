@@ -1,0 +1,6 @@
+{
+ "constructionstick.option.upgrades": "",
+ "constructionstick.placement.denied": "此方塊無法使用建造棒放置！",
+ "item.constructionstick.stick_template": "棒子樣板",
+ "key.category.constructionstick.category": "建造棒"
+}

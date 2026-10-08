@@ -1,0 +1,37 @@
+{
+ "category": "laserio:mechanics",
+ "icon": "laserio:textures/gui/buttons/settings.png",
+ "name": "網路設定",
+ "pages": [
+  {
+   "text": "網路設定介面可從任何$(l:laserio:laser_node)雷射節點$(/l)介面開啟。在此設定介面中，你可以變更網路的顏色。此顏色會影響：$(li)世界中的雷射節點方塊$(li)世界中的雷射聯結器方塊$(li)方塊之間雷射的顏色 ",
+   "type": "patchouli:text"
+  },
+  {
+   "border": true,
+   "images": [
+    "laserio:textures/book/entries/settings1.png"
+   ],
+   "text": "不同顏色的網路",
+   "title": "彩色節點",
+   "type": "patchouli:image"
+  },
+  {
+   "text": "節點與容器（如儲物箱或儲罐）之間的雷射顏色不會受到影響。$(br2)對網路中某個節點所做的變更，會自動套用到同一網路中的所有其他節點。如此一來，你就能在世界各處擁有不同顏色的網路！$(br2)這純粹是外觀上的設定，對功能沒有任何實際影響。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "將節點或網路加入另一個網路時，適用以下規則：$(br2)若其中一方的節點／網路有顏色設定，另一方為預設值，預設值一定會被覆蓋。$(br2)否則，被選取的方塊會將其設定傳送給你點選以進行連線的方塊。例如，若你潛行點選綠色節點，再點選藍色節點，藍色節點就會變成綠色。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "透明度有兩個設定：Alpha 與扳手 Alpha。$(br2)Alpha 隻影響兩個方塊之間的雷射，決定該雷射的透明度。若設為 0，你將完全看不到節點／聯結器之間的雷射。$(br2)扳手 Alpha 會在玩家手持扳手時，將此設定「加」到 Alpha 上。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "例如，若將 Alpha 設為 0、扳手 Alpha 設為 80，你只有在手持扳手時才會看到雷射！$(br2)若將 Alpha 設為 80、扳手 Alpha 設為 200，手持扳手時雷射會更加明亮。兩數相加超過 255 也無妨，會自動限制在 255。",
+   "type": "patchouli:text"
+  }
+ ],
+ "sortnum": 1
+}

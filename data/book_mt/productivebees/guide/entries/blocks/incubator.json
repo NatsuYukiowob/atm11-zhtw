@@ -1,0 +1,16 @@
+{
+ "category": "productivebees:blocks",
+ "icon": "productivebees:incubator",
+ "name": "孵化器",
+ "pages": [
+  {
+   "item": "productivebees:incubator",
+   "text": "厭倦了等待那些脆弱的小寶寶蜜蜂長大嗎？使用孵化器來加速這個過程。只要把幼蜂放進蜂籠，再連同一堆蜂蜜零食一起放入孵化器即可。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "text": "孵化器的另一個用途是為蛋注入特定蜜蜂種類的$(l:genetics/collecting#crystalline)基因$(/l)，以獲得該種蜜蜂的生怪蛋。你可以透過基因裝置取得蜜蜂種類基因。$(br)製作生怪蛋時只會使用種類基因。蜂蜜零食上的其他任何基因都會遺失",
+   "type": "patchouli:text"
+  }
+ ]
+}

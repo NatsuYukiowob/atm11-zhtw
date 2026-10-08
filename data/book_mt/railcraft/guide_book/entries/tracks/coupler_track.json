@@ -1,0 +1,15 @@
+{
+ "category": "railcraft:tracks",
+ "icon": "railcraft:iron_coupler_track",
+ "name": "連結軌道",
+ "pages": [
+  {
+   "text": "這些軌道用於建立或拆解車廂列車。它們必須由紅石供電才能運作。右鍵點選連結軌道即可切換為解除連結模式，反之亦然。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "連結軌道可以串接起來，搭配列車偵測器使用，即可連結整列列車。$(br)連結軌道另有一種稱為自動連結的模式，可以用撬棍設定。這會讓車廂與它碰撞到的下一節車廂連結。",
+   "type": "patchouli:text"
+  }
+ ]
+}

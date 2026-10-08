@@ -1,0 +1,7 @@
+{
+ "generatorgalore.recipe.burn_rate": "燃燒速率：%smB/t",
+ "generatorgalore.recipe.burn_time": "燃燒時間：%s",
+ "generatorgalore.recipe.rate": "速率：%sFE/t",
+ "generatorgalore.recipe.total": "總計：%sFE",
+ "generatorgalore.recipe.total_bucket": "總計：%sFE/B"
+}

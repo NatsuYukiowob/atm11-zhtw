@@ -1,0 +1,16 @@
+{
+ "category": "productivebees:blocks",
+ "icon": "productivebees:gene_indexer",
+ "name": "基因索引器",
+ "pages": [
+  {
+   "item": "productivebees:gene_indexer",
+   "text": "基因樣本多到讓你不知所措嗎？合併基因合到手腕重複性勞損嗎？那這個方塊就是為你準備的！",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "text": "把你手邊所有的基因都裝進這個超大容器，撥動開關，看著內部自動化的基因索引裝置替你合併基因。它或許不是最有效率的方法……但它是自動化的！$(br2)需要紅石訊號。",
+   "type": "patchouli:text"
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+{
+ "config.jade.plugin_balm.jade": "haiku",
+ "gui.balm.configuration.edit": "haiku",
+ "gui.balm.configuration.title": "haiku",
+ "gui.balm.configuration.validation.negative_infinity": "haiku",
+ "gui.balm.configuration.validation.positive_infinity": "haiku",
+ "gui.balm.configuration.validation.range": "haiku"
+}

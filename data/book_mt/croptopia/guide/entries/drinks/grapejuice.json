@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:drinks",
+ "icon": "croptopia:grape_juice",
+ "name": "葡萄汁",
+ "pages": [
+  {
+   "recipe": "croptopia:grape_juice",
+   "text": "葡萄汁的合成配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

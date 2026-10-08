@@ -1,0 +1,9 @@
+{
+ "artifacts.config.client.showArtifactsOnPlayers.description.0": "haiku",
+ "artifacts.config.client.showArtifactsOnPlayers.description.1": "haiku",
+ "artifacts.config.client.showArtifactsOnPlayers.title": "haiku",
+ "artifacts.config.items.scarf_of_invisibility.hidesEffectParticles.description": "haiku",
+ "artifacts.config.items.scarf_of_invisibility.hidesEffectParticles.title": "haiku",
+ "artifacts.tooltip.plus_mob_effect": "haiku",
+ "artifacts.tooltip.plus_mob_effect_chance": "haiku"
+}

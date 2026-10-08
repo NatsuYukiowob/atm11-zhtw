@@ -1,0 +1,8 @@
+{
+ "advancements.irons_artifice.over_over_overkill.title": "超級過殺",
+ "advancements.irons_artifice.ultrakill.title": "Ultrakill",
+ "irons_artifice.value_modifier.minus": "-%s %s",
+ "irons_artifice.value_modifier.minus_percent": "%s%% %s",
+ "irons_artifice.value_modifier.plus": "+%s %s",
+ "irons_artifice.value_modifier.plus_percent": "%s%% %s"
+}

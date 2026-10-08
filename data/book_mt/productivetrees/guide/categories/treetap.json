@@ -1,0 +1,6 @@
+{
+ "description": "本模組與 Tree Tap 模組相容，可額外提取部分樹木產物。",
+ "flag": "mod:treetap",
+ "icon": "treetap:tap",
+ "name": "樹液採集相容"
+}

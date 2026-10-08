@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:drinks",
+ "icon": "croptopia:orange_juice",
+ "name": "橙汁",
+ "pages": [
+  {
+   "recipe": "croptopia:orange_juice",
+   "text": "橙汁的合成配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

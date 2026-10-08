@@ -1,0 +1,9 @@
+{
+ "defaultoptions.configuration.defaultDifficulty": "預設難易度",
+ "defaultoptions.configuration.defaultDifficulty.tooltip": "新建世界時預先選取的預設難易度。",
+ "defaultoptions.configuration.defaultResourcePacks": "預設資源包",
+ "defaultoptions.configuration.defaultResourcePacks.tooltip": "首次執行時預設啟用的資源包 ID。",
+ "defaultoptions.configuration.lockDifficulty": "鎖定難易度",
+ "defaultoptions.configuration.lockDifficulty.tooltip": "設為 true 時，新世界的難易度將鎖定為指定的預設值。玩家無法在不使用外部工具的情況下解除鎖定！這可能不是好主意，我並不建議使用。我為什麼要加這個選項？",
+ "defaultoptions.configuration.title": "預設選項"
+}

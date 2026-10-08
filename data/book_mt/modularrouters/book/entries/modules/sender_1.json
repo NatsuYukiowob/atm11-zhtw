@@ -1,0 +1,16 @@
+{
+ "category": "modularrouters:modules",
+ "icon": "modularrouters:sender_module_1",
+ "name": "傳送模組 Mk1",
+ "pages": [
+  {
+   "text": "此模組會嘗試將路由器緩衝區中的物品傳送到模組$(l:intro/modules#direction)設定方向/$上的物品欄：$(li)目標物品欄最遠可達 8 格（使用$(l:augments/range_up)範圍提升增強/$可達 16 格）$(li)目標物品欄$(italic)必須/$位於 X、Y 或 Z 軸的直線上。$(li)路由器$(italic)必須/$對目標有清晰的視線；不能有不透明方塊，但玻璃、柵欄、鐵柵欄等方塊是可以的。",
+   "type": "text"
+  },
+  {
+   "recipe": "modularrouters:sender_module_1",
+   "recipe2": "modularrouters:sender_module_1_alt",
+   "type": "crafting"
+  }
+ ]
+}

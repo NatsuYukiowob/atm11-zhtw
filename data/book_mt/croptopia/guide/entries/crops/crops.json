@@ -1,0 +1,11 @@
+{
+ "category": "croptopia:crops",
+ "icon": "croptopia:eggplant_seed",
+ "name": "植物",
+ "pages": [
+  {
+   "text": "作物分佈於世界各地，它們各自有特定的生成群系。在 2.0.0 版中，作物的生成現在由資料包決定，而不再依群系的「category」，而是依群系名稱決定。若你希望將特定作物加入模組群系，請到我的 GitHub 頁面提出 issue。",
+   "type": "patchouli:text"
+  }
+ ]
+}

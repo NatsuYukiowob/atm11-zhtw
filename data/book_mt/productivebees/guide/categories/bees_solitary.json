@@ -1,0 +1,6 @@
+{
+ "description": "獨居蜂可在主世界的獨居蜂窩中生成。$(br2)$(l:hives/nests)在此閱讀關於蜂窩的說明$(/l)",
+ "icon": "productivebees:oak_wood_nest",
+ "name": "獨居蜂",
+ "parent": "productivebees:bees"
+}

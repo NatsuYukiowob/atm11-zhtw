@@ -1,0 +1,15 @@
+{
+ "category": "modularrouters:augments",
+ "icon": "modularrouters:redstone_augment",
+ "name": "紅石增強",
+ "pages": [
+  {
+   "text": "此增強可加到任何模組。$(p)一般情況下，模組會在路由器運作時直接執行，不附加任何條件。然而，若為模組加上此增強，該模組就能自行定義紅石行為；模組介面會多出一個按鈕用來控制此功能。",
+   "type": "text"
+  },
+  {
+   "recipe": "modularrouters:redstone_augment",
+   "type": "crafting"
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "category": "croptopia:crops",
+ "icon": "croptopia:apple_sapling",
+ "name": "樹木",
+ "pages": [
+  {
+   "text": "在世界中可以找到各種長有特殊作物的樹木。當它們完全成熟後，對它們按右鍵即可收穫。",
+   "type": "patchouli:text"
+  }
+ ]
+}

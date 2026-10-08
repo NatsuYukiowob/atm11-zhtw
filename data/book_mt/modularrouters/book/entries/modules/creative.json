@@ -1,0 +1,11 @@
+{
+ "category": "modularrouters:modules",
+ "icon": "modularrouters:creative_module",
+ "name": "創造模式模組",
+ "pages": [
+  {
+   "text": "創造模式模組是一種特殊、無法合成的模組，它會憑空將物品插入路由器的緩衝區。$(p)它使用模組的過濾器作為物品清單，並在每個刻動時以輪詢方式移動到過濾器中的下一個物品。它不理會其他過濾設定（白名單／黑名單、比對 NBT……）。",
+   "type": "text"
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "block.underwater_village.example_block": "範例方塊",
+ "item.underwater_village.example_item": "範例物品",
+ "itemGroup.underwater_village": "範例模組分頁",
+ "underwater_village.configuration.items": "物品清單",
+ "underwater_village.configuration.logDirtBlock": "記錄泥土方塊",
+ "underwater_village.configuration.magicNumber": "魔術數字",
+ "underwater_village.configuration.magicNumberIntroduction": "魔術數字文字",
+ "underwater_village.configuration.section.underwater_village.common.toml": "Underwater Village 設定",
+ "underwater_village.configuration.section.underwater_village.common.toml.title": "Underwater Village 設定",
+ "underwater_village.configuration.title": "Underwater Village 設定"
+}

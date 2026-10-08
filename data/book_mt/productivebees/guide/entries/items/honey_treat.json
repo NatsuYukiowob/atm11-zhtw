@@ -1,0 +1,12 @@
+{
+ "category": "productivebees:items",
+ "icon": "productivebees:honey_treat",
+ "name": "蜂蜜零食",
+ "pages": [
+  {
+   "item": "productivebees:honey_treat",
+   "text": "蜂蜜零食可餵給暴躁的蜜蜂讓它們冷靜下來。餵給幼年蜜蜂則能讓它們更快長大。$(br2)蜂蜜零食也可以與基因合成，將基因從一隻蜜蜂轉移到另一隻。更多資訊請參閱$(l:genetics/transferring)基因頁面$(/l)",
+   "type": "patchouli:spotlight"
+  }
+ ]
+}

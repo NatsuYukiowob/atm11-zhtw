@@ -1,0 +1,21 @@
+{
+ "category": "laserio:cards",
+ "icon": "laserio:card_chemical",
+ "name": "化學卡",
+ "pages": [
+  {
+   "text": "化學卡用於在容器之間傳送化學品，例如 Mekanism 的儲罐。這些卡片僅在安裝了 Mekanism 時可用。$(br2)超頻器的數值記載於下一頁。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "超頻器的最大 MB/T 數值：$(br2)$(li)0 個超頻器：15,000mb/20t$(li)1 個超頻器：60,000mb/15t$(li)2 個超頻器：120,000mb/10t$(li)3 個超頻器：180,000mb/5t$(li)4 個超頻器：240,000mb/1t",
+   "type": "patchouli:text"
+  },
+  {
+   "recipe": "laserio:card_chemical",
+   "title": "化學卡",
+   "type": "patchouli:crafting"
+  }
+ ],
+ "sortnum": 5
+}

@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:snacks",
+ "icon": "croptopia:popcorn",
+ "name": "爆米花",
+ "pages": [
+  {
+   "recipe": "croptopia:popcorn_from_corn",
+   "text": "爆米花的製作配方。",
+   "type": "patchouli:smelting"
+  }
+ ]
+}

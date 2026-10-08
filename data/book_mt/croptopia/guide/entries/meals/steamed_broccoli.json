@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:meals",
+ "icon": "croptopia:steamed_broccoli",
+ "name": "清蒸花椰菜",
+ "pages": [
+  {
+   "recipe": "croptopia:shaped_steamed_broccoli",
+   "text": "食譜",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

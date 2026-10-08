@@ -1,0 +1,35 @@
+{
+ "category": "modularrouters:upgrades",
+ "icon": "modularrouters:energy_upgrade",
+ "name": "能量升級",
+ "pages": [
+  {
+   "text": "此升級可讓路由器擁有內部能量緩衝。每個升級會將緩衝容量增加 50,000 FE，並將傳輸速率每 $(italic)路由器 tick/$ 增加 1,000 FE（這些數值可在模組設定中調整）。$(p)能量升級在數種情境下相當實用，詳見後續頁面。",
+   "type": "text"
+  },
+  {
+   "text": "$(l:modules/energy_output)能量輸出/$模組與$(l:modules/energy_distributor)能量分配/$模組都能主動將路由器緩衝中的能量推送到相鄰或附近的方塊。$(p)使用這些模組，你可以有效建造一座具備有限無線能量傳輸能力的能量電池。",
+   "title": "1. 路由能量",
+   "type": "text"
+  },
+  {
+   "text": "預設情況下，路由器模組運作時不消耗能量，但處於攻擊模式的$(l:modules/activator)啟動器模組/$例外。$(p)不過，能量消耗可以設定，且你所遊玩的整合包中其他模組也可能需要耗能；凡有耗能的模組，都會在其提示框中列出能量消耗數值。",
+   "title": "2. 為模組供電",
+   "type": "text"
+  },
+  {
+   "text": "路由器緩衝中任何可儲存能量的物品，都可以Select從路由器內部緩衝向該物品傳輸能量，或反向傳輸。$(p)當可儲能物品位於物品緩衝中時，路由器介面會顯示一個可切換的按鈕，位於緩衝與能量條之間，用來設定能量傳輸方向。",
+   "title": "3. 為物品充能",
+   "type": "text"
+  },
+  {
+   "text": "需要注意，提示框中標示的傳輸速率單位是每 $(italic)路由器 tick/$ 的 FE，這與 FE/t 並不相同。路由器的 tick 速率取決於其$(l:upgrades/speed)速度升級/$數量；若沒有速度升級，路由器每 20 個伺服器 tick 才運作一次。因此，整體傳輸速率可能會比你預期的更低。",
+   "title": "傳輸速率",
+   "type": "text"
+  },
+  {
+   "recipe": "modularrouters:energy_upgrade",
+   "type": "crafting"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "category": "productivebees:bees_hive",
+ "icon": "minecraft:experience_bottle",
+ "name": "經驗蜂",
+ "pages": [
+  {
+   "anchor": "experience",
+   "text": "由$(l:bees/hive/emerald)綠寶石蜂$(/l)與$(l:bees/hive/lapis)青金石蜂$(/l)繁殖而來。",
+   "title": "經驗蜂",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:configurable_bee{type:'productivebees:experience'}",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true
+}

@@ -1,0 +1,18 @@
+{
+ "category": "mffs:interdiction_modules",
+ "icon": "mffs:block_alter_module",
+ "name": "方塊修改模組",
+ "pages": [
+  {
+   "item": "mffs:block_alter_module",
+   "link_recipe": true,
+   "text": "$(5)方塊修改模組$()是$(l:mffs:machines/interdiction_matrix)干涉矩陣$()的選配模組。安裝後，矩陣可以阻止玩家增加或移除方塊。若玩家試圖在$(l:mffs:machines/interdiction_matrix)干涉矩陣$()的作用範圍內破壞或放置方塊，系統會通知該玩家沒有許可權執行此操作，並撤銷其動作。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "mffs:block_alter_module",
+   "text": "合成$(5)方塊修改模組$()。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

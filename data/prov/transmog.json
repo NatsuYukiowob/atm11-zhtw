@@ -1,0 +1,13 @@
+{
+ "tag.item.transmog.transmog_fuels": "haiku",
+ "transmog.config.disable_during_pvp_duration": "haiku",
+ "transmog.config.disable_during_pvp_duration.label": "haiku",
+ "transmog.config.disable_during_pvp_duration.tooltip": "haiku",
+ "transmog.config.tooltip": "haiku",
+ "transmog.config.tooltip.full": "haiku",
+ "transmog.config.tooltip.full.tooltip": "haiku",
+ "transmog.config.tooltip.minimal": "haiku",
+ "transmog.config.tooltip.minimal.tooltip": "haiku",
+ "transmog.config.tooltip.none": "haiku",
+ "transmog.config.tooltip.none.tooltip": "haiku"
+}

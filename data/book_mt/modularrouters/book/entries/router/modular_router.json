@@ -1,0 +1,58 @@
+{
+ "category": "modularrouters:router",
+ "icon": "modularrouters:modular_router",
+ "name": "模組化路由器",
+ "pages": [
+  {
+   "text": "$(thing)模組化路由器/$是路由系統的核心。它負責執行所有插在其中的模組，以各種方式移動物品、方塊與流體。",
+   "type": "text"
+  },
+  {
+   "border": true,
+   "images": [
+    "modularrouters:textures/patchouli/router_gui.png"
+   ],
+   "text": "$(italic)模組化路由器 GUI，已安裝多個模組與升級",
+   "type": "image"
+  },
+  {
+   "text": "$(thing)模組化路由器/$有一個單格緩衝區，最多可容納一組物品。此緩衝區以一般物品欄的形式對外開放，因此可以透過$(item)漏斗/$及其他模組的管線系統進行互動。$(p)此外，放在路由器旁的$(item)比較器/$會如預期般測量該格的填充程度。",
+   "title": "1. 緩衝區",
+   "type": "text"
+  },
+  {
+   "text": "$(thing)模組化路由器/$有九個$(l:intro/modules)模組/$格。每次路由器運作時（依速度升級，每秒 1 至 10 次），它會由左至右依序$(thing)執行/$每個模組。$(p)你可以不必取出已安裝的模組，即可透過滑鼠懸停時按下$(4)$(bold)[$(k:modularrouters.configure)]/$，或在 GUI 中$(thing)中鍵點選/$模組來設定它們。",
+   "title": "2. 模組格",
+   "type": "text"
+  },
+  {
+   "text": "$(thing)模組化路由器/$有五個$(l:intro/upgrades)升級/$格。升級可以以各種方式強化路由器的功能；例如，每安裝一個$(l:upgrades/speed)速度升級/$，路由器的運作速度就會加快一些，而每個$(l:upgrades/stack)堆疊升級/$則能讓它在每次運作時處理更多物品。",
+   "title": "3. 升級格",
+   "type": "text"
+  },
+  {
+   "text": "$(thing)模組化路由器/$對紅石輸入的反應可以調整，由右上角的按鈕控制：$(li)預設：無論紅石訊號為何都持續運作$(li)僅在$(italic)沒有/$紅石訊號幸運作$(li)僅在$(italic)有/$紅石訊號幸運作$(li)永不運作$(li)在收到紅石脈衝時$(italic)運作一次/$（任何高於先前的訊號）。",
+   "title": "4. 需要紅石",
+   "type": "text"
+  },
+  {
+   "text": "為了環保，路由器可以在閒置一段時間後自動減速。$(p)啟用節能模式後，若路由器在過去 $(ttcolor)$(t:可在模組設定中調整 - 'ecoTimeout')5 秒/$內沒有任何工作，它就會減速，並且每 $(ttcolor)$(t:可在模組設定中調整 - 'lowPowerTickRate')5 秒/$才運作一次（不受$(l:upgrades/speed)速度升級/$影響）。但只要它開始做任何工作，就會恢復正常運作速度。",
+   "title": "5. 節能模式",
+   "type": "text"
+  },
+  {
+   "text": "這主要是為了繁忙的伺服器節省 CPU 運算資源而設計，但對於只偶爾運作、且不需要快速傳輸物品的路由器（例如定期收集剪下羊毛的羊農場，其中可能裝有$(l:modules/vacuum)吸取模組/$）來說，也可能很實用。",
+   "title": "節能模式（續）",
+   "type": "text"
+  },
+  {
+   "text": "$(l:modules/placer)放置/$、$(l:modules/breaker)破壞/$、$(l:modules/activator)啟動/$模組都是以$(thing)假玩家/$的身分執行工作。這個假玩家使用放置路由器的玩家的遊戲設定檔；在使用 FTB Chunks 等領地保護模組的多人伺服器上，這點非常重要。",
+   "title": "假玩家",
+   "type": "text"
+  },
+  {
+   "recipe": "modularrouters:modular_router",
+   "type": "crafting"
+  }
+ ]
+}

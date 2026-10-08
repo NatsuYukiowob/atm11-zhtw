@@ -1,0 +1,18 @@
+{
+ "category": "productivebees:bees_hive",
+ "icon": "minecraft:blaze_powder",
+ "name": "烈焰蜜蜂",
+ "pages": [
+  {
+   "anchor": "blazing",
+   "text": "由$(l:bees/wild/magmatic)岩漿蜜蜂$(/l)與$(l:bees/solitary/nomad)流浪蜜蜂$(/l)培育而成。",
+   "title": "烈焰蜜蜂",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:configurable_bee{type:'productivebees:blazing'}",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true
+}

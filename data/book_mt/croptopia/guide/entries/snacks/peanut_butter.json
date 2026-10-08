@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:snacks",
+ "icon": "croptopia:peanut_butter",
+ "name": "花生醬",
+ "pages": [
+  {
+   "recipe": "croptopia:shaped_peanut_butter",
+   "text": "配方",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

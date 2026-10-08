@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:meals",
+ "icon": "croptopia:roasted_squash",
+ "name": "烤南瓜",
+ "pages": [
+  {
+   "recipe": "croptopia:shaped_roasted_squash",
+   "text": "配方",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

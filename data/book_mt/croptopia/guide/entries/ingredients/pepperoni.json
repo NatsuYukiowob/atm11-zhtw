@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:ingredients",
+ "icon": "croptopia:pepperoni",
+ "name": "義大利辣香腸",
+ "pages": [
+  {
+   "recipe": "croptopia:pepperoni",
+   "text": "義大利辣香腸的合成配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

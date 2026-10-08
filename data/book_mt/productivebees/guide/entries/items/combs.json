@@ -1,0 +1,11 @@
+{
+ "category": "productivebees:items",
+ "icon": "minecraft:honeycomb",
+ "name": "蜂窩梳",
+ "pages": [
+  {
+   "text": "住在進階蜂箱中的蜜蜂會產出資源蜂窩梳，可放入離心機來提取資源。$(br)蜂窩梳也可以壓縮成蜂窩梳方塊，方便儲存。",
+   "type": "patchouli:text"
+  }
+ ]
+}

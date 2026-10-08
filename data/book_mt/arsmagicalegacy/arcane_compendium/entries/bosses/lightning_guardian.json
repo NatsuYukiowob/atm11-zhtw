@@ -1,0 +1,30 @@
+{
+ "category": "arsmagicalegacy:bosses",
+ "icon": "arsmagicalegacy:lightning_guardian_spawn_egg",
+ "name": "item.arsmagicalegacy.arcane_compendium.bosses.lightning_guardian.name",
+ "pages": [
+  {
+   "text": "item.arsmagicalegacy.arcane_compendium.bosses.lightning_guardian.page0.text",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "arsmagicalegacy:lightning_guardian",
+   "text": "建議魔法等級：80",
+   "type": "patchouli:entity"
+  },
+  {
+   "multiblock_id": "arsmagicalegacy:lightning_guardian_spawn_ritual",
+   "name": "item.arsmagicalegacy.arcane_compendium.bosses.lightning_guardian.page2.title",
+   "type": "patchouli:multiblock"
+  },
+  {
+   "text": "item.arsmagicalegacy.arcane_compendium.bosses.lightning_guardian.page3.text",
+   "type": "patchouli:text"
+  },
+  {
+   "item": "arsmagicalegacy:lightning_charm",
+   "text": "item.arsmagicalegacy.arcane_compendium.bosses.lightning_guardian.page4.text",
+   "type": "patchouli:spotlight"
+  }
+ ]
+}

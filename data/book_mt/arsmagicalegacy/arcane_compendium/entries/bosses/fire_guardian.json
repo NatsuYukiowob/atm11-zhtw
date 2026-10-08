@@ -1,0 +1,30 @@
+{
+ "category": "arsmagicalegacy:bosses",
+ "icon": "arsmagicalegacy:fire_guardian_spawn_egg",
+ "name": "item.arsmagicalegacy.arcane_compendium.bosses.fire_guardian.name",
+ "pages": [
+  {
+   "text": "item.arsmagicalegacy.arcane_compendium.bosses.fire_guardian.page0.text",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "arsmagicalegacy:fire_guardian",
+   "text": "建議魔法等級：90",
+   "type": "patchouli:entity"
+  },
+  {
+   "multiblock_id": "arsmagicalegacy:fire_guardian_spawn_ritual",
+   "name": "item.arsmagicalegacy.arcane_compendium.bosses.fire_guardian.page2.title",
+   "type": "patchouli:multiblock"
+  },
+  {
+   "text": "item.arsmagicalegacy.arcane_compendium.bosses.fire_guardian.page3.text",
+   "type": "patchouli:text"
+  },
+  {
+   "item": "arsmagicalegacy:fire_antennae",
+   "text": "item.arsmagicalegacy.arcane_compendium.bosses.fire_guardian.page4.text",
+   "type": "patchouli:spotlight"
+  }
+ ]
+}

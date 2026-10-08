@@ -1,0 +1,29 @@
+{
+ "category": "mffs:getting_started",
+ "icon": "mffs:steel_compound",
+ "name": "蒐集資源",
+ "pages": [
+  {
+   "text": "力場的第一步是找到基礎資源。$(br)MFFS 的元件主要由$(5)鋼錠$()製成，鋼錠可以用兩個簡單步驟製作。首先，在合成台製作一些$(5)鋼化合物$()，然後將它們熔煉成鋼錠。",
+   "type": "patchouli:text"
+  },
+  {
+   "recipe": "mffs:steel_compound",
+   "text": "將 1 個鐵錠與 4 個煤炭合成為鋼化合物。",
+   "type": "patchouli:crafting"
+  },
+  {
+   "recipe": "mffs:steel_ingot",
+   "text": "將鋼化合物熔煉為鋼錠。",
+   "type": "patchouli:smelting"
+  },
+  {
+   "item": "mffs:steel_ingot",
+   "link_recipe": true,
+   "text": "這是你在 MFFS 中會用到最常見的材料之一。它用來合成$(5)聚焦矩陣$()或$(2)空白卡$()等基礎元件，也用於力場機械。",
+   "type": "patchouli:spotlight"
+  }
+ ],
+ "sortnum": 1,
+ "turnin": "mffs:smelt_steel"
+}

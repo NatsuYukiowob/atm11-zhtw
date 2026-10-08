@@ -1,0 +1,15 @@
+{
+ "category": "modularrouters:modules",
+ "icon": "modularrouters:detector_module",
+ "name": "偵測模組",
+ "pages": [
+  {
+   "text": "此模組實際上不會操作物品，而是偵測路由器緩衝區中的特定物品。若緩衝區內容與模組的過濾器相符，它會讓路由器在$(l:intro/modules#direction)設定方向/$上發出紅石訊號。$(p)訊號等級（預設：15）與訊號類型（預設：弱）可透過模組介面調整。",
+   "type": "text"
+  },
+  {
+   "recipe": "modularrouters:detector_module",
+   "type": "crafting"
+  }
+ ]
+}

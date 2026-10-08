@@ -1,0 +1,23 @@
+{
+ "gui.sfm.facade_confirm_apply.message": "將覆寫 %d 個方塊上共 %d 種不同的外觀狀態。",
+ "gui.sfm.label_gun.label_button": "%s (%d)",
+ "gui.sfm.manager.button.discord": "Discord",
+ "gui.sfm.program_editor_config.preferred_editor.v2": "V2",
+ "gui.sfm.remove_active_label_confirm.message": "確定要從 %d 個方塊上移除標籤「%s」嗎？",
+ "gui.sfm.remove_all_labels_confirm.message": "確定要從 %d 個方塊上移除 %d 個標籤嗎？",
+ "key.sfm.label_gun.open_gui": "開啟標籤槍介面",
+ "log.sfm.cable_network.body": "%s",
+ "log.sfm.cable_network.footer": "=============================",
+ "log.sfm.label_position_holder.body": "%s",
+ "log.sfm.label_position_holder.footer": "=============================",
+ "log.sfm.program.voided_resources": "%s",
+ "log.sfm.statement.tick.forget": "遺忘 %s",
+ "log.sfm.statement.tick.if.false": "假：%s",
+ "log.sfm.statement.tick.if.true": "真：%s",
+ "log.sfm.statement.tick.input": "%s",
+ "log.sfm.statement.tick.io.move_to.extracted": "已提取 %d（來自槽位 %d）",
+ "log.sfm.statement.tick.io.move_to.zero_simulated_movement": "模擬插入後得到餘數 %d（潛在數量 %d，可移動 0），已略過",
+ "log.sfm.statement.tick.output": "%s",
+ "program.sfm.error.literal": "%s",
+ "program.sfm.warnings.unused_input_label": "陳述式「%s」位於 %s，輸入了「%s」（來源：「%s」），但沒有後續的輸出陳述式會消耗「%s」。"
+}

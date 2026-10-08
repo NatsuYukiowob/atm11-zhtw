@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:meals",
+ "icon": "croptopia:chicken_and_noodles",
+ "name": "雞肉麵",
+ "pages": [
+  {
+   "recipe": "croptopia:chicken_and_noodles",
+   "text": "雞肉麵食譜。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

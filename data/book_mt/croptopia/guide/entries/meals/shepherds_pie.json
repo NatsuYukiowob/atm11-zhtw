@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:meals",
+ "icon": "croptopia:shepherds_pie",
+ "name": "牧羊人派",
+ "pages": [
+  {
+   "recipe": "croptopia:shaped_shepherds_pie",
+   "text": "牧羊人派配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

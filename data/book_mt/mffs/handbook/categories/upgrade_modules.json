@@ -1,0 +1,6 @@
+{
+ "description": "適用於所有力場機器的一般升級模組。",
+ "icon": "mffs:scale_module",
+ "name": "升級模組",
+ "sortnum": 2
+}

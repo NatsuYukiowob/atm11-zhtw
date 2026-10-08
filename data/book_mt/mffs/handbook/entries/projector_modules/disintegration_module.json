@@ -1,0 +1,32 @@
+{
+ "category": "mffs:projector_modules",
+ "icon": "mffs:disintegration_module",
+ "name": "分解模組",
+ "pages": [
+  {
+   "item": "mffs:disintegration_module",
+   "link_recipe": true,
+   "text": "$(5)分解模組$()可以放入$(l:mffs:machines/projector)力場投影機$()中，用來改變力場對周圍環境的影響。把$(5)分解模組$()放入投影機的矩陣格中，會使其產生的力場摧毀阻擋它的方塊。被摧毀的方塊會以物品掉落，並可被撿起。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "mffs:disintegration_module",
+   "text": "製作$(5)分解模組$()。",
+   "type": "patchouli:crafting"
+  },
+  {
+   "text": "$(5)分解模組$()與所有投影模式相容，也可以用來反轉$(l:mffs:projector_modules/stabilization_module)$(5)力場穩定模組$()的效果。在投影機中加入$(l:mffs:upgrade_modules/speed_module)$(5)速度模組$()，可以同時分解多個方塊。也可以搭配$(l:mffs:projector_modules/collection_module)$(5)收集模組$()，自動撿起被摧毀的方塊。",
+   "title": "用法",
+   "type": "patchouli:text"
+  },
+  {
+   "border": true,
+   "images": [
+    "mffs:textures/gui/handbook/disintegration_module.png"
+   ],
+   "text": "一台力場投影機正在使用$(5)分解模組$()摧毀一面牆。",
+   "title": "投射",
+   "type": "patchouli:image"
+  }
+ ]
+}

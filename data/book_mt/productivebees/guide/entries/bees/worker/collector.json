@@ -1,0 +1,18 @@
+{
+ "category": "productivebees:bees_worker",
+ "icon": "minecraft:hopper",
+ "name": "收集蜂",
+ "pages": [
+  {
+   "text": "收集地面上的物品並放入其蜂窩。$(br)與農夫蜂搭配使用，即可打造自動化農場。",
+   "title": "收集蜂",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:collector_bee",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true,
+ "sortnum": 5
+}

@@ -1,0 +1,11 @@
+{
+ "item.bblcore.upgrade_base": "haiku",
+ "tooltip.bblcore.alt": "haiku",
+ "tooltip.bblcore.ctrl": "haiku",
+ "tooltip.bblcore.shift": "haiku",
+ "tooltip.bblcore.whitelist_button.blacklist": "haiku",
+ "tooltip.bblcore.whitelist_button.mode": "haiku",
+ "tooltip.bblcore.whitelist_button.whitelist": "haiku",
+ "tooltip.core.duration_tooltip": "haiku",
+ "tooltip.core.ticks": "haiku"
+}

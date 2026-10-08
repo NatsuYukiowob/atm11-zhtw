@@ -1,0 +1,20 @@
+{
+ "modularrouters._comment": "JEI 文字",
+ "modularrouters.guiText.label.inspectionOp.eq": "=",
+ "modularrouters.guiText.label.inspectionOp.ge": ">=",
+ "modularrouters.guiText.label.inspectionOp.gt": ">",
+ "modularrouters.guiText.label.inspectionOp.le": "<=",
+ "modularrouters.guiText.label.inspectionOp.lt": "<",
+ "modularrouters.guiText.label.inspectionOp.ne": "!=",
+ "modularrouters.guiText.label.inspectionOp.none": "",
+ "modularrouters.guiText.label.inspectionSubject.none": "",
+ "modularrouters.guiText.tooltip.regulator.labelFluidPct": "%d%%",
+ "modularrouters.guiText.tooltip.regulator.labelFluidmB": "%d mB",
+ "modularrouters.itemText.fluid.maxTransfer": "流體速率：每次操作最多 %s mB",
+ "modularrouters.itemText.misc.configureHint": "▶ 按下 [%s] 或 [%s] 進行設定",
+ "modularrouters.itemText.misc.flingerDetails": "速度：%s | 俯仰：%s | 偏航：%s",
+ "modularrouters.itemText.misc.holdShiftKey": "▶ 按住 [%s] 開啟設定，按 [%s] 檢視更多資訊",
+ "modularrouters.itemText.misc.rangeInfo": "範圍：%s [基礎 %s，最大 %s]",
+ "modularrouters.itemText.misc.upgradeCount": "▶ %d x %s",
+ "modularrouters.itemText.sync.tuning": "調校值：%s"
+}

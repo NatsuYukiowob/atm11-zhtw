@@ -1,0 +1,18 @@
+{
+ "category": "productivebees:bees_wild",
+ "icon": "minecraft:ghast_tear",
+ "name": "幽靈蜂",
+ "pages": [
+  {
+   "anchor": "ghostly",
+   "text": "棲息於地獄的靈魂砂巢穴中。幽靈蜂偏好為附近的靈魂砂授粉。",
+   "title": "幽靈蜂",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:configurable_bee{type:'productivebees:ghostly'}",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true
+}

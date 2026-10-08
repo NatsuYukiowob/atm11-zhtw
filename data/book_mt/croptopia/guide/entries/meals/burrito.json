@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:meals",
+ "icon": "croptopia:burrito",
+ "name": "墨西哥捲餅",
+ "pages": [
+  {
+   "recipe": "croptopia:burrito",
+   "text": "墨西哥捲餅食譜。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

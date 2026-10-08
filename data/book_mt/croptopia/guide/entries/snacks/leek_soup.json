@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:snacks",
+ "icon": "croptopia:leek_soup",
+ "name": "韭蔥湯",
+ "pages": [
+  {
+   "recipe": "croptopia:leek_soup",
+   "text": "韭蔥湯的製作配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

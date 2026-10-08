@@ -1,0 +1,27 @@
+{
+ "category": "productivetrees:guide",
+ "icon": "minecraft:writable_book",
+ "name": "開始使用",
+ "pages": [
+  {
+   "flag": "mod:productivebees",
+   "text": "把一棵樹種在另一棵樹旁邊，並靠近一些蜜蜂，就能獲利。$(br)蜂箱可以模擬運作，範圍升級每個可增加 2 格作業範圍，基礎範圍為 4。$(br2)請注意，本模組仍處於測試版，功能尚未完整。$(br)其中樹木的生長功能（生長後的外觀）仍在開發中。",
+   "type": "patchouli:text"
+  },
+  {
+   "flag": "!mod:productivebees",
+   "text": "把一棵樹種在另一棵樹旁邊，並靠近一些蜜蜂，就能獲利。$(br)你也可以收集樹葉，並將其放入花粉篩取器中提取花粉。用花粉球對樹葉授粉，即可培育出新的樹種。$(br2)請注意，本模組仍處於測試版，功能尚未完整。$(br1)其中樹木的生長功能（生長後的外觀）仍在開發中。",
+   "type": "patchouli:text"
+  },
+  {
+   "flag": "!mod:productivebees",
+   "text": "若要使用蜜蜂，你需要確保想雜交的兩棵樹的樹葉距離蜂窩或蜂箱 4 格以內，且蜜蜂附近有花朵。蜜蜂每次從花朵返回蜂箱，都會對附近的一片樹葉觸發一次授粉嘗試。",
+   "type": "patchouli:text"
+  },
+  {
+   "item": "minecraft:spyglass",
+   "text": "你可以使用望遠鏡更容易看出哪些樹葉已被授粉。",
+   "type": "patchouli:spotlight"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "category": "productivebees:bees_worker",
+ "icon": "minecraft:wooden_axe",
+ "name": "伐木蜂",
+ "pages": [
+  {
+   "text": "會啃食附近的木頭，並把木材收集到蜂窩中。",
+   "title": "伐木蜂",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:lumber_bee",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true,
+ "sortnum": 3
+}

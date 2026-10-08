@@ -1,0 +1,9 @@
+{
+ "text.autoconfig.underground_villages.option.generation": "haiku",
+ "text.autoconfig.underground_villages.option.generation.yLevel": "haiku",
+ "text.autoconfig.underground_villages.title": "haiku",
+ "underground_villages.configuration.Generation": "haiku",
+ "underground_villages.configuration.Generation.tooltip": "haiku",
+ "underground_villages.configuration.yLevel": "haiku",
+ "underground_villages.configuration.yLevel.tooltip": "haiku"
+}

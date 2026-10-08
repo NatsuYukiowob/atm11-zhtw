@@ -1,0 +1,20 @@
+{
+ "modularrouters._comment": "haiku",
+ "modularrouters.guiText.label.inspectionOp.eq": "haiku",
+ "modularrouters.guiText.label.inspectionOp.ge": "haiku",
+ "modularrouters.guiText.label.inspectionOp.gt": "haiku",
+ "modularrouters.guiText.label.inspectionOp.le": "haiku",
+ "modularrouters.guiText.label.inspectionOp.lt": "haiku",
+ "modularrouters.guiText.label.inspectionOp.ne": "haiku",
+ "modularrouters.guiText.label.inspectionOp.none": "haiku",
+ "modularrouters.guiText.label.inspectionSubject.none": "haiku",
+ "modularrouters.guiText.tooltip.regulator.labelFluidPct": "haiku",
+ "modularrouters.guiText.tooltip.regulator.labelFluidmB": "haiku",
+ "modularrouters.itemText.fluid.maxTransfer": "haiku",
+ "modularrouters.itemText.misc.configureHint": "haiku",
+ "modularrouters.itemText.misc.flingerDetails": "haiku",
+ "modularrouters.itemText.misc.holdShiftKey": "haiku",
+ "modularrouters.itemText.misc.rangeInfo": "haiku",
+ "modularrouters.itemText.misc.upgradeCount": "haiku",
+ "modularrouters.itemText.sync.tuning": "haiku"
+}

@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:snacks",
+ "icon": "croptopia:raisins",
+ "name": "葡萄乾",
+ "pages": [
+  {
+   "recipe": "croptopia:raisins_from_grape",
+   "text": "葡萄乾的製作配方。",
+   "type": "patchouli:smelting"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "category": "arsmagicalegacy:bosses",
+ "icon": "arsmagicalegacy:nature_guardian_spawn_egg",
+ "name": "item.arsmagicalegacy.arcane_compendium.bosses.nature_guardian.name",
+ "pages": [
+  {
+   "text": "item.arsmagicalegacy.arcane_compendium.bosses.nature_guardian.page0.text",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "arsmagicalegacy:nature_guardian",
+   "text": "建議魔法等級：70",
+   "type": "patchouli:entity"
+  },
+  {
+   "entity": "arsmagicalegacy:dryad",
+   "text": "樹精會在森林中生成。可以用樹苗引誘牠們，牠們還能促進附近植物的生長。",
+   "type": "patchouli:entity"
+  },
+  {
+   "text": "item.arsmagicalegacy.arcane_compendium.bosses.nature_guardian.page3.text",
+   "type": "patchouli:text"
+  },
+  {
+   "item": "arsmagicalegacy:nature_scythe",
+   "text": "item.arsmagicalegacy.arcane_compendium.bosses.nature_guardian.page4.text",
+   "type": "patchouli:spotlight"
+  }
+ ]
+}

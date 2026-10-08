@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:snacks",
+ "icon": "croptopia:beef_jerky",
+ "name": "蒸飯",
+ "pages": [
+  {
+   "recipe": "croptopia:steamed_rice",
+   "text": "蒸飯的製作配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

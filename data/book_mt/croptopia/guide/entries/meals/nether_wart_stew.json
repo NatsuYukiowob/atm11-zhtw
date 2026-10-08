@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:meals",
+ "icon": "croptopia:nether_wart_stew",
+ "name": "地獄疙瘩粒燉湯",
+ "pages": [
+  {
+   "recipe": "croptopia:shaped_nether_wart_stew",
+   "text": "配方",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

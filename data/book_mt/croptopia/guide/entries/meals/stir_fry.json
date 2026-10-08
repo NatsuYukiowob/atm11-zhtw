@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:meals",
+ "icon": "croptopia:stir_fry",
+ "name": "炒什錦",
+ "pages": [
+  {
+   "recipe": "croptopia:shaped_stir_fry",
+   "text": "食譜",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

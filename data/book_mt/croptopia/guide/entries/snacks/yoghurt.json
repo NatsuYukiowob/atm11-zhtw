@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:snacks",
+ "icon": "croptopia:yoghurt",
+ "name": "優格",
+ "pages": [
+  {
+   "recipe": "croptopia:yoghurt",
+   "text": "製作優格的配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

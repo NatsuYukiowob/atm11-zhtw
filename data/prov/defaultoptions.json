@@ -1,0 +1,9 @@
+{
+ "defaultoptions.configuration.defaultDifficulty": "haiku",
+ "defaultoptions.configuration.defaultDifficulty.tooltip": "haiku",
+ "defaultoptions.configuration.defaultResourcePacks": "haiku",
+ "defaultoptions.configuration.defaultResourcePacks.tooltip": "haiku",
+ "defaultoptions.configuration.lockDifficulty": "haiku",
+ "defaultoptions.configuration.lockDifficulty.tooltip": "haiku",
+ "defaultoptions.configuration.title": "haiku"
+}

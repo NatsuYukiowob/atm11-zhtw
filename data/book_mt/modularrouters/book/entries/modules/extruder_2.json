@@ -1,0 +1,19 @@
+{
+ "category": "modularrouters:modules",
+ "icon": "modularrouters:extruder_module_2",
+ "name": "擠出模組 Mk2",
+ "pages": [
+  {
+   "text": "此模組的行為與$(l:modules/extruder_1)擠出模組 Mk1/$有些相似，但有幾個重要差異：$(li)Mk2 模組不會從路由器緩衝區放置物品，而是從模組本身內定義的範本放置。$(li)此範本位於模組 GUI 的右側，有 9 個格子，每格可放入多個物品。放入範本的物品是「虛影」物品。",
+   "type": "text"
+  },
+  {
+   "text": "$(li)擠出的方塊是「虛擬」的，等於憑空產生，被打破時不會掉落任何東西，也無法以正常方式合成。$(li)因此，此模組不適合像 Mk1 那樣用於農場，但可以用來建造比 Mk1 能做到的更複雜圖樣的門、橋等。$(li)擠出模組 Mk2 的預設範圍為 24 格，使用範圍升級可提高到 48 格。",
+   "type": "text"
+  },
+  {
+   "recipe": "modularrouters:extruder_module_2",
+   "type": "crafting"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "category": "modularrouters:augments",
+ "icon": "modularrouters:mimic_augment",
+ "name": "擬態增強",
+ "pages": [
+  {
+   "text": "此增強只能加到$(l:modules/extruder_2)擠出模組 Mk2/$。$(p)有此增強時，擠出模組擠出的假方塊會具備所偽裝方塊的特性，例如$(item)黑曜石/$難以破壞、$(item)螢光石/$會發光，$(item)紅石方塊/$則會發出紅石訊號。",
+   "type": "text"
+  },
+  {
+   "recipe": "modularrouters:mimic_augment",
+   "type": "crafting"
+  }
+ ]
+}

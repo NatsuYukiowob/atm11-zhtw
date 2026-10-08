@@ -1,0 +1,50 @@
+{
+ "category": "modularrouters:intro",
+ "icon": "modularrouters:breaker_module",
+ "name": "模組",
+ "pages": [
+  {
+   "text": "$(thing)模組/$插入$(l:intro/modular_router)模組化路由器/$中，告訴路由器要做什麼。共有 20 種不同的模組類型，每種都有特定功能。不過，所有模組都有一些共同特性：$(li)所有模組都有 9 個$(thing)過濾槽/$，用來控制模組要處理哪些物品。$(li)許多模組有一個已定義的$(thing)方向/$，相對於路由器的朝向。",
+   "type": "text"
+  },
+  {
+   "text": "$(li)部分模組有額外設定，用於設定模組特定的功能。$(p)所有這些都可以在模組的介面中設定，只要$(thing)右鍵點選/$手持的模組即可開啟介面。$(p)你也可以在路由器介面中設定已安裝的模組：將遊標懸停於其上並按下$(4)$(bold)[$(k:modularrouters.configure)]/$，或在介面中$(thing)中鍵點選/$該模組，無需將其從路由器中取出。",
+   "type": "text"
+  },
+  {
+   "border": true,
+   "images": [
+    "modularrouters:textures/patchouli/module_gui.png"
+   ],
+   "text": "$(italic)模組介面：請參閱後續頁面，了解介面各部分的說明/$",
+   "type": "image"
+  },
+  {
+   "anchor": "filter",
+   "text": "路由器中共有九個過濾槽，可放入任何物品或方塊的幽靈副本。只有當路由器$(thing)緩衝區/$中的物品與模組過濾器中的某個物品相符時，模組才會運作（若為白名單模式；黑名單模式則相反）。",
+   "title": "1. 過濾槽",
+   "type": "text"
+  },
+  {
+   "anchor": "direction",
+   "text": "大多數模組會相對於路由器的朝向，以特定方向運作。你可以在這裡定義方向。$(p)某些模組（例如$(l:modules/sender2)傳送模組 Mk2/$）會直接以遠處的方塊為目標，因此沒有可定義的方向。在這種情況下，方向Select器會是空白的。",
+   "title": "2. 方向Select器",
+   "type": "text"
+  },
+  {
+   "text": "這裡有數個按鈕，用來控制：$(li)白名單與黑名單模式$(li)是否比對物品耐久度（適用於有耐久度的物品）$(li)是否比對物品 NBT，例如附魔$(li)是否依$(l:https://minecraft.gamepedia.com/Tag)物品標籤/$比對$(p)這裡也有一個按鈕用來控制$(l:router/termination)終止行為/$，該內容會在另一頁說明。",
+   "title": "3. 過濾控制",
+   "type": "text"
+  },
+  {
+   "text": "每個模組都有四個$(thing)強化/$槽位，可以插入強化（模組專用的升級）。$(p)可插入的強化取決於模組類型；並非每種模組都接受每種強化。",
+   "title": "4. 強化",
+   "type": "text"
+  },
+  {
+   "text": "部分模組有一些額外的設定選項。例如，先前所示的$(l:modules/detector)偵測模組/$具有設定紅石輸出等級，以及輸出訊號為弱或強紅石訊號的選項。$(p)若模組有此類選項，會顯示在介面右側。",
+   "title": "5. 額外設定",
+   "type": "text"
+  }
+ ]
+}

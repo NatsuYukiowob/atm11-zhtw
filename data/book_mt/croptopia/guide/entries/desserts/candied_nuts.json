@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:desserts",
+ "icon": "croptopia:candied_nuts",
+ "name": "蜜餞堅果",
+ "pages": [
+  {
+   "recipe": "croptopia:candied_nuts",
+   "text": "蜜餞堅果的配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

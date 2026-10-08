@@ -1,0 +1,16 @@
+{
+ "block.trophymanager.trophy": "獎盃",
+ "gui.apply": "套用",
+ "gui.trophy.jei.any_item": "任何物品都可以放在這裡",
+ "gui.trophy.jei.item_trophy": "物品獎盃",
+ "gui.trophy.offset": "Y 偏移：%s",
+ "gui.trophy.pose": "姿勢：%s",
+ "gui.trophy.pose.flying": "飛行",
+ "gui.trophy.pose.sitting": "坐下",
+ "gui.trophy.pose.standing": "站立",
+ "gui.trophy.reset": "重設",
+ "gui.trophy.rotation": "%s：%s°",
+ "gui.trophy.size": "大小：%s",
+ "trophymanager.tooltip.trophy.scale": "縮放：%s",
+ "trophymanager.trophy.name": "%s 獎盃"
+}

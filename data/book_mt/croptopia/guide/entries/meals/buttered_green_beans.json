@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:meals",
+ "icon": "croptopia:buttered_green_beans",
+ "name": "奶油青豆",
+ "pages": [
+  {
+   "recipe": "croptopia:shaped_buttered_green_beans",
+   "text": "食譜",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

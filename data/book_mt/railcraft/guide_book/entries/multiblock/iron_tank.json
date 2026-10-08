@@ -1,0 +1,20 @@
+{
+ "category": "railcraft:multiblock",
+ "icon": "railcraft:white_iron_tank_valve",
+ "name": "鐵材質儲罐",
+ "pages": [
+  {
+   "text": "正在木焦油裡游泳？被生質燃料淹沒？全身沾滿蜂蜜……嗯，我們還是別提那些吧。總之，我們有解決方案了！$(br2)今天，我們為您帶來這些閃亮的工業新堡壘——鐵材質儲罐！您的天際線將從此煥然一新！$(br2)它們有四種規格：3×3、5×5、7×7 與 9×9。此外，高度可在 4 格到 8 格之間自訂！要建造這些奇蹟，您需要依所需尺寸鋪設一圈鐵材質儲罐牆方塊作為框架。",
+   "type": "patchouli:text"
+  },
+  {
+   "multiblock_id": "railcraft:iron_tank",
+   "name": "鐵材質儲罐",
+   "type": "patchouli:multiblock"
+  },
+  {
+   "text": "接著，您可以依喜好，以任意組合的牆、壓力計或閥門填滿頂部、底部與側面。$(br2)等等，還有更多！您也可以堆疊儲罐！只要在儲罐相接的中央位置放置幾個閥門，就大功告成了！",
+   "type": "patchouli:text"
+  }
+ ]
+}

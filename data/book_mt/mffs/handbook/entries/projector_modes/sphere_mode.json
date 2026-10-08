@@ -1,0 +1,32 @@
+{
+ "category": "mffs:projector_modes",
+ "icon": "mffs:sphere_mode",
+ "name": "球體模式",
+ "pages": [
+  {
+   "item": "mffs:sphere_mode",
+   "link_recipe": true,
+   "text": "預設情況下，$(2)球體模式$()會讓投影機產生一個恰好 1 格厚的球形力場。每個$(l:mffs:upgrade_modules/scale_module)$(5)縮放模組$()會使力場的大小增加 1 格。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "mffs:sphere_mode",
+   "text": "製作$(2)球體模式$()。",
+   "type": "patchouli:crafting"
+  },
+  {
+   "text": "在標有方向箭頭的物品欄位中加入$(l:mffs:upgrade_modules/scale_module)$(5)縮放模組$()，每個模組會使力場的半徑再增加 1 格。",
+   "title": "力場調整",
+   "type": "patchouli:text"
+  },
+  {
+   "border": true,
+   "images": [
+    "mffs:textures/gui/handbook/sphere_mode.png"
+   ],
+   "text": "正在投射一個經過縮放的$(2)球體模式$()力場。",
+   "title": "投射",
+   "type": "patchouli:image"
+  }
+ ]
+}

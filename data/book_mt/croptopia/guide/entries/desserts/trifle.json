@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:desserts",
+ "icon": "croptopia:trifle",
+ "name": "英式果凍蛋糕",
+ "pages": [
+  {
+   "recipe": "croptopia:shaped_trifle",
+   "text": "英式果凍蛋糕的合成配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

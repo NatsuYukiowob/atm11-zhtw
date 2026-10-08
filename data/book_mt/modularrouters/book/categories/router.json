@@ -1,0 +1,6 @@
+{
+ "description": "模組化路由器是 $(modr) 模組中唯一的方塊。",
+ "icon": "modularrouters:modular_router",
+ "name": "模組化路由器",
+ "sortnum": 1
+}

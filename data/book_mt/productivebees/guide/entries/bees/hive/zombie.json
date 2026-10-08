@@ -1,0 +1,18 @@
+{
+ "category": "productivebees:bees_hive",
+ "icon": "minecraft:rotten_flesh",
+ "name": "殭屍蜂",
+ "pages": [
+  {
+   "anchor": "zombie",
+   "text": "若蜂箱在黑暗中空置，將會搬入進階蜂箱。",
+   "title": "殭屍蜂",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:configurable_bee{type:'productivebees:zombie'}",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true
+}

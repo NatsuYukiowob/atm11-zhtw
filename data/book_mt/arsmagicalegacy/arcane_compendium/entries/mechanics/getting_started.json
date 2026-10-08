@@ -1,0 +1,85 @@
+{
+ "category": "arsmagicalegacy:mechanics",
+ "icon": "patchouli:guide_book[patchouli:book=\"arsmagicalegacy:arcane_compendium\"]",
+ "name": "item.arsmagicalegacy.arcane_compendium.mechanics.getting_started.name",
+ "pages": [
+  {
+   "text": "item.arsmagicalegacy.arcane_compendium.mechanics.getting_started.page0.text",
+   "type": "patchouli:text"
+  },
+  {
+   "images": [
+    "arsmagicalegacy:patchouli_books/arcane_compendium/en_us/images/occulus.png"
+   ],
+   "text": "Occulus 共有五個分頁，其中前四個是技能樹分頁。",
+   "type": "patchouli:image"
+  },
+  {
+   "text": "item.arsmagicalegacy.arcane_compendium.mechanics.getting_started.page2.text",
+   "title": "item.arsmagicalegacy.arcane_compendium.mechanics.getting_started.page2.title",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "item.arsmagicalegacy.arcane_compendium.mechanics.getting_started.page3.text",
+   "title": "item.arsmagicalegacy.arcane_compendium.mechanics.getting_started.page3.title",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "item.arsmagicalegacy.arcane_compendium.mechanics.getting_started.page4.text",
+   "title": "item.arsmagicalegacy.arcane_compendium.mechanics.getting_started.page4.title",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "item.arsmagicalegacy.arcane_compendium.mechanics.getting_started.page5.text",
+   "title": "item.arsmagicalegacy.arcane_compendium.mechanics.getting_started.page5.title",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "item.arsmagicalegacy.arcane_compendium.mechanics.getting_started.page6.text",
+   "title": "item.arsmagicalegacy.arcane_compendium.mechanics.getting_started.page6.title",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "item.arsmagicalegacy.arcane_compendium.mechanics.getting_started.page7.text",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "item.arsmagicalegacy.arcane_compendium.mechanics.getting_started.page8.text",
+   "type": "patchouli:text"
+  },
+  {
+   "images": [
+    "arsmagicalegacy:patchouli_books/arcane_compendium/en_us/images/inscription_table_1.png"
+   ],
+   "text": "名稱欄可用來為你的法術配方命名，但這不是必填的。",
+   "type": "patchouli:image"
+  },
+  {
+   "images": [
+    "arsmagicalegacy:patchouli_books/arcane_compendium/en_us/images/inscription_table_2.png"
+   ],
+   "text": "將技能拖曳到形狀群組與法術語法區域。",
+   "type": "patchouli:image"
+  },
+  {
+   "images": [
+    "arsmagicalegacy:patchouli_books/arcane_compendium/en_us/images/inscription_table_3.png"
+   ],
+   "text": "所示的法術配方為$(l:shapes/projectile)投射物$()-$(l:components/dig)挖掘$()，建議新手使用。",
+   "type": "patchouli:image"
+  },
+  {
+   "text": "item.arsmagicalegacy.arcane_compendium.mechanics.getting_started.page12.text",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "item.arsmagicalegacy.arcane_compendium.mechanics.getting_started.page13.text",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "item.arsmagicalegacy.arcane_compendium.mechanics.getting_started.page14.text",
+   "type": "patchouli:text"
+  }
+ ],
+ "priority": true
+}

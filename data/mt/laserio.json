@@ -1,0 +1,7 @@
+{
+ "item.laserio.laser_connector": "雷射聯結器",
+ "item.laserio.laser_connector_advanced": "高階鐳射聯結器",
+ "item.laserio.laser_node": "雷射節點",
+ "itemGroup.laserio": "LaserIO",
+ "screen.laserio.alpha": "Alpha"
+}

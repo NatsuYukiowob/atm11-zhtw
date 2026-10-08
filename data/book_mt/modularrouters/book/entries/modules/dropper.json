@@ -1,0 +1,15 @@
+{
+ "category": "modularrouters:modules",
+ "icon": "modularrouters:dropper_module",
+ "name": "投擲模組",
+ "pages": [
+  {
+   "text": "此模組會嘗試將路由器緩衝區中的物品以物品實體的形式丟到世界中。掉落點會位於路由器相鄰、模組的$(l:intro/modules#direction)設定方向/$上。物品實體會以零速度放置，不像原版$(item)投擲器/$會為物品加上令人討厭的隨機速度。",
+   "type": "text"
+  },
+  {
+   "recipe": "modularrouters:dropper_module",
+   "type": "crafting"
+  }
+ ]
+}

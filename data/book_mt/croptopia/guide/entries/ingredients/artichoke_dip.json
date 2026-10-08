@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:ingredients",
+ "icon": "croptopia:artichoke_dip",
+ "name": "朝鮮薊醬",
+ "pages": [
+  {
+   "recipe": "croptopia:artichoke_dip",
+   "text": "朝鮮薊醬的合成配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

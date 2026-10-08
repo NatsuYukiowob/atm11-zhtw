@@ -1,0 +1,18 @@
+{
+ "category": "productivebees:bees_wild",
+ "icon": "minecraft:quartz",
+ "name": "水晶蜂",
+ "pages": [
+  {
+   "anchor": "crystalline",
+   "text": "棲息於地獄中的地獄石英巢穴內。水晶蜂偏好為含有或由地獄石英製成的物品授粉。。",
+   "title": "水晶蜂",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:configurable_bee{type:'productivebees:crystalline'}",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true
+}

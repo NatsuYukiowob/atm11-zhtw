@@ -1,0 +1,15 @@
+{
+ "block.laserbridges.laser_block_powered": "雷射方塊",
+ "block.laserbridges.laser_fence_powered": "雷射方塊",
+ "block.laserbridges.laser_fence_source_block": "雷射柵欄源",
+ "block.laserbridges.laser_fence_source_fullblock": "雷射柵欄源方塊",
+ "block.laserbridges.laser_source_block": "雷射源",
+ "block.laserbridges.laser_source_fullblock": "雷射源方塊",
+ "item.laserbridges.laser_fence_source_block": "雷射柵欄源",
+ "item.laserbridges.laser_fence_source_fullblock": "雷射柵欄源方塊",
+ "item.laserbridges.laser_source_block": "雷射源",
+ "item.laserbridges.laser_source_fullblock": "雷射源方塊",
+ "laserbridges.deimosconfig.blocks_cut_through_by_lasers": "可被雷射取代的方塊",
+ "laserbridges.deimosconfig.max_length": "紅石能量最大時的橋樑長度",
+ "laserbridges.deimosconfig.title": "雷射橋與門設定"
+}

@@ -1,0 +1,19 @@
+{
+ "chat.waystones.destination_out_of_bounds": "haiku",
+ "chat.waystones.requirements_not_met.specific": "haiku",
+ "commands.waystones.activate.success.multiple": "haiku",
+ "commands.waystones.activate.success.single": "haiku",
+ "commands.waystones.cooldown.reset.success.multiple": "haiku",
+ "commands.waystones.cooldown.reset.success.single": "haiku",
+ "commands.waystones.forget.success.multiple": "haiku",
+ "commands.waystones.forget.success.single": "haiku",
+ "commands.waystones.list.coordinates": "haiku",
+ "container.waystones.personal_waystone_settings": "haiku",
+ "gui.waystones.manage_waystones.hide_waystone": "haiku",
+ "gui.waystones.manage_waystones.show_waystone": "haiku",
+ "gui.waystones.waystone_selection.epitaph_requirement": "haiku",
+ "gui.waystones.waystone_selection.twinbound_feather": "haiku",
+ "gui.waystones.waystone_selection.twinbound_feather_requirement": "haiku",
+ "waystones.configuration.rules.warpSettings": "haiku",
+ "waystones.configuration.rules.warpSettings.tooltip": "haiku"
+}

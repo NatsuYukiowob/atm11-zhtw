@@ -1,0 +1,16 @@
+{
+ "category": "modularrouters:augments",
+ "icon": "modularrouters:range_down_augment",
+ "name": "範圍降低增強",
+ "pages": [
+  {
+   "text": "此增強可加到任何具有範圍的模組（傳送模組 $(l:modules/sender_1)Mk1/$ / $(l:modules/sender_2)Mk2/$、拉取模組 $(l:modules/puller_1)Mk1/$ / $(l:modules/puller_2)Mk2/$、擠出模組 $(l:modules/extruder_1)Mk1/$ / $(l:modules/extruder_2)Mk2/$、$(l:modules/fluid_2)流體 Mk2/$、$(l:modules/vacuum)真空/$）。$(p)可以疊加；每個增強會將模組的範圍減少一格。$(p)這大概只有搭配$(l:modules/vacuum)真空模組/$使用時才有用，可用來控制其掃描物品的範圍。",
+   "type": "text"
+  },
+  {
+   "recipe": "modularrouters:range_down_augment",
+   "recipe2": "modularrouters:range_down_from_up",
+   "type": "crafting"
+  }
+ ]
+}

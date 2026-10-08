@@ -1,0 +1,66 @@
+{
+ "category": "arsmagicalegacy:blocks",
+ "icon": "arsmagicalegacy:chimerite_ore",
+ "name": "item.arsmagicalegacy.arcane_compendium.blocks.ores.name",
+ "pages": [
+  {
+   "text": "item.arsmagicalegacy.arcane_compendium.blocks.ores.page0.text",
+   "type": "patchouli:text"
+  },
+  {
+   "anchor": "chimerite",
+   "item": "arsmagicalegacy:chimerite_ore",
+   "text": "發現於岩層不斷移動的地方。Chimerite 用於需要大量變化或幻術的法術。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "anchor": "topaz",
+   "item": "arsmagicalegacy:topaz_ore",
+   "text": "發現於最深的地底或最高的山峰。Topaz 通常作為入門級的魔法水晶使用。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "anchor": "vinteum",
+   "item": "arsmagicalegacy:vinteum_ore",
+   "text": "在世界的大多數地層中相當常見，Vinteum Dust 很快就證明瞭自己是可行的魔法資源。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "anchor": "moonstone",
+   "item": "arsmagicalegacy:moonstone_ore",
+   "text": "很少見，偶爾藏於很久以前墜落在世界上的隕石中。Moonstone 是一種具有非凡魔法強力的天體材料。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "anchor": "sunstone",
+   "item": "arsmagicalegacy:sunstone_ore",
+   "text": "Sunstone 寶石是在與地獄熔岩海洋接觸的黑曜石斑塊中，歷經數千年形成的。儘管如此，它們並不耐火，取得時必須格外小心。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "arsmagicalegacy:chimerite_block",
+   "recipe2": "arsmagicalegacy:chimerite",
+   "type": "patchouli:crafting"
+  },
+  {
+   "recipe": "arsmagicalegacy:topaz_block",
+   "recipe2": "arsmagicalegacy:topaz",
+   "type": "patchouli:crafting"
+  },
+  {
+   "recipe": "arsmagicalegacy:vinteum_block",
+   "recipe2": "arsmagicalegacy:vinteum_dust",
+   "type": "patchouli:crafting"
+  },
+  {
+   "recipe": "arsmagicalegacy:moonstone_block",
+   "recipe2": "arsmagicalegacy:moonstone",
+   "type": "patchouli:crafting"
+  },
+  {
+   "recipe": "arsmagicalegacy:sunstone_block",
+   "recipe2": "arsmagicalegacy:sunstone",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

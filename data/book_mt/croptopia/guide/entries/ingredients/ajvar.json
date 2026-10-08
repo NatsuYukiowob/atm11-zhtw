@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:ingredients",
+ "icon": "croptopia:ajvar",
+ "name": "阿伊瓦爾辣椒醬",
+ "pages": [
+  {
+   "recipe": "croptopia:shaped_ajvar",
+   "text": "阿伊瓦爾辣椒醬的合成配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

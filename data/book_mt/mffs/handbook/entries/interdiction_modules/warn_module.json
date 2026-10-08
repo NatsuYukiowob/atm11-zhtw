@@ -1,0 +1,18 @@
+{
+ "category": "mffs:interdiction_modules",
+ "icon": "mffs:warn_module",
+ "name": "警告模組",
+ "pages": [
+  {
+   "item": "mffs:warn_module",
+   "link_recipe": true,
+   "text": "$(5)警告模組$()可放入$(l:mffs:machines/interdiction_matrix)干涉矩陣$()的矩陣欄位中，定期向作用範圍內所有未授權的玩家傳送警告。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "mffs:warn_module",
+   "text": "合成$(5)警告模組$()。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

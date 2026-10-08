@@ -1,0 +1,32 @@
+{
+ "category": "mffs:projector_modules",
+ "icon": "mffs:camouflage_module",
+ "name": "偽裝模組",
+ "pages": [
+  {
+   "item": "mffs:camouflage_module",
+   "link_recipe": true,
+   "text": "$(5)偽裝模組$()可以放入$(l:mffs:machines/projector)力場投影機$()中，用來改變力場本身的外觀。安裝$(5)偽裝模組$()後，力場可以偽裝成一般方塊，例如把力場偽裝成石頭牆。$(5)偽裝模組$()可以與所有投影模式搭配使用。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "mffs:camouflage_module",
+   "text": "製作$(5)偽裝模組$()。",
+   "type": "patchouli:crafting"
+  },
+  {
+   "text": "這項功能可以幫助玩家躲避他人的視線，或是把秘密基地的入口偽裝起來。Select一個想用來偽裝的方塊，並將它放入投影機左側物品矩陣（與$(5)偽裝模組$()相同的矩陣）中的另一個空白鍵。接著以一般方式啟動投影機。",
+   "title": "用法",
+   "type": "patchouli:text"
+  },
+  {
+   "border": true,
+   "images": [
+    "mffs:textures/gui/handbook/pyramid_camo.png"
+   ],
+   "text": "一個偽裝成剝皮橡木塊木頭的金字塔力場。",
+   "title": "投射",
+   "type": "patchouli:image"
+  }
+ ]
+}

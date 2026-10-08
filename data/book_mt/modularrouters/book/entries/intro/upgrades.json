@@ -1,0 +1,11 @@
+{
+ "category": "modularrouters:intro",
+ "icon": "modularrouters:speed_upgrade",
+ "name": "升級",
+ "pages": [
+  {
+   "text": "$(thing)升級/$可以以各種方式改善$(l:intro/modular_router)模組化路由器/$的功能。共有 8 種不同的升級類型，以及模組化路由器中的 5 個升級槽位。$(p)你可以在一個升級槽位中放入多個升級，但某種特定類型的升級可以插入的數量有上限；詳情請參閱各個升級頁面或升級物品的提示框。",
+   "type": "text"
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "block.nomorecraters.example_block": "範例方塊",
+ "item.nomorecraters.example_item": "範例物品",
+ "itemGroup.nomorecraters": "範例模組分頁",
+ "nomorecraters.configuration.items": "物品清單",
+ "nomorecraters.configuration.logDirtBlock": "記錄泥土方塊",
+ "nomorecraters.configuration.magicNumber": "魔法數字",
+ "nomorecraters.configuration.magicNumberIntroduction": "魔法數字說明文字",
+ "nomorecraters.configuration.section.nomorecraters.common.toml": "No More Craters 設定",
+ "nomorecraters.configuration.section.nomorecraters.common.toml.title": "No More Craters 設定",
+ "nomorecraters.configuration.title": "No More Craters 設定"
+}

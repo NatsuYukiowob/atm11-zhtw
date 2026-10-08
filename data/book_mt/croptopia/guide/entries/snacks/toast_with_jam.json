@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:snacks",
+ "icon": "croptopia:toast_with_jam",
+ "name": "果醬吐司",
+ "pages": [
+  {
+   "recipe": "croptopia:toast_with_jam",
+   "text": "塗上果醬的吐司的製作配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

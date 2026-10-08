@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:snacks",
+ "icon": "croptopia:trail_mix",
+ "name": "綜合堅果乾果",
+ "pages": [
+  {
+   "recipe": "croptopia:trail_mix",
+   "text": "綜合堅果乾果的製作配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

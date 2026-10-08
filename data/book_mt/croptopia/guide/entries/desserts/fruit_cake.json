@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:desserts",
+ "icon": "croptopia:fruit_cake",
+ "name": "水果蛋糕",
+ "pages": [
+  {
+   "recipe": "croptopia:shaped_fruit_cake",
+   "text": "配方",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

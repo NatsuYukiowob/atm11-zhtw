@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:meals",
+ "icon": "croptopia:ratatouille",
+ "name": "普羅旺斯燉菜",
+ "pages": [
+  {
+   "recipe": "croptopia:shaped_ratatouille",
+   "text": "「普羅旺斯燉菜，我們今天要做什麼？」",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "category": "arsmagicalegacy:entities",
+ "icon": "arsmagicalegacy:mana_creeper_spawn_egg",
+ "name": "item.arsmagicalegacy.arcane_compendium.entities.mana_creeper.name",
+ "pages": [
+  {
+   "text": "item.arsmagicalegacy.arcane_compendium.entities.mana_creeper.page0.text",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "arsmagicalegacy:mana_creeper",
+   "text": "魔力苦力怕被擊殺時會掉落$(l:blocks/ores#vinteum)Vinteum Dust$()，而非火藥。",
+   "type": "patchouli:entity"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "category": "railcraft:signal_boxes",
+ "icon": "railcraft:signal_capacitor_box",
+ "name": "訊號電容箱",
+ "pages": [
+  {
+   "text": "此箱可放置於訊號接收箱或訊號方塊中繼箱旁，之後每當相鄰的儲物箱發出紅石訊號時，便會發出持續預設時間的紅石脈衝。概念上類似 RedPower 的 State Cell。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "右鍵點選此箱即可開啟其介面。在介面中，您可以看到目前發出紅石訊號的時間，且可以調整。此外，有一個按鈕可在「上升緣」與「下降緣」之間切換。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "上升緣會在相鄰儲物箱發出紅石訊號時，發出指定時間長度的紅石脈衝。下降緣則會在相鄰儲物箱停止發出紅石訊號後，持續發出紅石脈衝直到指定時間結束（形成延遲）。",
+   "type": "patchouli:text"
+  }
+ ]
+}

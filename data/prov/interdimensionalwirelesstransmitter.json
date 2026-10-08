@@ -1,0 +1,12 @@
+{
+ "advancements.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter": "haiku",
+ "advancements.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter.description": "haiku",
+ "block.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter": "haiku",
+ "gui.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter.distance": "haiku",
+ "item.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter.help": "haiku",
+ "mod.interdimensional_wireless_transmitter": "haiku",
+ "text.autoconfig.interdimensionalwirelesstransmitter.option.interdimensionalWirelessTransmitter": "haiku",
+ "text.autoconfig.interdimensionalwirelesstransmitter.option.interdimensionalWirelessTransmitter.energyUsage": "haiku",
+ "text.autoconfig.interdimensionalwirelesstransmitter.option.interdimensionalWirelessTransmitter.energyUsage.tooltip": "haiku",
+ "text.autoconfig.interdimensionalwirelesstransmitter.option.interdimensionalWirelessTransmitter.tooltip": "haiku"
+}

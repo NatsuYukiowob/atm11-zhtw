@@ -1,0 +1,11 @@
+{
+ "category": "railcraft:tracks",
+ "icon": "railcraft:iron_one_way_track",
+ "name": "單向軌道",
+ "pages": [
+  {
+   "text": "未通電時，此軌道的行為與正常軌道相同。然而，當它接收到電力時，會使任何逆著軌道上箭頭方向行駛的礦車動量反轉。當然，部分動量會因此損失。",
+   "type": "patchouli:text"
+  }
+ ]
+}

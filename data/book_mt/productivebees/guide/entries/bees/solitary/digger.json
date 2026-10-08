@@ -1,0 +1,19 @@
+{
+ "category": "productivebees:bees_solitary",
+ "icon": "productivebees:spawn_egg_digger_bee",
+ "name": "掘土蜂",
+ "pages": [
+  {
+   "anchor": "digger",
+   "text": "[Anthophora urbana]",
+   "title": "掘土蜂",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:digger_bee",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true,
+ "sortnum": 6
+}

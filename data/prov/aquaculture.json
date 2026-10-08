@@ -1,0 +1,17 @@
+{
+ "entity.aquaculture.largemouth_bass": "haiku",
+ "item.aquaculture.largemouth_bass": "haiku",
+ "item.aquaculture.largemouth_bass_bucket": "haiku",
+ "tag.item.aquaculture.bobber": "haiku",
+ "tag.item.aquaculture.fish_mount": "haiku",
+ "tag.item.aquaculture.fishing_line": "haiku",
+ "tag.item.aquaculture.hook": "haiku",
+ "tag.item.aquaculture.tackle_box": "haiku",
+ "tag.item.aquaculture.tackle_box_green": "haiku",
+ "tag.item.aquaculture.turtle": "haiku",
+ "tag.item.aquaculture.turtle_edible": "haiku",
+ "tag.item.c.ingots.neptunium": "haiku",
+ "tag.item.c.nuggets.neptunium": "haiku",
+ "tag.item.c.storage_blocks.neptunium": "sonnet",
+ "tag.item.c.tools.knife": "haiku"
+}

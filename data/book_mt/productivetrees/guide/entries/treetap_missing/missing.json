@@ -1,0 +1,14 @@
+{
+ "category": "productivetrees:treetap_missing",
+ "flag": "!mod:treetap",
+ "icon": "minecraft:barrier",
+ "name": "Tree Tap 才是最棒的 Tap",
+ "pages": [
+  {
+   "link_text": "Click to rectify",
+   "text": "你沒有安裝 Tree Tap :sadge:",
+   "type": "patchouli:link",
+   "url": "https://www.curseforge.com/minecraft/mc-mods/treetap"
+  }
+ ]
+}

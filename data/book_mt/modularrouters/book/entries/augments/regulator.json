@@ -1,0 +1,27 @@
+{
+ "category": "modularrouters:augments",
+ "icon": "modularrouters:regulator_augment",
+ "name": "調節增強",
+ "pages": [
+  {
+   "text": "此增強可精確控制能送入物品欄，或從物品欄與路由器緩衝區拉出的物品數量。$(p)模組加上調節增強後，其介面會多出一個數字輸入欄，可用來設定上限。此上限依模組不同而有不同的解讀方式：",
+   "type": "text"
+  },
+  {
+   "text": "$(li)對於傳送模組 $(l:modules/sender_1)Mk1/$ / $(l:modules/sender_2)Mk2/$ / $(l:modules/sender_3)Mk3/$ 以及$(l:modules/player)玩家模組/$（插入模式），只有在物品欄中該物品數量少於設定值時，模組才會將物品送入物品欄。$(li)對於拉取模組 $(l:modules/puller_1)Mk1/$ / $(l:modules/puller_2)Mk2/$ 以及$(l:modules/player)玩家模組/$（抽取模式），只有在物品欄中該物品數量多於設定值時，模組才會從物品欄拉取該物品。",
+   "type": "text"
+  },
+  {
+   "text": "$(li)對於$(l:modules/dropper)投放模組/$、$(l:modules/flinger)拋擲模組/$、$(l:modules/placer)放置模組/$與$(l:modules/void)虛空模組/$，只有在路由器緩衝區中該物品數量多於設定值時，模組才會運作。$(li)對於$(l:modules/breaker)破壞模組/$與$(l:modules/vacuum)真空模組/$，只有在路由器緩衝區中該物品數量少於設定值時，模組才會運作。",
+   "type": "text"
+  },
+  {
+   "text": "$(li)對於流體模組 $(l:modules/fluid)Mk1/$ / $(l:modules/fluid_2)Mk2/$，上限可以是目標儲罐容量的百分比，或以 mB 為單位的絕對數量（可在介面中Select），而非物品數量。抽取流體時，只有目標中的流體$(italic)多於/$設定值，模組才會運作；推送流體時，只有流體$(italic)少於/$設定值，模組才會運作。",
+   "type": "text"
+  },
+  {
+   "recipe": "modularrouters:regulator_augment",
+   "type": "crafting"
+  }
+ ]
+}

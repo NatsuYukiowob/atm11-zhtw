@@ -1,0 +1,18 @@
+{
+ "category": "productivebees:bees_hive",
+ "icon": "minecraft:netherite_scrap",
+ "name": "遠古蜂",
+ "pages": [
+  {
+   "anchor": "netherite",
+   "text": "將$(l:bees/hive/diamond)鑽石蜂$(/l)餵食一個獄髓方塊即可轉化而來。",
+   "title": "遠古蜂",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:configurable_bee{type:'productivebees:netherite'}",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true
+}

@@ -1,0 +1,21 @@
+{
+ "block.luminax.luminax_block": "haiku",
+ "block.luminax.luminax_button": "haiku",
+ "block.luminax.luminax_pressure_plate": "haiku",
+ "block.luminax.luminax_slab": "haiku",
+ "block.luminax.luminax_stair": "haiku",
+ "block.luminax.luminax_wall": "haiku",
+ "creative_tab.luminax.default": "haiku",
+ "item.luminax.luminax_wand": "haiku",
+ "key.category.luminax.default": "haiku",
+ "key.luminax.open_color_picker": "haiku",
+ "key.luminax.toggle_glowing": "haiku",
+ "property.luminax.color": "haiku",
+ "property.luminax.color.tooltip": "haiku",
+ "property.luminax.glowing": "haiku",
+ "tooltip.luminax.glowing.off": "haiku",
+ "tooltip.luminax.glowing.on": "haiku",
+ "tooltip.luminax.lmb": "haiku",
+ "tooltip.luminax.mmb": "haiku",
+ "tooltip.luminax.rmb": "haiku"
+}

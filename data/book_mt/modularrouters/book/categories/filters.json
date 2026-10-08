@@ -1,0 +1,6 @@
+{
+ "description": "智慧過濾器是一組物品，可放入任何模組的過濾槽中取代一般物品，並提供更精細的物品比對功能。",
+ "icon": "modularrouters:bulk_item_filter",
+ "name": "智慧過濾器",
+ "sortnum": 5
+}

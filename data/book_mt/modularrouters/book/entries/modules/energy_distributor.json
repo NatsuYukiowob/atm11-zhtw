@@ -1,0 +1,19 @@
+{
+ "category": "modularrouters:modules",
+ "icon": "modularrouters:energy_distributor_module",
+ "name": "能量分配器模組",
+ "pages": [
+  {
+   "text": "這個模組結合了$(l:modules/energy_output)能量輸出/$模組與$(l:modules/distributor)分配器/$模組的功能，可以無線地將 FE（Forge Energy）分配給附近最多 8 個可接收能量的方塊。$(p)$(thing)潛行右鍵點選/$方塊可將其加入能量分配器模組，再次$(thing)潛行右鍵點選/$同一個方塊則會將其移除。",
+   "type": "text"
+  },
+  {
+   "text": "與$(l:modules/energy_output)能量輸出模組/$相同，此模組可以從路由器的內部能量緩衝區（若已安裝任何$(l:upgrades/energy)能量升級/$）或路由器物品緩衝區中的含能量物品抽取能量。會優先使用內部能量緩衝區。",
+   "type": "text"
+  },
+  {
+   "recipe": "modularrouters:energy_distributor_module",
+   "type": "crafting"
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "category": "railcraft:tracks",
+ "icon": "railcraft:iron_gated_track",
+ "name": "閘門軌道",
+ "pages": [
+  {
+   "text": "這些鐵軌也能當作柵欄門使用。可以手動開關，也可以透過紅石開關。$(br)單向閘門會推動礦車透過閘門，以防止礦車被附近的動物向後推。",
+   "type": "patchouli:text"
+  }
+ ]
+}

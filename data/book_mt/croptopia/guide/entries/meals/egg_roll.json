@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:meals",
+ "icon": "croptopia:egg_roll",
+ "name": "蛋捲",
+ "pages": [
+  {
+   "recipe": "croptopia:egg_roll",
+   "text": "蛋捲食譜。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

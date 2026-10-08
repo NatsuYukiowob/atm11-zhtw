@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:drinks",
+ "icon": "croptopia:tea",
+ "name": "茶",
+ "pages": [
+  {
+   "recipe": "croptopia:shaped_tea",
+   "text": "茶的合成配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

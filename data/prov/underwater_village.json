@@ -1,0 +1,12 @@
+{
+ "block.underwater_village.example_block": "haiku",
+ "item.underwater_village.example_item": "haiku",
+ "itemGroup.underwater_village": "haiku",
+ "underwater_village.configuration.items": "haiku",
+ "underwater_village.configuration.logDirtBlock": "haiku",
+ "underwater_village.configuration.magicNumber": "haiku",
+ "underwater_village.configuration.magicNumberIntroduction": "haiku",
+ "underwater_village.configuration.section.underwater_village.common.toml": "haiku",
+ "underwater_village.configuration.section.underwater_village.common.toml.title": "haiku",
+ "underwater_village.configuration.title": "haiku"
+}

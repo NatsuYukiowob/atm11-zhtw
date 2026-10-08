@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:meals",
+ "icon": "croptopia:cheeseburger",
+ "name": "起司漢堡",
+ "pages": [
+  {
+   "recipe": "croptopia:cheeseburger",
+   "text": "起司漢堡食譜。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

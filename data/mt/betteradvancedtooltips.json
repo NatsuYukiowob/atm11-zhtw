@@ -1,0 +1,7 @@
+{
+ "betteradvancedtooltips.configuration.component_tooltip": "元件提示",
+ "betteradvancedtooltips.configuration.fuel_tooltip": "燃料提示",
+ "betteradvancedtooltips.configuration.remove_component_count_tooltip": "移除元件數量提示",
+ "betteradvancedtooltips.configuration.remove_creative_tab_tooltip": "移除創造模式分頁提示",
+ "betteradvancedtooltips.configuration.tag_tooltip": "標籤提示"
+}

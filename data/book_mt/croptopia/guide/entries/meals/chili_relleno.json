@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:meals",
+ "icon": "croptopia:chili_relleno",
+ "name": "釀辣椒",
+ "pages": [
+  {
+   "recipe": "croptopia:chili_relleno",
+   "text": "食譜指南。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

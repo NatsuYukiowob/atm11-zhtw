@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:desserts",
+ "icon": "croptopia:raisin_oatmeal_cookie",
+ "name": "葡萄乾燕麥餅乾",
+ "pages": [
+  {
+   "recipe": "croptopia:raisin_oatmeal_cookie",
+   "text": "葡萄乾燕麥餅乾的合成配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

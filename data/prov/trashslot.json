@@ -1,0 +1,6 @@
+{
+ "key.categories.trashslot.default": "haiku",
+ "key.category.trashslot.default": "haiku",
+ "tooltip.trashslot.destroy_item": "haiku",
+ "tooltip.trashslot.trash_item": "haiku"
+}

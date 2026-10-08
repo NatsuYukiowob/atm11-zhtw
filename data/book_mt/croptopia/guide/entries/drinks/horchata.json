@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:drinks",
+ "icon": "croptopia:horchata",
+ "name": "墨西哥米漿",
+ "pages": [
+  {
+   "recipe": "croptopia:horchata",
+   "text": "墨西哥米漿的合成配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

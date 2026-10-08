@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:desserts",
+ "icon": "croptopia:snicker_doodle",
+ "name": "肉桂糖餅乾",
+ "pages": [
+  {
+   "recipe": "croptopia:snicker_doodle",
+   "text": "肉桂糖餅乾的合成配方。（製作中）",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:desserts",
+ "icon": "croptopia:pecan_pie",
+ "name": "碧根果派",
+ "pages": [
+  {
+   "recipe": "croptopia:pecan_pie",
+   "text": "碧根果派的配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

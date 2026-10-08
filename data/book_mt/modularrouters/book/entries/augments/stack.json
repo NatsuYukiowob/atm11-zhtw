@@ -1,0 +1,19 @@
+{
+ "category": "modularrouters:augments",
+ "icon": "modularrouters:stack_augment",
+ "name": "堆疊強化",
+ "pages": [
+  {
+   "text": "此模組可加到任何處理$(italic)物品/$（相對於處理$(italic)方塊/$、$(italic)流體/$或$(italic)能量/$）的模組上。$(p)為模組加上堆疊強化後，每遊戲刻可處理的物品數量會增加；每個堆疊強化會使數量加倍，上限為該物品的原生堆疊大小（大多數物品為 64）。",
+   "type": "text"
+  },
+  {
+   "text": "若$(l:router/modular_router)路由器/$同時安裝了$(l:upgrades/stack)堆疊升級/$，模組上的堆疊強化會覆蓋它；例如路由器有 6 個堆疊升級，而模組有 2 個堆疊強化，則該模組每遊戲刻會處理 4 個物品，而不是 64 個。",
+   "type": "text"
+  },
+  {
+   "recipe": "modularrouters:stack_augment",
+   "type": "crafting"
+  }
+ ]
+}

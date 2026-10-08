@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:snacks",
+ "icon": "croptopia:baked_beans",
+ "name": "烤豆",
+ "pages": [
+  {
+   "recipe": "croptopia:baked_beans_from_blackbean",
+   "text": "製作烤豆的食譜。",
+   "type": "patchouli:smelting"
+  }
+ ]
+}

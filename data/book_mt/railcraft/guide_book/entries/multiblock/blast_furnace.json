@@ -1,0 +1,16 @@
+{
+ "category": "railcraft:multiblock",
+ "icon": "railcraft:blast_furnace_bricks",
+ "name": "高爐",
+ "pages": [
+  {
+   "text": "高爐是一座 3x3x4 的磚砌結構，中間中空，用來將鐵錠轉換為鋼錠。$(br2)此爐由 34 塊以地獄磚、靈魂砂與岩漿膏製成的特殊磚塊建造。若拆解，建造一座高爐需要 36 個地獄磚、36 個靈魂砂與 9 個岩漿膏。高爐不可彼此相鄰，爐與爐之間至少要間隔一格。",
+   "type": "patchouli:text"
+  },
+  {
+   "multiblock_id": "railcraft:blast_furnace",
+   "name": "高爐",
+   "type": "patchouli:multiblock"
+  }
+ ]
+}

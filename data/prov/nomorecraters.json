@@ -1,0 +1,12 @@
+{
+ "block.nomorecraters.example_block": "haiku",
+ "item.nomorecraters.example_item": "haiku",
+ "itemGroup.nomorecraters": "haiku",
+ "nomorecraters.configuration.items": "haiku",
+ "nomorecraters.configuration.logDirtBlock": "haiku",
+ "nomorecraters.configuration.magicNumber": "haiku",
+ "nomorecraters.configuration.magicNumberIntroduction": "haiku",
+ "nomorecraters.configuration.section.nomorecraters.common.toml": "haiku",
+ "nomorecraters.configuration.section.nomorecraters.common.toml.title": "haiku",
+ "nomorecraters.configuration.title": "haiku"
+}

@@ -1,0 +1,50 @@
+{
+ "category": "mffs:projector_modes",
+ "icon": "mffs:custom_mode",
+ "name": "自訂模式",
+ "pages": [
+  {
+   "item": "mffs:custom_mode",
+   "link_recipe": true,
+   "text": "$(2)自訂模式$()是所有模式中用途最廣的，因為它能投射出任何形狀或結構的力場。一旦使用者定義的方塊樣式被$(2)自訂模式$()物品本身分析並儲存，投影機就能產生與原樣$(9)完全相同$()的力場。如此一來，力場可以建構成$(9)任何能夠製作的東西$()的形狀，例如橋樑、房屋，甚至是整座城堡！",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "mffs:custom_mode",
+   "text": "製作$(2)自訂模式$()。",
+   "type": "patchouli:crafting"
+  },
+  {
+   "text": "手持$(2)自訂模式$()物品，並對世界中的兩個方塊使用。這兩個方塊（第一點與第二點）會定義出$(2)自訂模式$()能夠分析的三維空間。每點選一個方塊，其在世界中的座標就會被記錄為「第一點座標」與「第二點座標」。潛行時使用，可指示$(2)自訂模式$()物品分析並儲存所選兩點之間的所有方塊。",
+   "title": "用法",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "當投影機偵測到正確的欄位中放入了$(2)自訂模式$()物品，就會在其上方持續出現隨機的全息影像，表示此力場樣式不符合任何已知的模式形狀（這是功能，不是錯誤）。如需設定力場相對於投影機的出現位置，可將$(l:mffs:projector_modules/translation_module)$(5)位移模組$()放入標有方向箭頭的物品欄位中。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "與其他投影模式一樣，$(2)自訂模式$()的力場可分別使用$(l:mffs:projector_modules/rotation_module)$(5)旋轉模組$()與$(l:mffs:upgrade_modules/scale_module)$(5)縮放模組$()進行旋轉與縮放。",
+   "title": "力場調整",
+   "type": "patchouli:text"
+  },
+  {
+   "border": true,
+   "images": [
+    "mffs:textures/gui/handbook/custom_mode.png"
+   ],
+   "text": "正在投射一個$(2)自訂模式$()力場。",
+   "title": "投射",
+   "type": "patchouli:image"
+  },
+  {
+   "border": true,
+   "images": [
+    "mffs:textures/gui/handbook/custom_mode_camo.png"
+   ],
+   "text": "正在投射一個已套用$(l:mffs:projector_modules/camouflage_module)$(5)偽裝模組$()的$(2)自訂模式$()力場。",
+   "title": "投射",
+   "type": "patchouli:image"
+  }
+ ]
+}

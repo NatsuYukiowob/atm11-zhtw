@@ -1,0 +1,11 @@
+{
+ "gateways.endless/automaton_fabricator": "haiku",
+ "gateways.iron_automaton": "haiku",
+ "name.gateways.iron_juggernaut": "haiku",
+ "name.gateways.iron_sentinel": "haiku",
+ "reward.gateways.entity": "haiku",
+ "reward.gateways.stack": "haiku",
+ "tooltip.gateways.dot": "haiku",
+ "tooltip.gateways.dot_with_count": "haiku",
+ "tooltip.gateways.with_count": "haiku"
+}

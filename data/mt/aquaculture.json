@@ -1,0 +1,17 @@
+{
+ "entity.aquaculture.largemouth_bass": "大口黑鱸",
+ "item.aquaculture.largemouth_bass": "大口黑鱸",
+ "item.aquaculture.largemouth_bass_bucket": "大口黑鱸桶",
+ "tag.item.aquaculture.bobber": "浮標",
+ "tag.item.aquaculture.fish_mount": "魚類標本",
+ "tag.item.aquaculture.fishing_line": "釣魚線",
+ "tag.item.aquaculture.hook": "魚鉤",
+ "tag.item.aquaculture.tackle_box": "漁具箱",
+ "tag.item.aquaculture.tackle_box_green": "綠色漁具箱染料",
+ "tag.item.aquaculture.turtle": "海龜",
+ "tag.item.aquaculture.turtle_edible": "可食用海龜",
+ "tag.item.c.ingots.neptunium": "Neptunium Ingots",
+ "tag.item.c.nuggets.neptunium": "Neptunium Nuggets",
+ "tag.item.c.storage_blocks.neptunium": "Neptunium 儲存方塊",
+ "tag.item.c.tools.knife": "刀"
+}

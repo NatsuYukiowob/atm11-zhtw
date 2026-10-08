@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:ingredients",
+ "icon": "croptopia:butter",
+ "name": "奶油",
+ "pages": [
+  {
+   "recipe": "croptopia:butter",
+   "text": "奶油的合成配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

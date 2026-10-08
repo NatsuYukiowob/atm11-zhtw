@@ -1,0 +1,18 @@
+{
+ "category": "productivebees:bees_hive",
+ "icon": "minecraft:gold_ingot",
+ "name": "金蜂",
+ "pages": [
+  {
+   "anchor": "gold",
+   "text": "由$(l:bees/wild/crystalline)水晶蜂$(/l)與$(l:bees/solitary/mason)泥瓦蜂$(/l)繁殖而來。",
+   "title": "金蜂",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:configurable_bee{type:'productivebees:gold'}",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true
+}

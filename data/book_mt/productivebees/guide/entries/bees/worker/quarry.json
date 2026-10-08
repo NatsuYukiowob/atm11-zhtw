@@ -1,0 +1,18 @@
+{
+ "category": "productivebees:bees_worker",
+ "icon": "minecraft:wooden_pickaxe",
+ "name": "採石蜂",
+ "pages": [
+  {
+   "text": "會啃食附近的石頭、沙或砂礫，並把石屑收集到蜂窩中。石屑可以合成為對應的方塊。",
+   "title": "採石蜂",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:quarry_bee",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true,
+ "sortnum": 4
+}

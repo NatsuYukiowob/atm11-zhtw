@@ -1,0 +1,19 @@
+{
+ "category": "productivebees:bees_solitary",
+ "icon": "productivebees:spawn_egg_leafcutter_bee",
+ "name": "切葉蜂",
+ "pages": [
+  {
+   "anchor": "leafcutter",
+   "text": "[Megachile brevis]",
+   "title": "切葉蜂",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:leafcutter_bee",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true,
+ "sortnum": 7
+}

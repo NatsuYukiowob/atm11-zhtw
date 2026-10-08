@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:meals",
+ "icon": "croptopia:enchilada",
+ "name": "恩奇拉達捲餅",
+ "pages": [
+  {
+   "recipe": "croptopia:enchilada",
+   "text": "恩奇拉達捲餅食譜。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

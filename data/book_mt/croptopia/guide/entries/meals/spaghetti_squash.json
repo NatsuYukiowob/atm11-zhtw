@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:meals",
+ "icon": "croptopia:spaghetti_squash",
+ "name": "義大利南瓜",
+ "pages": [
+  {
+   "recipe": "croptopia:spaghetti_squash",
+   "text": "義大利南瓜的食譜。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

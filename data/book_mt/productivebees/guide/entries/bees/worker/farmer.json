@@ -1,0 +1,18 @@
+{
+ "category": "productivebees:bees_worker",
+ "icon": "minecraft:wheat",
+ "name": "農夫蜂",
+ "pages": [
+  {
+   "text": "會收成附近的作物，並將農產品留在地面上。它在其蜂窩周圍 4 格半徑內作業，可用範圍升級來增加。若你安裝了會右鍵收成的模組，蜂也會照做。",
+   "title": "農夫蜂",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:farmer_bee",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true,
+ "sortnum": 1
+}

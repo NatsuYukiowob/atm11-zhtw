@@ -1,0 +1,12 @@
+{
+ "advancements.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter": "跨維度 >>能量<<",
+ "advancements.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter.description": "使用跨維度無線傳輸器跨維度傳送網路訊號，範圍無限",
+ "block.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter": "跨維度無線傳輸器",
+ "gui.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter.distance": "無限範圍",
+ "item.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter.help": "為無線網格等物品提供無線網路存取。擁有無限範圍，且可跨維度運作。",
+ "mod.interdimensional_wireless_transmitter": "跨維度無線傳輸器",
+ "text.autoconfig.interdimensionalwirelesstransmitter.option.interdimensionalWirelessTransmitter": "跨維度無線傳輸器",
+ "text.autoconfig.interdimensionalwirelesstransmitter.option.interdimensionalWirelessTransmitter.energyUsage": "能量消耗",
+ "text.autoconfig.interdimensionalwirelesstransmitter.option.interdimensionalWirelessTransmitter.energyUsage.tooltip": "跨維度無線傳輸器的能量消耗。",
+ "text.autoconfig.interdimensionalwirelesstransmitter.option.interdimensionalWirelessTransmitter.tooltip": "跨維度無線傳輸器的設定。"
+}

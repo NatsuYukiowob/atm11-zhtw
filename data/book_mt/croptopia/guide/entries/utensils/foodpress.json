@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:utensils",
+ "icon": "croptopia:food_press",
+ "name": "食物壓榨機",
+ "pages": [
+  {
+   "recipe": "croptopia:food_press",
+   "text": "食物壓榨機的配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

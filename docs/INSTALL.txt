@@ -1,0 +1,7 @@
+ATM11 繁體中文化 — 安裝
+
+1. 把 atm11-zhtw.zip 放進 instance 的 resourcepacks\ 資料夾。
+2. 遊戲內：選項 → 資源包 → 啟用「atm11-zhtw」，並移到最上層。
+3. 選項 → 語言 → 繁體中文（台灣）。
+4. 任務書：把 ftbquests\zh_tw 整個資料夾複製到 instance 的 config\ftbquests\quests\lang\（與 en_us 資料夾同一層）。
+   modpack 更新後這個資料夾可能過期，需重新產生。

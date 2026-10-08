@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:drinks",
+ "icon": "croptopia:fruit_smoothie",
+ "name": "綜合水果冰沙",
+ "pages": [
+  {
+   "recipe": "croptopia:fruit_smoothie",
+   "text": "綜合水果冰沙的合成配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

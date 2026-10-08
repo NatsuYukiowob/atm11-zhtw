@@ -1,0 +1,11 @@
+{
+ "category": "railcraft:tracks",
+ "icon": "railcraft:elevator_track",
+ "name": "電梯軌道",
+ "pages": [
+  {
+   "text": "這種鐵軌的獨特之處在於可以垂直放置。通電時，它會為下方所有鐵軌供電。有電的鐵軌會把礦車上推升，斷電的鐵軌則會讓礦車下降。當礦車到達頂端時，會被推上位於上方方塊的任何正常鐵軌。此鐵軌同時也可當作梯子使用。",
+   "type": "patchouli:text"
+  }
+ ]
+}

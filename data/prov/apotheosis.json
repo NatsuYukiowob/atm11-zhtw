@@ -1,0 +1,21 @@
+{
+ "affix.apotheosis.cooldown": "haiku",
+ "button.apotheosis.return": "haiku",
+ "button.apotheosis.tier_advancement_criteria": "haiku",
+ "chat.apotheosis.link_item_with_count": "haiku",
+ "info.apotheosis.criteria_done": "haiku",
+ "info.apotheosis.criteria_unfinished": "haiku",
+ "info.apotheosis.criteria_unknown": "haiku",
+ "item.apotheosis.gem.normal": "haiku",
+ "jukebox_song.apotheosis.flash": "haiku",
+ "misc.apotheosis.affix_bounds": "haiku",
+ "painting.apotheosis.craig.author": "haiku",
+ "painting.apotheosis.enchanting_table.author": "haiku",
+ "painting.apotheosis.gems.author": "haiku",
+ "painting.apotheosis.tower.author": "haiku",
+ "painting.apotheosis.window.author": "haiku",
+ "subtitle.apotheosis.music_disc.flash": "haiku",
+ "text.apotheosis.dot_prefix": "haiku",
+ "text.apotheosis.star_prefix": "haiku",
+ "text.apotheosis.world_tier.difficulty": "haiku"
+}

@@ -1,0 +1,10 @@
+{
+ "_comment": "haiku",
+ "gui.integratedterminalscompat.terminal_storage.crafting_job.error.title": "haiku",
+ "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.failed_only": "haiku",
+ "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.mixed": "haiku",
+ "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.started_only": "haiku",
+ "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.title.failed_only": "haiku",
+ "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.title.mixed": "haiku",
+ "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.title.started_only": "haiku"
+}

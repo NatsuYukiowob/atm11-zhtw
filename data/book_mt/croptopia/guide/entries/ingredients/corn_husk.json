@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:ingredients",
+ "icon": "croptopia:corn_husk",
+ "name": "玉米皮",
+ "pages": [
+  {
+   "recipe": "croptopia:corn_husk",
+   "text": "合成指南。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

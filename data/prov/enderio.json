@@ -1,0 +1,19 @@
+{
+ "conduit.enderio.energetic_energy": "haiku",
+ "conduit.enderio.energetic_fluid": "haiku",
+ "conduit.enderio.energetic_item": "haiku",
+ "conduit.enderio.vibrant_energy": "haiku",
+ "conduit.enderio.vibrant_fluid": "haiku",
+ "conduit.enderio.vibrant_item": "haiku",
+ "key.category.enderio.enderio_keys": "haiku",
+ "message.enderio.tool.soul_vial.error.denied": "haiku",
+ "tag.entity_type.enderio.soul_vial_allow_list": "haiku",
+ "tag.entity_type.enderio.soul_vial_deny_list": "haiku",
+ "tag.entity_type.enderio.spawner_allow_list": "haiku",
+ "tag.entity_type.enderio.spawner_deny_list": "haiku",
+ "tag.item.enderio.deny_lists.broken_spawner": "haiku",
+ "tag.item.enderio.deny_lists.electromagnet": "haiku",
+ "tooltip.enderio.conduit.slot.fluid_filter": "haiku",
+ "tooltip.enderio.conduit.slot.item_filter": "haiku",
+ "tooltip.enderio.conduit.slot.redstone_filter": "haiku"
+}

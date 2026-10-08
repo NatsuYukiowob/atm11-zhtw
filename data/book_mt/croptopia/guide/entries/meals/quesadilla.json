@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:meals",
+ "icon": "croptopia:quesadilla",
+ "name": "起司墨西哥捲餅",
+ "pages": [
+  {
+   "recipe": "croptopia:quesadilla",
+   "text": "配方指南。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

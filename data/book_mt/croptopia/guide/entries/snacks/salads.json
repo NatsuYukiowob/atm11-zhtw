@@ -1,0 +1,22 @@
+{
+ "category": "croptopia:snacks",
+ "icon": "croptopia:cucumber_salad",
+ "name": "沙拉",
+ "pages": [
+  {
+   "recipe": "croptopia:cucumber_salad",
+   "text": "各種沙拉的製作配方。",
+   "type": "patchouli:crafting"
+  },
+  {
+   "recipe": "croptopia:leafy_salad",
+   "recipe2": "croptopia:fruit_salad",
+   "type": "patchouli:crafting"
+  },
+  {
+   "recipe": "croptopia:veggie_salad",
+   "recipe2": "croptopia:caesar_salad",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:drinks",
+ "icon": "croptopia:tomato_juice",
+ "name": "番茄汁",
+ "pages": [
+  {
+   "recipe": "croptopia:tomato_juice",
+   "text": "番茄汁的合成配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

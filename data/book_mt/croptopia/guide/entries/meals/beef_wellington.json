@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:meals",
+ "icon": "croptopia:beef_wellington",
+ "name": "威靈頓牛排",
+ "pages": [
+  {
+   "recipe": "croptopia:shaped_beef_wellington",
+   "text": "威靈頓牛排食譜。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

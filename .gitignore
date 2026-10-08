@@ -1,0 +1,7 @@
+.venv/
+cfpa/
+work/
+dist/
+__pycache__/
+.superpowers/
+instance

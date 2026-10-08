@@ -1,0 +1,16 @@
+{
+ "gui.refinedstorage.autocrafting_monitor.state.extracting_initial_resources": "haiku",
+ "gui.refinedstorage.autocrafting_monitor.state.returning_internal_storage": "haiku",
+ "gui.refinedstorage.autocrafting_preview.request_cancelled.too_many_subcomponents": "haiku",
+ "gui.refinedstorage.autocrafting_preview.style.tree": "haiku",
+ "gui.refinedstorage.grid.drag_and_drop_to_pin": "haiku",
+ "gui.refinedstorage.grid.pin_help": "haiku",
+ "gui.refinedstorage.grid.resource_type.fluid": "haiku",
+ "gui.refinedstorage.grid.resource_type.item": "haiku",
+ "gui.refinedstorage.priority.storage_help.alt_click_to_modify_extract_priority": "haiku",
+ "gui.refinedstorage.priority.storage_help.click_to_modify_insert_extract_priority": "haiku",
+ "gui.refinedstorage.priority.storage_help.cmd_click_to_modify_insert_priority": "haiku",
+ "gui.refinedstorage.priority.storage_help.ctrl_click_to_modify_insert_priority": "haiku",
+ "item.refinedstorage.regulator_upgrade.cleared_configuration": "haiku",
+ "misc.refinedstorage.no_permission.open": "haiku"
+}

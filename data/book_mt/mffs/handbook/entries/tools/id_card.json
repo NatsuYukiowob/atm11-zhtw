@@ -1,0 +1,23 @@
+{
+ "category": "mffs:tools",
+ "icon": "mffs:id_card",
+ "name": "身分識別卡",
+ "pages": [
+  {
+   "item": "mffs:id_card",
+   "link_recipe": true,
+   "text": "MFFS的$(5)身分識別卡$()需與$(l:mffs:machines/biometric_identifier)生物辨識器$()搭配使用，用以管理玩家的許可權與特權。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "mffs:id_card",
+   "text": "合成$(5)身分識別卡$()。",
+   "type": "patchouli:crafting"
+  },
+  {
+   "text": "使用身分識別卡前，必須先將它指定給一名玩家。持著卡片並按住 Shift 右鍵，即可將它指定給自己。你也可以按住 Shift 右鍵點選其他玩家，將卡片指定給對方。再次啟動卡片即可清除已儲存的身分。",
+   "title": "用法",
+   "type": "patchouli:text"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "category": "mffs:interdiction_modules",
+ "icon": "mffs:anti_friendly_module",
+ "name": "友善生物剋制模組",
+ "pages": [
+  {
+   "item": "mffs:anti_friendly_module",
+   "link_recipe": true,
+   "text": "$(5)友善生物剋制模組$()是$(l:mffs:machines/interdiction_matrix)干涉矩陣$()的選配模組。安裝此模組後，矩陣會自動偵測進入掃描範圍的友善生物（如綿羊、牛與村民），並在瞬間將其擊殺。玩家與敵對生物則不會受到傷害。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "mffs:anti_friendly_module",
+   "text": "合成$(5)友善生物剋制模組$()。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "block.laserbridges.laser_block_powered": "haiku",
+ "block.laserbridges.laser_fence_powered": "haiku",
+ "block.laserbridges.laser_fence_source_block": "haiku",
+ "block.laserbridges.laser_fence_source_fullblock": "haiku",
+ "block.laserbridges.laser_source_block": "haiku",
+ "block.laserbridges.laser_source_fullblock": "haiku",
+ "item.laserbridges.laser_fence_source_block": "haiku",
+ "item.laserbridges.laser_fence_source_fullblock": "haiku",
+ "item.laserbridges.laser_source_block": "haiku",
+ "item.laserbridges.laser_source_fullblock": "haiku",
+ "laserbridges.deimosconfig.blocks_cut_through_by_lasers": "haiku",
+ "laserbridges.deimosconfig.max_length": "haiku",
+ "laserbridges.deimosconfig.title": "haiku"
+}

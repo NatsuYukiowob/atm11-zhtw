@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:meals",
+ "icon": "croptopia:baked_yam",
+ "name": "烤山藥",
+ "pages": [
+  {
+   "recipe": "croptopia:baked_yam_from_yam",
+   "text": "配方",
+   "type": "patchouli:smelting"
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:drinks",
+ "icon": "croptopia:wine",
+ "name": "葡萄酒",
+ "pages": [
+  {
+   "recipe": "croptopia:wine",
+   "text": "葡萄酒的合成配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

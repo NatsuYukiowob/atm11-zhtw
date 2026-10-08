@@ -1,0 +1,18 @@
+{
+ "category": "productivebees:bees_worker",
+ "icon": "minecraft:shulker_shell",
+ "name": "囤積蜂",
+ "pages": [
+  {
+   "text": "收集地面上的物品並放入其蜂窩，它是更好用的$(l:bees/worker/collector)收集蜂$(/l)。$(br)與農夫蜂搭配使用，即可打造自動化農場。",
+   "title": "囤積蜂",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:hoarder_bee",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true,
+ "sortnum": 6
+}

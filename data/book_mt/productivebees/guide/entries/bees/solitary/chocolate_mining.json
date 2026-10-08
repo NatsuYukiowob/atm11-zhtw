@@ -1,0 +1,19 @@
+{
+ "category": "productivebees:bees_solitary",
+ "icon": "productivebees:spawn_egg_chocolate_mining_bee",
+ "name": "巧克力地蜂",
+ "pages": [
+  {
+   "anchor": "chocolate_mining",
+   "text": "[Andrena scotica]",
+   "title": "巧克力地蜂",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:chocolate_mining_bee",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true,
+ "sortnum": 5
+}

@@ -1,0 +1,15 @@
+{
+ "category": "modularrouters:upgrades",
+ "icon": "modularrouters:fluid_upgrade",
+ "name": "流體傳輸升級",
+ "pages": [
+  {
+   "text": "此升級僅影響$(l:modules/fluid)流體模組 Mk1/$與$(l:modules/fluid_2)流體模組 Mk2/$。$(p)它會提高$(l:router/modular_router)路由器/$的整體流體傳輸速率（每個方向，即進入與送出路由器皆然），從基礎的每 tick 50mB 增加 10mB，最高可達每 tick 400mB。因此，路由器中流體傳輸升級的最大數量為 35 個。",
+   "type": "text"
+  },
+  {
+   "recipe": "modularrouters:fluid_upgrade",
+   "type": "crafting"
+  }
+ ]
+}

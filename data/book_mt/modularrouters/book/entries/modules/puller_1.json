@@ -1,0 +1,15 @@
+{
+ "category": "modularrouters:modules",
+ "icon": "modularrouters:puller_module_1",
+ "name": "拉取模組 Mk1",
+ "pages": [
+  {
+   "text": "此模組會嘗試將其$(l:intro/modules#direction)設定方向/$上相鄰物品欄中的第一個可用物品拉入路由器緩衝區。若緩衝區已滿，或其中的內容無法與物品欄中的任何物品堆疊，則不會拉取任何東西。",
+   "type": "text"
+  },
+  {
+   "recipe": "modularrouters:puller_module_1",
+   "type": "crafting"
+  }
+ ]
+}

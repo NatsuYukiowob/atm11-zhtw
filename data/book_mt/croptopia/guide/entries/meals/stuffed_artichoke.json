@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:meals",
+ "icon": "croptopia:stuffed_artichoke",
+ "name": "釀朝鮮薊",
+ "pages": [
+  {
+   "recipe": "croptopia:shaped_stuffed_artichoke",
+   "text": "食譜",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

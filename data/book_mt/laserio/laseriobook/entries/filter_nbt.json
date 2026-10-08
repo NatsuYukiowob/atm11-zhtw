@@ -1,0 +1,29 @@
+{
+ "category": "laserio:filters",
+ "icon": "laserio:filter_nbt",
+ "name": "NBT 過濾器",
+ "pages": [
+  {
+   "text": "NBT 過濾器的介面與功能與$(l:laserio:filter_tag)標籤過濾器$(/l)非常相似。$(br2)將物品放入右上角的格子，即可顯示該物品上所有的 NBT 標籤名稱。將它們加入清單（與標籤過濾器的操作方式相同）後，過濾器便會過濾掉含有這些標籤的物品，不論標籤被賦予何種值。",
+   "type": "patchouli:text"
+  },
+  {
+   "border": true,
+   "images": [
+    "laserio:textures/book/entries/nbt_filter.png"
+   ],
+   "text": "NBT 介面",
+   "title": "NBT 介面",
+   "type": "patchouli:image"
+  },
+  {
+   "text": "例如，所有附魔物品都帶有「Enchantments」標籤，其中記錄了掠奪、鋒利等附魔。若將「enchantments」標籤加入此清單，過濾器便會過濾掉所有附魔物品。$(br2)附魔的劍可以放進一個容器，未附魔的則放進另一個容器，不論附了哪種附魔。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "其餘功能皆與$(l:laserio:filter_tag)標籤過濾器$(/l)相同，詳情請參閱該條目。",
+   "type": "patchouli:text"
+  }
+ ],
+ "sortnum": 3
+}

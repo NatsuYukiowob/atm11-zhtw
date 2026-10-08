@@ -1,0 +1,32 @@
+{
+ "category": "mffs:projector_modes",
+ "icon": "mffs:tube_mode",
+ "name": "管狀模式",
+ "pages": [
+  {
+   "item": "mffs:tube_mode",
+   "link_recipe": true,
+   "text": "預設情況下，$(2)管狀模式$()會讓投影機產生一個恰好 1 格厚的方形管（即四方柱）形狀力場。管狀力場由四個沿水平面平行延伸的實心側面組成。投影機的前方與後方代表力場管開口的兩個面。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "mffs:tube_mode",
+   "text": "製作$(2)管狀模式$()。",
+   "type": "patchouli:crafting"
+  },
+  {
+   "text": "把$(l:mffs:upgrade_modules/scale_module)$(5)縮放模組$()放入標有方向箭頭的物品欄位中，會讓力場只朝該方向增加 1 格。例如，要讓力場高度增加 1 格，就把$(l:mffs:upgrade_modules/scale_module)$(5)縮放模組$()放入標有箭頭、指向介面左上或右上的物品欄位。",
+   "title": "力場調整",
+   "type": "patchouli:text"
+  },
+  {
+   "border": true,
+   "images": [
+    "mffs:textures/gui/handbook/tube_mode.png"
+   ],
+   "text": "正在投射一個經過縮放的$(2)管狀模式$()力場。",
+   "title": "投射",
+   "type": "patchouli:image"
+  }
+ ]
+}

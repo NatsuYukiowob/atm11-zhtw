@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:snacks",
+ "icon": "croptopia:avocado_toast",
+ "name": "酪梨吐司",
+ "pages": [
+  {
+   "recipe": "croptopia:shaped_avocado_toast",
+   "text": "製作酪梨吐司的食譜。（年輕人的最愛！）",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

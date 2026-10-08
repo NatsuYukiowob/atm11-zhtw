@@ -1,0 +1,12 @@
+{
+ "category": "croptopia:desserts",
+ "icon": "croptopia:almond_brittle",
+ "name": "杏仁脆糖",
+ "pages": [
+  {
+   "recipe": "croptopia:almond_brittle",
+   "text": "杏仁脆糖的配方。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

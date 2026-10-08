@@ -1,0 +1,16 @@
+{
+ "category": "railcraft:multiblock",
+ "icon": "railcraft:steam_turbine",
+ "name": "蒸汽渦輪機",
+ "pages": [
+  {
+   "text": "或許您已經累積了大量蒸汽，卻不知該拿它做什麼？我們可以幫您。我們為您呈上強大的蒸汽渦輪機，這是一種能將蒸汽轉換為電力的裝置。$(br2)它採用與碎石機相同的 2x3x2 結構建造。此外，運作時必須安裝渦輪轉子。轉子在持續使用下應可維持數天（以真實時間計）。之後您可以利用原版的修復機制，將兩個轉子合併來修復它。",
+   "type": "patchouli:text"
+  },
+  {
+   "multiblock_id": "railcraft:steam_turbine",
+   "name": "蒸汽渦輪機",
+   "type": "patchouli:multiblock"
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "category": "railcraft:tools",
+ "icon": "railcraft:whistle_tuner",
+ "name": "汽笛調諧器",
+ "pages": [
+  {
+   "text": "想為你的機車找到完美的汽笛音高嗎？這個工具能幫你做到。只要用它敲碎機車即可。",
+   "type": "patchouli:text"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "category": "mffs:upgrade_modules",
+ "icon": "mffs:scale_module",
+ "name": "規模模組",
+ "pages": [
+  {
+   "item": "mffs:scale_module",
+   "link_recipe": true,
+   "text": "$(5)規模模組$()可放入多種MFFS機器的升級槽，以提升其距離能力。效果因機器而異，但最常見的包括：$(li)增加力場大小$(li)增加攔截範圍$(li)增加$(l:mffs:machines/coercion_deriver)強制匯出器$()的燃料加成",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "mffs:scale_module",
+   "text": "合成$(5)規模模組$()。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "category": "mffs:machines",
+ "icon": "mffs:coercion_deriver",
+ "name": "強制衍生器",
+ "pages": [
+  {
+   "item": "mffs:coercion_deriver",
+   "link_recipe": true,
+   "text": "$(9)強制衍生器$()是 MFFS 機器家族的一員，主要用來將 FE 能量轉換為$(l:mffs:getting_started/fortron)Fortron$()，其他 MFFS 機器需要它才能運作。$(9)強制衍生器$()設計上與$(l:mffs:machines/fortron_capacitor)Fortron 電容器$()搭配使用，為其充入$(l:mffs:getting_started/fortron)Fortron$()，再由電容器將$(l:mffs:getting_started/fortron)Fortron$()分配給其他機器。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "mffs:coercion_deriver",
+   "text": "合成$(9)強制衍生器$()。",
+   "type": "patchouli:crafting"
+  },
+  {
+   "text": "要產生$(l:mffs:getting_started/fortron)Fortron$()，請將$(9)強制衍生器$()連線到 FE 來源，並用紅石訊號啟動。通電並啟動後，$(9)強制衍生器$()會由紅色變為藍色，並開始產生$(l:mffs:getting_started/fortron)Fortron$()。只要將頻率編號設為與其他 MFFS 機器相同，$(9)強制衍生器$()就能與它們連結，例如$(l:mffs:machines/fortron_capacitor)Fortron 電容器$()。",
+   "title": "使用方式",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "有以下兩種方式：$(li)對衍生器按右鍵，並在其 GUI 介面中輸入想要的頻率編號$(li)手持頻率卡對強制衍生器按 Shift＋右鍵$(p)$(9)強制衍生器$()產生$(l:mffs:getting_started/fortron)Fortron$()的能力可以用$(2)青金石$()或$(2)地獄石英$()增幅。只要把其中一種放進箭頭旁的欄位即可，這會讓$(l:mffs:getting_started/fortron)Fortron$()的輸出量提升約 20 倍。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "$(9)強制衍生器$()有兩種運作模式：衍生與整合。預設為衍生模式，也就是持續將供入的 FE 轉換為$(l:mffs:getting_started/fortron)Fortron$()。點選 GUI 介面中央的$(2)衍生$()切換按鈕，即可將運作模式切換為$(2)整合$()，反之亦然。在整合模式下，衍生器會反向運作，把現有的$(l:mffs:getting_started/fortron)Fortron$()轉換回 FE。",
+   "title": "運作模式",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "強制衍生器可以搭配各種模組來提升效能。$(li)$(l:mffs:upgrade_modules/speed_module)$(5)速度模組$()：提高將$(2)青金石$()或$(2)地獄石英$()放入衍生器時獲得的增幅效果。$(li)$(l:mffs:upgrade_modules/capacity_module)$(5)容量模組$()：增加衍生器能儲存的$(l:mffs:getting_started/fortron)Fortron$()量。$()",
+   "title": "可升級性",
+   "type": "patchouli:text"
+  }
+ ]
+}

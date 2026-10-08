@@ -1,0 +1,53 @@
+{
+ "category": "mffs:machines",
+ "icon": "mffs:biometric_identifier",
+ "name": "生物辨識器",
+ "pages": [
+  {
+   "item": "mffs:biometric_identifier",
+   "link_recipe": true,
+   "text": "$(9)生物辨識器$()是 MFFS 機器系列的一員。它利用玩家發出的生物特徵訊號，決定其與力場及 MFFS 機器互動時擁有的許可權。例如，它可以允許玩家穿過啟用中的力場，或使其免受$(l:mffs:machines/interdiction_matrix)干涉矩陣$()的影響。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "mffs:biometric_identifier",
+   "text": "合成$(9)生物辨識器$()。",
+   "type": "patchouli:crafting"
+  },
+  {
+   "text": "要將$(9)生物辨識器$()設定為辨識某位玩家，請開啟其 GUI 介面，並將$(l:mffs:tools/id_card)身分卡$()放入標示為$(2)許可權$()的左上方物品欄。若身分卡是空白的且尚未指定給任何人，你可以手持該卡並潛行右鍵點選，將其指定給自己；或潛行右鍵點選其他玩家，將其指定給對方。",
+   "title": "用法",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "接著，透過切換 GUI 右側的按鈕來設定玩家擁有的許可權。每個按鈕分別授予以下許可權：$(li)$(bold)穿越$()：允許玩家潛行穿過力場以繞過它。$(li)$(bold)方塊修改$()：允許玩家在$(l:mffs:machines/interdiction_matrix)干涉矩陣$()所保護的區域內增加或移除方塊。$()",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "$(li)$(bold)方塊存取$()：允許玩家在干涉矩陣的運作範圍內開啟任何東西的 GUI 介面。$(li)$(bold)設定$()：授予玩家設定生物辨識器及變更使用者許可權的能力。$(li)$(bold)繞過防禦$()：允許玩家繞過$(l:mffs:machines/interdiction_matrix)干涉矩陣$()施加的限制。$(li)$(bold)繞過沒收$()：使玩家免受干涉矩陣的沒收效果影響。$()",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "$(li)$(bold)遙控$()：允許玩家對連結至辨識器的機器使用遙控器。$(p)玩家的許可權設定完成後，將其身分卡移入 GUI 底部任一個 9 格欄位中，即可完成設定。若要將自己設為$(9)生物辨識器$()的主人，請將指定給你的$(l:mffs:tools/id_card)身分卡$()放入標示為$(2)主人$()的物品欄。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "$(9)生物辨識器$()的主人會$(4)自動獲得所有許可權。$()可透過施加紅石訊號，或點選 GUI 左上角的紅石火把按鈕來啟用$(9)生物辨識器$()。啟用後，$(9)生物辨識器$()會亮起並開始生效。",
+   "type": "patchouli:text"
+  },
+  {
+   "border": true,
+   "images": [
+    "mffs:textures/gui/handbook/biometric_identifier.png"
+   ],
+   "text": "啟用中的$(9)生物辨識器$()。",
+   "title": "顯示",
+   "type": "patchouli:image"
+  },
+  {
+   "text": "$(li)玩家穿越力場時，必須持續潛行直到完全離開力場屏障，否則會被殺死。$(li)啟用中的辨識器無法取出$(l:mffs:tools/id_card)身分卡$()。$(li)穿越力場可能會造成暫時的噁心 IV 效果。$(li)創造模式的玩家永遠可以穿越力場。$()",
+   "title": "注意事項",
+   "type": "patchouli:text"
+  }
+ ]
+}

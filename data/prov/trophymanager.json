@@ -1,0 +1,16 @@
+{
+ "block.trophymanager.trophy": "haiku",
+ "gui.apply": "haiku",
+ "gui.trophy.jei.any_item": "haiku",
+ "gui.trophy.jei.item_trophy": "haiku",
+ "gui.trophy.offset": "haiku",
+ "gui.trophy.pose": "haiku",
+ "gui.trophy.pose.flying": "haiku",
+ "gui.trophy.pose.sitting": "haiku",
+ "gui.trophy.pose.standing": "haiku",
+ "gui.trophy.reset": "haiku",
+ "gui.trophy.rotation": "haiku",
+ "gui.trophy.size": "haiku",
+ "trophymanager.tooltip.trophy.scale": "haiku",
+ "trophymanager.trophy.name": "haiku"
+}

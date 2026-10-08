@@ -1,0 +1,9 @@
+{
+ "gui.solcarrot.food_book.fraction": "%1$s/%2$s",
+ "message.solcarrot.chat_wrapper": "[SoL: Carrot] %s",
+ "solcarrot.configuration.filtering": "篩選",
+ "solcarrot.configuration.milestone_celebration": "里程碑慶祝",
+ "solcarrot.configuration.milestones": "里程碑",
+ "solcarrot.configuration.miscellaneous": "其他",
+ "solcarrot.networking.food_list_message.failed": "同步食物清單失敗！%s"
+}

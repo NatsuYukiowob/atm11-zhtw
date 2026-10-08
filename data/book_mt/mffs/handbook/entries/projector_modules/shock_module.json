@@ -1,0 +1,18 @@
+{
+ "category": "mffs:projector_modules",
+ "icon": "mffs:shock_module",
+ "name": "電擊模組",
+ "pages": [
+  {
+   "item": "mffs:shock_module",
+   "link_recipe": true,
+   "text": "在$(l:mffs:machines/projector)力場投影機$()中放入$(5)電擊模組$()，會使力場帶電。當玩家或實體接觸到帶電的力場時，會受到電擊而造成傷害。每在投影機中加入一個$(5)電擊模組$()，就會使對玩家或實體造成的傷害增加半顆心。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "mffs:shock_module",
+   "text": "製作$(5)電擊模組$()。",
+   "type": "patchouli:crafting"
+  }
+ ]
+}

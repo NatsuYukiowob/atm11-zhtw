@@ -1,0 +1,4 @@
+{
+ "geore.configuration.disableImmovability": "停用不可移動性",
+ "geore.configuration.disableImmovability.tooltip": "停用 Budding GeOre 方塊的不可移動性（會啟用內建資料包）[預設：false]"
+}

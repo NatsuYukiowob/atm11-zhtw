@@ -1,0 +1,22 @@
+{
+ "ftbteams.click_show_info": "點選以顯示隊伍資訊",
+ "ftbteams.disbanded_no_lives": "因生命與玩家數耗盡，你的隊伍已解散！",
+ "ftbteams.gui.toggle_chat": "點選以切換",
+ "ftbteams.kicked_no_lives": "玩家 %s 因死亡而被踢出，你的隊伍已無剩餘生命！",
+ "ftbteams.lost_a_life": "你的隊伍失去一條生命！剩餘 %s / %s 條生命！",
+ "ftbteams.message.added_stage": "已新增隊伍階段：%s",
+ "ftbteams.message.chat_redirected.off": "聊天訊息會傳送至原版聊天",
+ "ftbteams.message.chat_redirected.on": "聊天訊息已轉送至隊伍聊天",
+ "ftbteams.message.limited_lives": "你的隊伍剩餘 %s / %s 條生命！",
+ "ftbteams.message.limited_lives.warn": "若你死亡，將被踢出隊伍！",
+ "ftbteams.message.no_team_stages": "此隊伍沒有任何隊伍階段",
+ "ftbteams.message.parse_failed": "無法解析數值：'%s'",
+ "ftbteams.message.property_not_editable": "屬性 %s 不可編輯！",
+ "ftbteams.message.removed_stage": "已移除隊伍階段：%s",
+ "ftbteams.message.set_property": "已將屬性 %s 設為 %s",
+ "ftbteams.message.team_stages_header": "此隊伍共有 %s 個隊伍階段：",
+ "ftbteams.out_of_lives": "你的隊伍已耗盡生命！無法邀請新成員！",
+ "ftbteams.party_creation_failed": "建立隊伍時發生錯誤！%s",
+ "ftbteams.team_already_exists": "隊伍 %s 已存在！",
+ "key.category.ftbteams.ftbteams_key": "FTB Teams"
+}

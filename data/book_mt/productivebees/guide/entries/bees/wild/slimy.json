@@ -1,0 +1,18 @@
+{
+ "category": "productivebees:bees_wild",
+ "icon": "minecraft:slime_ball",
+ "name": "黏液蜂",
+ "pages": [
+  {
+   "anchor": "slimy",
+   "text": "棲息於沼澤生態域的黏液巢穴中。黏液蜂偏好為沼澤地區的花朵授粉，但也會將就使用其他生態域的花朵。。",
+   "title": "黏液蜂",
+   "type": "patchouli:text"
+  },
+  {
+   "entity": "productivebees:configurable_bee{type:'productivebees:slimy'}",
+   "type": "patchouli:entity"
+  }
+ ],
+ "read_by_default": true
+}
