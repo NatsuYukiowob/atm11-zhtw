@@ -77,7 +77,8 @@ def main():
     # 後者在子字串取代下非冪等——「最小→最小值」套在已含「最小值」的正確譯文上
     # 會長成「最小值值」，且每套用一次再長一節。這類規則只在整串完全相等時才對，
     # 而本管線是子字串套用，直接剔除。
-    glossary = {s: d for s, d in glossary.items() if s != d and s not in d}
+    # 例外：manual 的 src == dst 是保護詞（見 common.apply_glossary），保留。
+    glossary = {s: d for s, d in glossary.items() if (s != d and s not in d) or (s == d and manual.get(s) == d)}
 
     save_json(WORK / "glossary.json", glossary)
     print(f"規則總數: {len(glossary)}（人工 {len(manual)} 條）")

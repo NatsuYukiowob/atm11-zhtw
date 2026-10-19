@@ -14,8 +14,13 @@ from validate import check_value
 BATCH = 60
 
 
+def _to_tw(s):
+    # 人工簡中任務書有雙重跳脫的換行（值裡是兩個反斜線＋n，遊戲內顯示成字面），英文原文沒有 → 還原成換行
+    return C.to_tw(s.replace("\\\\n", "\n"))
+
+
 def to_tw_value(v):
-    return [C.to_tw(x) for x in v] if isinstance(v, list) else C.to_tw(v)
+    return [_to_tw(x) for x in v] if isinstance(v, list) else _to_tw(v)
 
 
 def main():

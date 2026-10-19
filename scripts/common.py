@@ -55,19 +55,29 @@ def get_opencc():
 
 
 def glossary_rules():
-    """work/glossary.json 的 (src, dst) 清單，依 src 長度由長到短（快取）。"""
+    """work/glossary.json 的 (src, dst) 清單，依 src 長度由長到短；同長度時保護詞排後（先改寫成它再保護）。"""
     global _glossary_rules
     if _glossary_rules is None:
         g = load_json(WORK / "glossary.json")
-        _glossary_rules = sorted(g.items(), key=lambda kv: -len(kv[0]))
+        _glossary_rules = sorted(g.items(), key=lambda kv: (-len(kv[0]), kv[0] == kv[1]))
     return _glossary_rules
 
 
 def apply_glossary(s):
-    """依術語表逐條取代（長規則優先；順序取代允許鏈式收斂，語意勿改）。"""
+    """依術語表逐條取代（長規則優先；順序取代允許鏈式收斂，語意勿改）。
+
+    src == dst 的規則是保護詞（只來自 glossary_manual）：先遮起來，較短規則碰不到，最後還原。
+    """
+    masks = []
     for src, dst in glossary_rules():
         if src in s:
-            s = s.replace(src, dst)
+            if src == dst:
+                s = s.replace(src, f"\x00{len(masks)}\x01")
+                masks.append(src)
+            else:
+                s = s.replace(src, dst)
+    for i, w in enumerate(masks):
+        s = s.replace(f"\x00{i}\x01", w)
     return s
 
 
@@ -82,7 +92,15 @@ def to_tw(s):
         if t == s:
             break
         s = t
-    return s
+    return tw_quotes(s)
+
+
+_SINGLE_Q = re.compile(r"(?<![A-Za-z])‘([^‘’]*)’")
+
+
+def tw_quotes(s):
+    """台灣引號：“”→「」；‘’ 成對且前面不是英文字母時→『』（避開英文撇號 Odus’）。巢狀引號不處理。"""
+    return _SINGLE_Q.sub(r"『\1』", s.replace("“", "「").replace("”", "」"))
 
 
 def jar_json(zf, name):

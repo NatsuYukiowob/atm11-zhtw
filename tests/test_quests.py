@@ -38,3 +38,9 @@ def test_extract_human_line_split_accepted(tmp_path, monkeypatch, repo):
     _setup(tmp_path, monkeypatch, en, cn={"q.desc": ["出发 &a现在", "", "更多"]})
     s07q_quests.main()
     assert common.load_json(common.WORK / "quests_tw.json") == {"q.desc": ["出發 &a現在", "", "更多"]}
+
+
+def test_to_tw_value_restores_double_escaped_newline():
+    # 人工簡中任務書的值裡是「兩個反斜線＋n」，遊戲內顯示成字面；英文原文是真換行
+    import s07q_quests
+    assert s07q_quests.to_tw_value(["甲\\\\n\\\\n乙"]) == ["甲\n\n乙"]

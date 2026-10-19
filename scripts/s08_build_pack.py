@@ -1,6 +1,9 @@
 """組裝資源包＋任務書：lang（轉換＋機翻合併）＋ Patchouli 書頁 → dist/atm11-zhtw.zip（含 sha1）、dist/ftbquests/zh_tw/（任務書 lang 同構目錄）。
 
-最終驗證：每條 lang 值再過一次佔位符比對；書頁已由 s07b 驗過。
+機翻層（data/mt、data/book_mt、data/quests_mt.json）打包前再過一次 to_tw：這些值在合併時已轉換寫死，
+術語表修正後要靠這裡才會套到；再轉後不收斂的保留原值（合併時已驗過）。轉換層（work/）每次由 s05/s07/s07q
+重建，已收斂，不再轉（OpenCC 對繁體再轉會出錯，如 演算法→演演算法）。
+最終驗證：每條 lang 值再過一次佔位符比對；任務書再過 check_value。
 zip 用固定時間戳，內容不變則 sha1 不變（客戶端快取友善）。
 """
 import hashlib
@@ -11,10 +14,21 @@ import zipfile
 import common as C
 import quests_io
 from common import DATA, DIST, PACK_FORMAT, REPO, WORK, load_json, placeholders
+from s07_books import walk
 from validate import check_value
 
 DESC = "ATM11 繁體中文化包（CFPA轉繁+LLM補翻，haiku/sonnet/opus）"
 ZIP_DATE = (2026, 1, 1, 0, 0, 0)
+
+
+def reconv(s):
+    """機翻值套用目前術語表；不收斂（to_tw 振盪）就保留原值。"""
+    t = C.to_tw(s)
+    return t if C.to_tw(t) == t else s
+
+
+def reconv_value(v):
+    return [reconv(x) for x in v] if isinstance(v, list) else reconv(v)
 
 
 def build_quests():
@@ -29,7 +43,7 @@ def build_quests():
     ours = {}
     for p, human in ((C.WORK / "quests_tw.json", True), (C.DATA / "quests_mt.json", False)):
         if p.exists():
-            ours.update({k: (v, human) for k, v in load_json(p).items()})
+            ours.update({k: (v if human else reconv_value(v), human) for k, v in load_json(p).items()})
     files, dropped = {}, 0
     for rel, en in en_files.items():
         out = {}
@@ -66,7 +80,8 @@ def main():
         merged = {}
         for src in (WORK / f"zhtw_lang/{modid}.json", DATA / f"mt/{modid}.json"):
             if src.exists():
-                merged.update(load_json(src))
+                vals = load_json(src)
+                merged.update({k: reconv(v) for k, v in vals.items()} if src.parent.name == "mt" else vals)
         if not merged:
             continue
         en_p = WORK / f"extract/en/{modid}.json"
@@ -91,7 +106,12 @@ def main():
             continue
         for f in sorted(books_root.rglob("*.json")):
             modid, book, *rest = f.relative_to(books_root).parts
-            entries[f"assets/{modid}/patchouli_books/{book}/zh_tw/{'/'.join(rest)}"] = f.read_bytes()
+            name = f"assets/{modid}/patchouli_books/{book}/zh_tw/{'/'.join(rest)}"
+            if books_root == DATA / "book_mt":
+                page, _ = walk(load_json(f), reconv)
+                entries[name] = json.dumps(page, ensure_ascii=False, indent=1).encode()
+            else:
+                entries[name] = f.read_bytes()
             n_pages += 1
 
     entries["pack.mcmeta"] = json.dumps(
