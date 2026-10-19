@@ -5,5 +5,6 @@
  "ftblibrary.select_entity.neutrals": "haiku",
  "ftblibrary.select_item.list_mode.emi": "haiku",
  "ftblibrary.select_item.list_mode.jei": "haiku",
- "ftblibrary.select_item.list_mode.rei": "haiku"
+ "ftblibrary.select_item.list_mode.rei": "haiku",
+ "ftblibrary.select_item.nbt": "opus"
 }

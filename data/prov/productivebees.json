@@ -21,6 +21,8 @@
  "entity.productivebees.thermal_bee": "haiku",
  "entity.productivebees.vivid_alloy_bee": "haiku",
  "item.productivebees.spawn_egg_configurable_bee": "haiku",
+ "productivebees.information.upgrade.upgrade_child.advanced_beehive": "opus",
+ "productivebees.ingredient.description.forgotten_bee": "opus",
  "productivebees.ingredient.description.spatial_bee": "haiku",
  "productivebees.top.jar.bee": "haiku"
 }

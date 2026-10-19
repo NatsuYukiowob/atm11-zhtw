@@ -1,0 +1,17 @@
+{
+ "category": "justdirethings:machines",
+ "icon": "justdirethings:fluidcollectort1",
+ "name": "初級流體收集器",
+ "pages": [
+  {
+   "text": "初級流體收集器可以自動盛取世界中的流體。它會嘗試收集正前方的流體，並存入其內部的儲存空間。需注意它同時只能儲存 1 種流體。$(br2)物品槽可放置空鐵桶以盛裝流體，也接受流體罐等可以盛裝流體的物品。",
+   "type": "patchouli:text"
+  },
+  {
+   "recipe": "justdirethings:fluidcollectort1",
+   "title": "初級流體收集器",
+   "type": "patchouli:crafting"
+  }
+ ],
+ "sortnum": 17
+}

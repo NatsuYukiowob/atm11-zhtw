@@ -1,0 +1,24 @@
+{
+ "category": "justdirethings:armor",
+ "icon": "justdirethings:ferricore_chestplate",
+ "name": "盔甲基礎概念",
+ "pages": [
+  {
+   "text": "各品質的材料均可用於製造同種盔甲。這些盔甲均有一系列的適配$(l:justdirethings:upgrades)升級$(/l)。$(br2)可在按住 Shift 時在其提示文字中找到可用升級的清單。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "合成對應升級物品，再在鍛造台中放置盔甲和升級，即可加裝升級。$(br2)可用升級鍛造模板提升盔甲的品質，如此會保留先前的升級。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "手持工具時 Shift 點選開啟介面，再點選盔甲即可開啟它們的設定。點選介面中對應升級的圖示可以啟用或停用它們。$(br2)右擊各能力可以修改能力的設定（若有）和鍵位。被動能力的鍵位會切換能力啟用與否，觸發能力的鍵位會啟用該能力。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "「無敵」等主動能力必須繫結到鍵位。此系統的詳細資訊請參閱$(l:justdirethings:upgrade_basics)升級基礎概念$(/l)。$(br2)盔甲可在鍛造台中升級（配方請檢視 JEI），以此方式合成時會保留已安裝的升級。",
+   "type": "patchouli:text"
+  }
+ ],
+ "sortnum": 0
+}

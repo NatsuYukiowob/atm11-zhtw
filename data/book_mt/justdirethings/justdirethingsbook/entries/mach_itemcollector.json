@@ -1,0 +1,17 @@
+{
+ "category": "justdirethings:machines",
+ "icon": "justdirethings:itemcollector",
+ "name": "物品拾取器",
+ "pages": [
+  {
+   "text": "物品拾取器使用一級品質材料製作而成，但其功能與$(l:justdirethings:mach_advanced_controls)高階機器$(/l)類似。它會拾取工作區域內所有物品實體，並存入其附著的容器。$(br2)介面中可以過濾拾取何種物品，如有需要也可加快拾取的速度。",
+   "type": "patchouli:text"
+  },
+  {
+   "recipe": "justdirethings:itemcollector",
+   "title": "物品拾取器",
+   "type": "patchouli:crafting"
+  }
+ ],
+ "sortnum": 1
+}

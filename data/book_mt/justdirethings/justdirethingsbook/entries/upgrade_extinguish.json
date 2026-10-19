@@ -1,0 +1,17 @@
+{
+ "category": "justdirethings:upgrades",
+ "icon": "justdirethings:upgrade_extinguish",
+ "name": "滅火",
+ "pages": [
+  {
+   "text": "滅火升級能助你抵禦各種火焰危害。這一便捷升級能夠自動撲滅玩家身上的火焰，確保你不受突發大火的威脅。$(br2)注意：此升級在能再次滅火前有冷卻時間。盔甲的品質越高，冷卻時間也越短。",
+   "type": "patchouli:text"
+  },
+  {
+   "recipe": "justdirethings:upgrade_extinguish",
+   "title": "滅火升級的配方",
+   "type": "patchouli:crafting"
+  }
+ ],
+ "sortnum": 1
+}

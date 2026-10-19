@@ -13,6 +13,9 @@
  "item.refinedtypes.creative_source_storage_block.help": "已儲存無限量的源質。",
  "item.refinedtypes.creative_source_storage_disk": "創造源質儲存磁碟",
  "item.refinedtypes.creative_source_storage_disk.help": "已儲存無限量的源質。",
+ "item.refinedtypes.energy_storage_disk.help": "可儲存%s FE。清空後，手持使用可返還能量儲存元件。與能量儲存元件組合，可升級至更高等級。",
  "item.refinedtypes.network_energizer.help": "自動消耗網路內能量磁碟中儲存的能量以維持運作。",
- "item.refinedtypes.soul.help": "提示：使用調節器升級可防止輸出器把你所有的靈魂傾倒進相連的靈魂管道"
+ "item.refinedtypes.soul.help": "提示：使用調節器升級可防止輸出器把你所有的靈魂傾倒進相連的靈魂管道",
+ "item.refinedtypes.soul_storage_disk.help": "可儲存%s靈魂。清空後，手持使用可返還靈魂儲存元件。與靈魂儲存元件組合，可升級至更高等級。",
+ "item.refinedtypes.source_storage_disk.help": "可儲存%s魔源。清空後，手持使用可返還魔源儲存元件。與魔源儲存元件組合，可升級至更高等級。"
 }

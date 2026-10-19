@@ -1,0 +1,13 @@
+{
+ "category": "apotheosis:adventure/attributes",
+ "flag": "apotheosis:adventure",
+ "icon": "minecraft:experience_bottle",
+ "name": "過量治療",
+ "pages": [
+  {
+   "text": "擁有$(9)過量治療$()意味著你造成的部分物理傷害將作為吸收的護盾。與生命偷取不同的是，過量治療是在你的生命值為滿的情況下發揮作用。$(p)這個屬性只發現於重型武器。",
+   "type": "patchouli:text"
+  }
+ ],
+ "sortnum": 0
+}

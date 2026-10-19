@@ -1,4 +1,6 @@
 {
+ "gui.sophisticatedcore.error.add.battery_energy_high": "揹包無法支援此電池升級。請升級揹包或增加堆疊倍數，使最大能量至少提高%s倍",
+ "gui.sophisticatedcore.error.add.tank_capacity_high": "揹包無法支援此儲罐升級。請升級揹包或增加堆疊倍數，使容量至少提高%s倍",
  "item.sophisticatedcore.storage.tooltip.energy": "%s FE",
  "item.sophisticatedcore.storage.tooltip.fluid": "%s mB %s"
 }

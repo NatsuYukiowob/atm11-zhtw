@@ -1,4 +1,5 @@
 {
+ "advancements.apothic_enchanting.altar.desc": "建造一座海之祭壇，它可以將不需要的附魔物品轉化為一本新的附魔書。",
  "apothic_enchanting:max_eterna": "最大 Eterna 數",
  "apothic_enchanting:max_eterna.desc": "可在附魔台中使用的 Eterna 最大數量。",
  "block.apothic_enchanting.apothic_enchanting_table": "Apothic 附魔台",

@@ -1,0 +1,13 @@
+{
+ "category": "apotheosis:enchanting/enchantments",
+ "flag": "apotheosis:enchanting",
+ "icon": "minecraft:enchanted_book",
+ "name": "自然祝福",
+ "pages": [
+  {
+   "text": "$(9)自然祝福$()是一個鋤魔咒。$(p)它允許一把鋤被用作骨粉，但要付出耐久的代價。$(p)更高的魔咒等級會降低耐久度消耗。",
+   "type": "patchouli:text"
+  }
+ ],
+ "sortnum": 1
+}

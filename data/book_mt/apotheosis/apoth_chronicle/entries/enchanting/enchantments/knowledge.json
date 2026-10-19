@@ -1,0 +1,17 @@
+{
+ "category": "apotheosis:enchanting/enchantments",
+ "flag": "apotheosis:enchanting",
+ "icon": "minecraft:enchanted_book",
+ "name": "亙古智慧",
+ "pages": [
+  {
+   "text": "$(2)亙古智慧$()是一個極品$(br)魔咒，可以應用於劍。$(p)當你殺死一個生物時，所有的掉落物都會轉化為經驗。$(p)每個單獨的物品都價值相同的經驗。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "這使得殺死掉落大量物品的生物最為有效。$(p)每件物品的經驗隨著魔咒等級的提高而增加。$(p)作為預防措施，殺死一位玩家將不會轉化他們的物品。",
+   "type": "patchouli:text"
+  }
+ ],
+ "sortnum": 1
+}

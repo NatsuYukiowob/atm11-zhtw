@@ -3,5 +3,7 @@
  "item.iceandfire.air_pods": "haiku",
  "item.iceandfire.weezer_blue_album": "haiku",
  "item.iceandfire.weezer_blue_album.desc_0": "haiku",
- "material.weezer": "haiku"
+ "material.weezer": "haiku",
+ "modifier.flame.desc": "opus",
+ "modifier.frost.desc": "opus"
 }

@@ -1,0 +1,42 @@
+{
+ "category": "buildinggadgets2:gadgets",
+ "icon": "buildinggadgets2:gadget_cut_paste[buildinggadgets2:forge_energy=5000000]",
+ "name": "剪下工具",
+ "pages": [
+  {
+   "text": "        剪下工具能使移動結構變得更加輕鬆。其使用方法與$(l:buildinggadgets2:copypaste)複製工具$(/l)基本一致。$(br2)        請在設定選單中確保工具為「剪下」模式。右鍵單擊需要剪下的結構的一角，然後按住Shift並右鍵單擊結構的對角。如果操作正確，選取的結構周圍會出現紅色輪廓。",
+   "type": "patchouli:text"
+  },
+  {
+   "border": true,
+   "images": [
+    "buildinggadgets2:textures/book/images/cut.png"
+   ],
+   "text": "正在剪下結構。",
+   "title": "剪下",
+   "type": "patchouli:image"
+  },
+  {
+   "text": "在點選設定選單中的「剪下」按鈕之前，該結構不會被移除。$(br2)將工具切換至「貼上」模式，你會看到所複製結構的半透明預覽。$(br2)接下來按右鍵即可放置結構！放置無需任何物品，因為使用的是你先前移除的方塊。",
+   "type": "patchouli:text"
+  },
+  {
+   "border": true,
+   "images": [
+    "buildinggadgets2:textures/book/images/paste.png"
+   ],
+   "text": "正在放置結構。",
+   "title": "放置預覽",
+   "type": "patchouli:image"
+  },
+  {
+   "text": "        工具只能儲存一個結構，將結構放置完成後會自動清除工具內儲存的結構資訊。$(br2)        放置時一定要萬分小心，因為只有一次機會！強烈建議啟用$(l:buildinggadgets2:exchangemode)替換原有方塊$(/l)功能以確保結構完整移動。$(br2)        如果您嘗試在工具已經儲存了結構資訊的情況下剪下新的結構，那麼工具會出現警告資訊，若堅持這樣做，之前儲存的結構資訊將被永久清除！",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "        所有方塊實體資料都將隨機構一起移動，包括儲存容器的內容及方塊配置。$(br2)        剪下工具與$(l:buildinggadgets2:copypaste)複製工具$(/l)非常相似，您同樣可以使用「配置」視窗來調整剪下或放置的位置，具體方法請參閱$(l:buildinggadgets2:copypaste)複製工具$(/l)。",
+   "type": "patchouli:text"
+  }
+ ],
+ "sortnum": 4
+}

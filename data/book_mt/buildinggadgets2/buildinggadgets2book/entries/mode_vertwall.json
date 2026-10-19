@@ -1,0 +1,23 @@
+{
+ "category": "buildinggadgets2:modes",
+ "icon": "buildinggadgets2:textures/book/mode/vertical_wall.png",
+ "name": "垂直牆面",
+ "pages": [
+  {
+   "text": "        垂直牆面模式會從指向方塊的頂面或底面向上或向下建造一堵牆。$(br2)        當指向方塊的側面時，工具會圍繞該方塊建造。",
+   "type": "patchouli:text"
+  },
+  {
+   "border": true,
+   "images": [
+    "buildinggadgets2:textures/book/images/vertwall2.png",
+    "buildinggadgets2:textures/book/images/vertwall4.png",
+    "buildinggadgets2:textures/book/images/vertwall3.png"
+   ],
+   "text": "點選圖片右下角的箭頭來切換不同的圖片。",
+   "title": "垂直牆面模式",
+   "type": "patchouli:image"
+  }
+ ],
+ "sortnum": 1
+}

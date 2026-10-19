@@ -1,0 +1,33 @@
+{
+ "category": "buildinggadgets2:gadgets",
+ "icon": "buildinggadgets2:gadget_exchanging[buildinggadgets2:forge_energy=500000]",
+ "name": "替換工具",
+ "pages": [
+  {
+   "text": "        替換工具能使範圍內的方塊替換為另一種方塊，但無法取代空氣方塊，如有需要請直接使用$(l:buildinggadgets2:buildinggadget)建造工具$(/l)。$(br2)        確保工具有一定的能量。按住Shift並右鍵單擊一個方塊，選中的方塊將用來替換。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "        按住設定選單鍵來選擇$(l:buildinggadgets2:modes)替換模式$(/l)。說明書的相應條目對每種模式都有著詳細資訊。預設替換模式為$(l:buildinggadgets2:mode_surface)平面$(/l)。 $(br2)        選中方塊並準備放置時，您會看到半透明的替換預覽提示替換位置。如果缺少替換所需方塊或工具能量不足，預覽會變為紅色。準備就緒後，單擊右鍵替換方塊。",
+   "type": "patchouli:text"
+  },
+  {
+   "border": true,
+   "images": [
+    "buildinggadgets2:textures/book/images/ghost_render_exchange.png"
+   ],
+   "text": "預覽方塊的替換位置。",
+   "title": "替換預覽",
+   "type": "patchouli:image"
+  },
+  {
+   "text": "        當您單擊右鍵時，替換開始。所需的方塊將從物品欄取出並替換目標方塊，缺少的方塊會被略過。$(br2)        被替換的方塊會存放在您的物品欄中。$(br2)        本工具可以附加絲綢之觸魔咒，確保被替換下來的方塊不會發生變化。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "        替換工具同樣可以$(l:buildinggadgets2:undo)撤銷$(/l)，但您的物品欄中必須有相應的方塊以供恢復。$(br2)        例如，已經將草地替換為石磚，想撤銷本次替換，那麼物品欄中必須有相應數量的草地。當然，不要忘記給工具附加絲綢之觸魔咒！",
+   "type": "patchouli:text"
+  }
+ ],
+ "sortnum": 2
+}

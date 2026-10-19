@@ -13,5 +13,6 @@
  "screen.mffs.fortron.name": "haiku",
  "screen.mffs.fortron.short": "haiku",
  "screen.mffs.fortron.value": "haiku",
- "screen.mffs.fortron_cost": "haiku"
+ "screen.mffs.fortron_cost": "haiku",
+ "screen.mffs.matrix.tooltip": "opus"
 }

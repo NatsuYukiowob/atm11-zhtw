@@ -1,0 +1,17 @@
+{
+ "category": "justdirethings:tools",
+ "icon": "justdirethings:ferricore_sword",
+ "name": "核源鐵劍",
+ "pages": [
+  {
+   "text": "核源鐵劍是一柄堅韌的近戰武器，略強於傳統的鐵劍。它由核源鐵製成，不只帶來了更高的傷害，也能進一步升級、加裝特殊能力，提升其在戰鬥中的實用性。",
+   "type": "patchouli:text"
+  },
+  {
+   "recipe": "justdirethings:ferricore_sword",
+   "text": "核源鐵劍的配方",
+   "type": "patchouli:crafting"
+  }
+ ],
+ "sortnum": 1
+}

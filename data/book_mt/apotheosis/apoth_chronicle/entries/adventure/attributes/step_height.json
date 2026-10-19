@@ -1,0 +1,13 @@
+{
+ "category": "apotheosis:adventure/attributes",
+ "flag": "apotheosis:adventure",
+ "icon": "minecraft:iron_boots",
+ "name": "半磚高度",
+ "pages": [
+  {
+   "text": "$(9)踏步高度$()改變你可以自動走上方塊的高度。$(p)只發現於靴子。",
+   "type": "patchouli:text"
+  }
+ ],
+ "sortnum": 0
+}

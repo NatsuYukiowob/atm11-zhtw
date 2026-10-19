@@ -13,6 +13,9 @@
  "item.refinedtypes.creative_source_storage_block.help": "haiku",
  "item.refinedtypes.creative_source_storage_disk": "haiku",
  "item.refinedtypes.creative_source_storage_disk.help": "haiku",
+ "item.refinedtypes.energy_storage_disk.help": "opus",
  "item.refinedtypes.network_energizer.help": "haiku",
- "item.refinedtypes.soul.help": "haiku"
+ "item.refinedtypes.soul.help": "haiku",
+ "item.refinedtypes.soul_storage_disk.help": "opus",
+ "item.refinedtypes.source_storage_disk.help": "opus"
 }

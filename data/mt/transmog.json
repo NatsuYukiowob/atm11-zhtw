@@ -3,6 +3,7 @@
  "transmog.config.disable_during_pvp_duration": "PvP 期間停用",
  "transmog.config.disable_during_pvp_duration.label": "%d 秒",
  "transmog.config.disable_during_pvp_duration.tooltip": "若你攻擊或被其他玩家攻擊，將暫時停止顯示變形外觀，持續設定的時間。設為 0 則忽略 PvP。",
+ "transmog.config.render.in_world.tooltip": "僅在世界中顯示幻化。揹包和快捷欄中的物品會顯示為原樣，只有在手持、裝備或以其他方式呈現於世界中時才會顯示幻化後的外觀。這是預設選項。",
  "transmog.config.tooltip": "提示資訊詳細程度",
  "transmog.config.tooltip.full": "完整",
  "transmog.config.tooltip.full.tooltip": "在物品提示中加入其所變形成之外觀物品的原始提示。這是預設選項。",

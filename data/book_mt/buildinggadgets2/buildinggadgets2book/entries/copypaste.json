@@ -1,0 +1,73 @@
+{
+ "category": "buildinggadgets2:gadgets",
+ "icon": "buildinggadgets2:gadget_copy_paste[buildinggadgets2:forge_energy=1000000]",
+ "name": "複製工具",
+ "pages": [
+  {
+   "text": "        複製工具能使複製結構變得更加輕鬆。$(br2)        請在設定選單中確保工具為「複製」模式。右鍵單擊需要複製的結構的一角，然後按住Shift並右鍵單擊結構的對角。如果操作正確，選取的結構周圍會出現綠色輪廓。",
+   "type": "patchouli:text"
+  },
+  {
+   "border": true,
+   "images": [
+    "buildinggadgets2:textures/book/images/copy.png"
+   ],
+   "text": "正在複製結構。",
+   "title": "複製",
+   "type": "patchouli:image"
+  },
+  {
+   "text": "        在設定選單中將工具切換至「貼上」模式，您會看到半透明的放置預覽提示放置位置。在複製過程中右鍵單擊的方塊為放置的起始位置。$(br2)        接下來單擊右鍵即可放置結構！所需的方塊將從物品欄提取並放置，缺少的方塊會被略過。",
+   "type": "patchouli:text"
+  },
+  {
+   "border": true,
+   "images": [
+    "buildinggadgets2:textures/book/images/paste.png"
+   ],
+   "text": "正在放置結構。",
+   "title": "放置預覽",
+   "type": "patchouli:image"
+  },
+  {
+   "text": "        開啟設定選單中的「材料清單」視窗，可以檢視貼上結構所需要的方塊。$(br2)        這是可滾動的清單，顯示已有或缺少的方塊，且可以切換多種排序方式。",
+   "type": "patchouli:text"
+  },
+  {
+   "border": true,
+   "images": [
+    "buildinggadgets2:textures/book/images/materiallist.png"
+   ],
+   "text": "列出了已有或缺少的方塊。",
+   "title": "材料清單",
+   "type": "patchouli:image"
+  },
+  {
+   "text": "        開啟設定選單中的「配置」視窗，可以對複製區域進行微調。$(br2)        在這裡可以調整起始方塊和結束方塊的座標，左鍵單擊加號或減號按鈕可以實時檢視綠色輪廓的變化。$(br2)        您還可以切換至絕對座標模式並輸入世界座標。",
+   "type": "patchouli:text"
+  },
+  {
+   "border": true,
+   "images": [
+    "buildinggadgets2:textures/book/images/copy_adjustment.png"
+   ],
+   "text": "正在調整複製的區域。",
+   "title": "調整複製區域",
+   "type": "patchouli:image"
+  },
+  {
+   "text": "        在「貼上」模式中有著類似的視窗，您可以在其中調整起始方塊的座標，預覽會即時更新。",
+   "type": "patchouli:text"
+  },
+  {
+   "border": true,
+   "images": [
+    "buildinggadgets2:textures/book/images/paste_adjustment.png"
+   ],
+   "text": "正在調整放置的位置。",
+   "title": "調整放置位置",
+   "type": "patchouli:image"
+  }
+ ],
+ "sortnum": 3
+}

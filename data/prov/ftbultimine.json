@@ -35,6 +35,7 @@
  "ftbultimine.server_settings.costs_limits.experience_per_block": "haiku",
  "ftbultimine.server_settings.costs_limits.experience_per_block.tooltip": "haiku",
  "ftbultimine.server_settings.costs_limits.max_blocks.tooltip": "haiku",
+ "ftbultimine.server_settings.costs_limits.require_tool.tooltip": "opus",
  "ftbultimine.server_settings.costs_limits.require_valid_tool_for_block": "haiku",
  "ftbultimine.server_settings.costs_limits.require_valid_tool_for_block.tooltip": "haiku",
  "ftbultimine.server_settings.costs_limits.ultimine_cooldown": "haiku",

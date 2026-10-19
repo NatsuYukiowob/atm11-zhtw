@@ -1,0 +1,21 @@
+{
+ "category": "apotheosis:adventure/gems",
+ "flag": "apotheosis:adventure",
+ "icon": "apotheosis:gem_dust",
+ "name": "寶石粉",
+ "pages": [
+  {
+   "item": "apotheosis:gem_dust",
+   "link_recipe": true,
+   "text": "所有的神化寶石都可以透過粉碎而被還原成$(br)$(9)寶石粉$()。$(p)有一種方法是用鐵砧$(br)在世界中砸碎它們。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "recipe": "apotheosis:salvaging_table",
+   "text": "一旦你用鐵砧砸碎了一些寶石，你就可以製作並使用$(9)回收台$()了。",
+   "title": "回收寶石",
+   "type": "patchouli:crafting"
+  }
+ ],
+ "sortnum": 2
+}

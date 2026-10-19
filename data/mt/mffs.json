@@ -13,5 +13,6 @@
  "screen.mffs.fortron.name": "Fortron：",
  "screen.mffs.fortron.short": "Fortron：%s L",
  "screen.mffs.fortron.value": "%s L / %s L",
- "screen.mffs.fortron_cost": "%s%s L/s"
+ "screen.mffs.fortron_cost": "%s%s L/s",
+ "screen.mffs.matrix.tooltip": "投影矩陣用於決定如何建立投影。"
 }

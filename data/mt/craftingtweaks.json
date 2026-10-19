@@ -1,4 +1,5 @@
 {
+ "craftingtweaks.configuration.client.hideVanillaCraftingGuide.tooltip": "全世界都知道 JEI 更棒。此選項會隱藏原版的配方書按鈕，而不是移動它。",
  "craftingtweaks.configuration.client.vanillaCraftingGuideOffsetX": "原版合成指南 X 偏移量",
  "craftingtweaks.configuration.client.vanillaCraftingGuideOffsetX.tooltip": "重新定位原版配方書按鈕時，距離右側的偏移量。",
  "craftingtweaks.configuration.client.vanillaCraftingGuideOffsetY": "原版合成指南 Y 偏移量",

@@ -1,0 +1,22 @@
+{
+ "category": "buildinggadgets2:modes",
+ "icon": "buildinggadgets2:textures/book/mode/grid.png",
+ "name": "網格",
+ "pages": [
+  {
+   "text": "        網格模式會將方塊放置成網格狀，適合用於火把、螢光石等方塊。隨著範圍增加，方塊之間的間距會越來越大，到最後則只會擴大整體區域。$(br2)        網格模式也可用於替換工具，讓你以網格方式替換方塊。",
+   "type": "patchouli:text"
+  },
+  {
+   "border": true,
+   "images": [
+    "buildinggadgets2:textures/book/images/mode_grid.png",
+    "buildinggadgets2:textures/book/images/mode_grid2.png"
+   ],
+   "text": "點選圖片右下角的箭頭來切換不同的圖片。",
+   "title": "網格模式",
+   "type": "patchouli:image"
+  }
+ ],
+ "sortnum": 1
+}

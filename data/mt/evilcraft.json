@@ -1,6 +1,10 @@
 {
+ "info_book.evilcraft.first_age.new_world.dark_ore.text": "這世界中蘊藏著無數種資源，這我本早已知曉……但今日卻有了新發現，世界中存在著這麼一種散發著黑暗光澤的礦石，其外形類似寶石，但我能從其中感覺到某種晦暗的存在。其通常出現在&l紅石礦&r附近，但有時也會在更高處出現。似乎至少需要鐵鎬才能開掘到這些寶石。與這些寶石同時挖掘而出的，還有一種奇特的粉末，但只有使用幸運魔咒時才會出現。似乎幸運魔咒的等級越高，這種粉末掉落的機率就越大。我相信用不了多久就能明白這些粉末的用處。",
  "info_book.evilcraft.second_age.evolved_blood_machinery.purifier.text4": "最後，&1淨化器&0能夠逆轉&1血液注入器&0所造成的生物頭顱腐化。將它完全填滿&4血液&0，並在其中放入&1凋零骷髏頭顱&0、&1苦力怕頭顱&0或&1殭屍頭顱&0，即可讓該頭顱退回其演變的前一階段。",
+ "info_book.evilcraft.second_age.weapons.mace_of_destruction.text": "升級版的&1扭曲重錘&0，其釋放的衝擊變為強力的爆炸。蓄力時間越長，爆炸規模越大。提升強度等級可增強爆炸的初始威力，從而進一步延長蓄力時間。",
+ "info_book.evilcraft.second_age.weapons.vein_sword.text": "&4血液&0短缺且經常在野外獵殺生物？何不選用此劍來擊殺生物，以提高&1血液提取器&0獲取的&4血液&0量？額外福利：該劍合成時將自帶&1掠奪&0加成。",
  "item.evilcraft.garmonbozia.info": "\"痛苦與悲傷\"",
+ "item.evilcraft.origins_of_darkness.info": "將黑蘋果餵給生物，並迅速向產生的異常現象投擲一本書即可獲得。",
  "potion.potency.2": "III",
  "potion.potency.3": "IV",
  "potion.potency.4": "V",

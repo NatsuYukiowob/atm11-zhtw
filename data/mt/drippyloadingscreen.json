@@ -1,3 +1,4 @@
 {
- "drippyloadingscreen.overlay.customization_hint": "點此自訂！"
+ "drippyloadingscreen.overlay.customization_hint": "點此自訂！",
+ "drippyloadingscreen.settings.fade_out_loading_screen.desc": "載入畫面是否應該像原版那樣淡入淡出。\n請注意，只有在重新載入資源時才會有淡入效果。"
 }

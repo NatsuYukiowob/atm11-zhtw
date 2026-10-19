@@ -1,0 +1,16 @@
+{
+ "category": "justdirethings:resources",
+ "icon": "justdirethings:refined_t3_fluid_bucket",
+ "name": "虛炎燃液",
+ "pages": [
+  {
+   "text": "虛炎燃液由未精煉的虛炎燃液加工而來。首先，向$(l:justdirethings:res_refined_fuel_t2)烈焰燃液$(/l)中投入$(l:justdirethings:res_coal_t3)虛炎煤炭$(/l)。然後，令所得流體與虛空輝凝膠接觸，進行精煉。此燃液的能量產出高於前代燃液，每刻產能速度和總產能都得到了大幅提升。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "虛炎燃液是一種高效的燃料，可在$(l:justdirethings:mach_generatorfluidt1)燃液發電器$(/l)中用於產生能量。",
+   "type": "patchouli:text"
+  }
+ ],
+ "sortnum": 28
+}

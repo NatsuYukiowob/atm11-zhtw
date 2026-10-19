@@ -1,0 +1,17 @@
+{
+ "category": "justdirethings:tools",
+ "icon": "justdirethings:eclipsealloy_sword[justdirethings:forge_energy=500000]",
+ "name": "蝕空合金劍",
+ "pages": [
+  {
+   "text": "蝕空合金劍是 Just Dire Things 中戰鬥科技的頂峰，能量儲備量大，且支援最高階的升級。$(br2)此劍由蝕空合金鑄造而成；作為終階工具，它的傷害和耐久度都超乎尋常，最適合搭配最致命的進攻能力。",
+   "type": "patchouli:text"
+  },
+  {
+   "recipe": "justdirethings:eclipsealloy_sword",
+   "text": "蝕空合金劍的配方",
+   "type": "patchouli:crafting"
+  }
+ ],
+ "sortnum": 20
+}

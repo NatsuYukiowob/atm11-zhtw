@@ -1,0 +1,26 @@
+{
+ "category": "laserio:items",
+ "icon": "laserio:laser_wrench",
+ "name": "雷射扳手",
+ "pages": [
+  {
+   "text": "雷射扳手主要用於連線多個方塊。$(br2)透過 Shift 右鍵選擇方塊，再右鍵另一個方塊來形成連線，這樣就能連線$(l:laserio:laser_node)節點$(/l)和$(l:laserio:laser_connector)聯結器$(/l)。$(br2)最大連線範圍是 8 個方塊。",
+   "type": "patchouli:text"
+  },
+  {
+   "border": true,
+   "images": [
+    "laserio:textures/book/entries/laser_wrench.png"
+   ],
+   "text": "已選擇的方塊會被綠色標記。",
+   "title": "雷射扳手",
+   "type": "patchouli:image"
+  },
+  {
+   "recipe": "laserio:laser_wrench",
+   "title": "雷射扳手",
+   "type": "patchouli:crafting"
+  }
+ ],
+ "sortnum": 1
+}

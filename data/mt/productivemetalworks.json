@@ -26,6 +26,7 @@
  "book.productivemetalworks.heat_page.reading": "運作中的線圈會發光。這個光芒是分辨正在運作的熔爐與只是組裝完成的熔爐最快的方法。$(br2)線圈要放在地板上，所以較寬的熔爐能容納更多線圈。",
  "book.productivemetalworks.heat_page.temperature": "熔爐沒有可以設定的溫度，它只有一個能達到的溫度，由你餵給線圈的東西決定；而每個配方都需要一個溫度。$(br2)當某個配方一直不運作時，通常是因為燃料無法加熱到足夠的溫度。",
  "book.productivemetalworks.heat_page.title": "熱能與燃料",
+ "book.productivemetalworks.intro_page.building": "搭建熔鑄爐需要的方塊有：$(br)* 熔鑄爐控制器$(br)* 熔鑄爐儲罐$(br)* 液體加熱線圈$(br)* 耐火磚塊或熔鑄爐視窗$(br)* 熔鑄爐排液孔和澆注口$(br)* 鑄造盆和鑄件台$(br2)熔鑄爐最小可以是1x1，形狀可以是任何矩形。右側是一個3x3正方形熔鑄爐的範例。",
  "book.productivemetalworks.melting_page.entities": "生物也會熔化。在運作中的熔爐內死亡的生物會留下流體，種類取決於它本身是什麼，這也是液態肉與一些較意外流體的來源。$(br2)這是一份固定清單，而不是一般規則；大部分生物熔化後什麼都不會留下。",
  "book.productivemetalworks.melting_page.intro": "把物品丟進高溫的熔爐中，如果存在對應配方且熔爐夠熱，它就會變成流體。$(br2)原礦是最重要的情況，也是熔爐相較於一般熔爐最主要的經濟優勢。",
  "book.productivemetalworks.melting_page.rates": "一個錠等於 90mb 的熔融金屬。對照如下：$(br)* 顆粒 - 10mb$(br)* 錠 - 90mb$(br)* 原礦 - 180mb，即 2 個錠$(br)* 礦塊 - 270mb，即 3 個錠$(br)* 原礦塊 - 1620mb$(br2)每個熔化配方請檢視 JEI。",

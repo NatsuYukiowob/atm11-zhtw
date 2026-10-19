@@ -1,0 +1,16 @@
+{
+ "category": "buildinggadgets2:gadgets",
+ "icon": "buildinggadgets2:template",
+ "name": "基礎知識",
+ "pages": [
+  {
+   "text": "本模組中所有工具的大部分功能都需要Forge能量（FE）。$(br2)許多模組都支援以Forge能量為物品充能，但如果你一個都沒有，還有 Charging Gadgets 可以用！去你附近的模組庫就能找到！",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "        按住設定選單鍵可以開啟工具的設定選單 (預設為G鍵)。$(br2)        每種工具都有不同的設定選單，所以請您仔細閱讀$(l:buildinggadgets2:mechanics)附加功能$(/l)條目來了解詳情！",
+   "type": "patchouli:text"
+  }
+ ],
+ "sortnum": 0
+}

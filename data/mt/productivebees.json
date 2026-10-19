@@ -21,6 +21,8 @@
  "entity.productivebees.thermal_bee": "熱能蜜蜂",
  "entity.productivebees.vivid_alloy_bee": "鮮明合金蜜蜂",
  "item.productivebees.spawn_egg_configurable_bee": "Productive Bees 生怪蛋",
+ "productivebees.information.upgrade.upgrade_child.advanced_beehive": "安裝在蜂箱中後，每次產出蜂蜜時，都有機率從蜂箱中生成一隻新的幼年蜜蜂。  \n   蜜蜂的類型取決於蜂箱中有哪些蜜蜂。  \n   此升級對無法自體繁殖或需要特殊繁殖物品的蜜蜂無效。  \n   可安裝多個升級卡以提高機率。",
+ "productivebees.ingredient.description.forgotten_bee": "這隻蜜蜂似乎已被時間遺忘。不過有傳聞指出，在深暗之園的地下墓穴中偶爾能找到牠的蛋。",
  "productivebees.ingredient.description.spatial_bee": "此蜜蜂的蜂窩可離心分離出需要進一步加工的 Certus 石英種子。",
  "productivebees.top.jar.bee": "%s"
 }

@@ -1,0 +1,21 @@
+{
+ "category": "laserio:cards",
+ "icon": "laserio:card_fluid",
+ "name": "流體卡",
+ "pages": [
+  {
+   "text": "流體卡用於在容器之間傳輸流體，比如儲罐。$(br2)超頻後的資料詳見後頁。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "超頻後的最大傳輸速度：$(br2)$(li)沒有超頻元件：5,000mb/20t$(li)1 個超頻元件：10,000mb/15t$(li)2 個超頻元件：20,000mb/10t$(li)3 個超頻元件：30,000mb/5t$(li)4 個超頻元件：40,000mb/1t",
+   "type": "patchouli:text"
+  },
+  {
+   "recipe": "laserio:card_fluid",
+   "title": "流體卡",
+   "type": "patchouli:crafting"
+  }
+ ],
+ "sortnum": 2
+}

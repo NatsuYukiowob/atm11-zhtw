@@ -35,6 +35,7 @@
  "ftbultimine.server_settings.costs_limits.experience_per_block": "每挖掘一個方塊的經驗值消耗",
  "ftbultimine.server_settings.costs_limits.experience_per_block.tooltip": "可以是小數\n若安裝了 FTB Ranks，則以 'ftbultimine.experience_per_block' 節點為優先（若存在）",
  "ftbultimine.server_settings.costs_limits.max_blocks.tooltip": "單次操作可挖掘或修改的最大方塊數\n若安裝了 FTB Ranks，則以 'ftbultimine.max_blocks' 節點為優先（若存在）",
+ "ftbultimine.server_settings.costs_limits.require_tool.tooltip": "若為 true，玩家必須裝備可損耗的工具，或 'ftbultimine:tools' 物品標籤中的物品\n另請參閱 'Require Valid Tool to Ultimine'",
  "ftbultimine.server_settings.costs_limits.require_valid_tool_for_block": "使用 Ultimine 需要有效工具",
  "ftbultimine.server_settings.costs_limits.require_valid_tool_for_block.tooltip": "若為true，所持工具必須能夠採集正在被 Ultimine 的方塊，\n即必須能夠採掘並掉落物品\n另見「使用 Ultimine 需要工具」",
  "ftbultimine.server_settings.costs_limits.ultimine_cooldown": "Ultimine 冷卻時間（刻）",

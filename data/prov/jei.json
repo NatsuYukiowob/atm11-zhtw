@@ -110,6 +110,7 @@
  "jei.config.client.lookups.enabled.description": "haiku",
  "jei.config.client.lookups.enabled.value.false.description": "haiku",
  "jei.config.client.lookups.enabled.value.true.description": "haiku",
+ "jei.config.client.lookups.lookupBlockTagsEnabled.description": "opus",
  "jei.config.client.lookups.lookupBlockTagsEnabled.value.false.description": "haiku",
  "jei.config.client.lookups.lookupBlockTagsEnabled.value.true.description": "haiku",
  "jei.config.client.lookups.lookupFluidContentsEnabled.value.false.description": "haiku",

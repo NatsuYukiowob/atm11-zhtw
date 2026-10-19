@@ -1,0 +1,26 @@
+{
+ "category": "buildinggadgets2:gadgets",
+ "icon": "buildinggadgets2:gadget_destruction[buildinggadgets2:forge_energy=2000000]",
+ "name": "破壞工具",
+ "pages": [
+  {
+   "text": "破壞工具能讓清空大片區域變得非常容易。任何被清空的方塊都會直接$(bold)消失！$(clear)$(br2)首先，開啟設定選單並調整範圍，該範圍是相對於你正在看的方塊（和方塊面）而言的。$(br2)如果你看的是方塊的頂面，「上」將相對於玩家的畫面。",
+   "type": "patchouli:text"
+  },
+  {
+   "border": true,
+   "images": [
+    "buildinggadgets2:textures/book/images/destruction1.png",
+    "buildinggadgets2:textures/book/images/destruction2.png"
+   ],
+   "text": "正在調整清空範圍。點選圖片右下角的箭頭來切換不同的圖片。",
+   "title": "調整範圍",
+   "type": "patchouli:image"
+  },
+  {
+   "text": "        準備就緒後只需要單擊右鍵即可執行清空操作，範圍內的方塊將被刪除。$(br2)        如果出現如何錯誤，同樣可以使用撤銷功能。破壞工具的撤銷功能不會使用物品欄內的方塊，其只是讓被刪除的方塊恢復原位而已。",
+   "type": "patchouli:text"
+  }
+ ],
+ "sortnum": 5
+}

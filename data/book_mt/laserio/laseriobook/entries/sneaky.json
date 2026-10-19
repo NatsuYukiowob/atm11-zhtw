@@ -1,0 +1,16 @@
+{
+ "category": "laserio:mechanics",
+ "icon": "laserio:textures/gui/buttons/sneaky-up.png",
+ "name": "潛行",
+ "pages": [
+  {
+   "text": "「潛行」設定決定卡將作用在相鄰容器的哪一面。$(br2)例如，熔爐在頂面接受物品。如果節點在熔爐的側面，將輸入卡的「潛行」設定為「上」。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "這張卡會試圖從熔爐的頂面輸入物品。$(br2)另外一張設定為「潛行」「下」的卡會從下方輸入燃料。",
+   "type": "patchouli:text"
+  }
+ ],
+ "sortnum": 2
+}

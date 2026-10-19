@@ -396,6 +396,7 @@
  "soil_type.energizedpower.moss": "苔蘚",
  "soil_type.energizedpower.nylium": "菌岩",
  "tooltip.energizedpower.count_with_item.txt": "%dx %s",
+ "tooltip.energizedpower.crystallized_lapis_lazuli.txt.shift.1": "在製作此物品之前，你應該在水晶生長室中安裝兩組 VI 級升級。",
  "tooltip.energizedpower.energized_alloy_ingot.txt.shift.1": "要為此物品充能，必須在充能器中安裝能量容量升級（階級 IV 或更高）。",
  "tooltip.energizedpower.energy_meter.content.txt": "%s / %s",
  "tooltip.energizedpower.fluid_meter.content_amount.txt": "%s / %s",

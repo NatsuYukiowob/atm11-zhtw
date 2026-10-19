@@ -1,0 +1,17 @@
+{
+ "category": "apotheosis:enchanting/enchantments",
+ "flag": "apotheosis:enchanting",
+ "icon": "minecraft:enchanted_book",
+ "name": "清道夫",
+ "pages": [
+  {
+   "text": "$(2)清道夫$()是劍的極品魔咒。$(p)當你殺死一個生物時，它每級有2.5%的機率再次計算戰利品掉落。$(p)當成功觸發時，就和你剛殺死兩個相同的實體效果一樣。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "這個魔咒對所有實體都有效，包括像$(8)凋零怪$()這樣的Boss。$(p)它還能與$(9)掠奪$()疊加。",
+   "type": "patchouli:text"
+  }
+ ],
+ "sortnum": 1
+}

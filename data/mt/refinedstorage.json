@@ -1,4 +1,5 @@
 {
+ "advancements.refinedstorage.interfacing_with_disks.description": "合成一個磁碟介面，以便在儲存網路和儲存磁碟之間傳輸資源",
  "gui.refinedstorage.autocrafting_monitor.state.extracting_initial_resources": "正在提取初始資源",
  "gui.refinedstorage.autocrafting_monitor.state.returning_internal_storage": "正在歸還內部儲存",
  "gui.refinedstorage.autocrafting_preview.request_cancelled.too_many_subcomponents": "所需的子元件過多。",
@@ -7,10 +8,14 @@
  "gui.refinedstorage.grid.pin_help": "拖曳以釘選。拖曳至釘選區域外即可取消釘選。",
  "gui.refinedstorage.grid.resource_type.fluid": "流體",
  "gui.refinedstorage.grid.resource_type.item": "物品",
+ "gui.refinedstorage.priority.storage_help": "儲存網路輸入或輸出資源的順序，優先順序大者優先。",
  "gui.refinedstorage.priority.storage_help.alt_click_to_modify_extract_priority": "按住 ALT 並點選以修改提取優先順序。",
  "gui.refinedstorage.priority.storage_help.click_to_modify_insert_extract_priority": "點選以修改注入／提取優先順序。",
  "gui.refinedstorage.priority.storage_help.cmd_click_to_modify_insert_priority": "按住 CMD 並點選以修改注入優先順序。",
  "gui.refinedstorage.priority.storage_help.ctrl_click_to_modify_insert_priority": "按住 CTRL 並點選以修改注入優先順序。",
+ "gui.refinedstorage.relay.filter_mode.block.help": "不要將在篩選器中配置的資源從輸入網路公開到輸出網路。",
+ "item.refinedstorage.interface.help": "透過中間槽位結合輸入與輸出功能；外部容器必須自行存入和取出。",
  "item.refinedstorage.regulator_upgrade.cleared_configuration": "已清除設定。",
+ "item.refinedstorage.wrench.help": "用於旋轉方塊，或按下SHIFT鍵時用於拆除精緻儲存的方塊",
  "misc.refinedstorage.no_permission.open": "你沒有許可權開啟 %s。"
 }

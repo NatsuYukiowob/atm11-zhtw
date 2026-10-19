@@ -1,0 +1,24 @@
+{
+ "category": "justdirethings:tools",
+ "icon": "justdirethings:ferricore_pickaxe",
+ "name": "工具基礎概念",
+ "pages": [
+  {
+   "text": "各品質的材料均可用於製造同種工具。這些工具均有一系列的適配$(l:justdirethings:upgrades)升級$(/l)。$(br2)可在按住 Shift 時在其提示文字中找到可用升級的清單。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "合成對應升級物品，再在鍛造台中放入工具和升級，即可加裝升級。$(br2)可用升級鍛造模板提升工具的品質，如此會保留先前的升級。$(br2)按下對應鍵位（預設為 V）可以啟用或停用工具。被停用工具的$(l)所有$()能力均視作停用。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "手持工具時 Shift 點選即可配置，也可按下對應鍵位開啟配置介面。點選介面中對應升級的圖示可以啟用或停用它們。$(br2)右擊各能力可以修改能力的設定（若有）和鍵位。被動能力的鍵位會切換能力啟用與否，觸發能力的鍵位會啟用該能力。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "「生物掃描」等觸發能力可設定為右擊、左擊或鍵位啟用。此系統的詳細資訊參見$(l:justdirethings:upgrade_basics)升級基礎概念$(/l)。$(br2)工具可在鍛造台中升級，配方參見 JEI；如此操作會保留其上升級。",
+   "type": "patchouli:text"
+  }
+ ],
+ "sortnum": 0
+}

@@ -3,6 +3,7 @@
  "transmog.config.disable_during_pvp_duration": "haiku",
  "transmog.config.disable_during_pvp_duration.label": "haiku",
  "transmog.config.disable_during_pvp_duration.tooltip": "haiku",
+ "transmog.config.render.in_world.tooltip": "opus",
  "transmog.config.tooltip": "haiku",
  "transmog.config.tooltip.full": "haiku",
  "transmog.config.tooltip.full.tooltip": "haiku",

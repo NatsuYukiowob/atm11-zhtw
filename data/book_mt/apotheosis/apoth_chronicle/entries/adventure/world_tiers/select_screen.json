@@ -1,0 +1,27 @@
+{
+ "category": "apotheosis:adventure/world_tiers",
+ "icon": "apotheosis:textures/gui/book/haven_icon.png",
+ "name": "層級選擇",
+ "pages": [
+  {
+   "text": "$(9)世界層級選擇介面$()是你了解和管理$(6)世界層級$()的綜合頁面。$(p)可以使用「開啟世界層級選擇介面」繫結按鍵開啟，預設是CTRL+T。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "層級不會自動啟用。當你解鎖一個新層級時，首先需要點選「啟用」按鈕來啟用它。$(p)你可以點選畫面中的層級圖示來選擇一個層級，然後使用啟用按鈕來啟用它。",
+   "title": "啟用層級",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "要檢視層級資訊，先選中該層級，然後按下「詳細資訊」按鈕。$(p)這將顯示該層級的稀有度和純度權重，以及任何會生效的層級增強效果。",
+   "title": "層級資訊",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "你可以隨時切換層級。$(p)在多人遊戲中，多個玩家可能擁有不同的層級，但不會相互影響。大多數內容都會以最接近的玩家的層級為準。",
+   "title": "注意事項",
+   "type": "patchouli:text"
+  }
+ ],
+ "sortnum": 2
+}

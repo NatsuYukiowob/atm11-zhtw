@@ -14,6 +14,8 @@
  "gui.waystones.waystone_selection.epitaph_requirement": "haiku",
  "gui.waystones.waystone_selection.twinbound_feather": "haiku",
  "gui.waystones.waystone_selection.twinbound_feather_requirement": "haiku",
+ "waystones.configuration.rules.defaultVisibility.tooltip": "opus",
  "waystones.configuration.rules.warpSettings": "haiku",
- "waystones.configuration.rules.warpSettings.tooltip": "haiku"
+ "waystones.configuration.rules.warpSettings.tooltip": "haiku",
+ "waystones.configuration.worldGen.wildWaystonesDimensionAllowList.tooltip": "opus"
 }

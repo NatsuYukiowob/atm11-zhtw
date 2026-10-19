@@ -3,6 +3,7 @@
  "gui.advanced_ae.SlowThroughputMonitorValue": "haiku",
  "gui.advanced_ae.SlowerThroughputMonitorValue": "haiku",
  "gui.advanced_ae.ThroughputMonitorValue": "haiku",
+ "gui.tooltips.advanced_ae.RechargingTooltip": "opus",
  "gui.tooltips.advanced_ae.TankAmount": "haiku",
  "item.advanced_ae.quantum_crafter_terminal_part": "haiku",
  "key.category.advanced_ae.category": "haiku"

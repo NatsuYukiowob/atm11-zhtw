@@ -1,0 +1,17 @@
+{
+ "category": "apotheosis:enchanting/enchantments",
+ "flag": "apotheosis:enchanting",
+ "icon": "minecraft:enchanted_book",
+ "name": "狂戰士之怒",
+ "pages": [
+  {
+   "text": "$(4)狂戰士之怒$()是一個可以應用於胸甲的腐化魔咒。$(p)在使用這個魔咒時，如果你受到傷害，你會受到額外的傷害並獲得抗性、加速和力量。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "所受到的傷害和藥水的強度基於魔咒等級。",
+   "type": "patchouli:text"
+  }
+ ],
+ "sortnum": 1
+}

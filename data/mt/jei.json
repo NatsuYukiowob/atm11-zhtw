@@ -110,6 +110,7 @@
  "jei.config.client.lookups.enabled.description": "顯示最近用於配方與用途查詢的材料清單。",
  "jei.config.client.lookups.enabled.value.false.description": "隱藏最近的配方與用途查詢。",
  "jei.config.client.lookups.enabled.value.true.description": "顯示最近的配方與用途查詢。",
+ "jei.config.client.lookups.lookupBlockTagsEnabled.description": "查詢方塊物品的配方時，同時包含使用相符方塊標籤的配方。",
  "jei.config.client.lookups.lookupBlockTagsEnabled.value.false.description": "查詢方塊物品時，只使用物品標籤。",
  "jei.config.client.lookups.lookupBlockTagsEnabled.value.true.description": "包含使用相符方塊標籤的配方。",
  "jei.config.client.lookups.lookupFluidContentsEnabled.value.false.description": "只查詢物品本身的配方。",

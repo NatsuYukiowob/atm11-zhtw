@@ -41,5 +41,6 @@
  "gui.sophisticatedstorage.status.packing_tape_linked_storage": "連結的儲存空間無法打包",
  "gui.sophisticatedstorage.status.tier_upgrade_main_linked_storage_only": "只有主要連結儲存空間可以升級階級",
  "gui.sophisticatedstorage.upgrades.buttons.io_mode_side_info": "%s (%s)",
+ "item.sophisticatedstorage.advanced_hopper_upgrade.tooltip": "在容器和相鄰方塊間移動物品\n速度更快，可從任意面設定輸入/輸出",
  "item.sophisticatedstorage.paintbrush.tooltip.material": " - %s: %s"
 }

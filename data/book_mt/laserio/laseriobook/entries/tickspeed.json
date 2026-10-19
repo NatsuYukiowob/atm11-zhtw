@@ -1,0 +1,20 @@
+{
+ "category": "laserio:mechanics",
+ "icon": "minecraft:textures/item/clock_00.png",
+ "name": "傳輸速度",
+ "pages": [
+  {
+   "text": "傳輸速度只在抽取和儲存可用。$(br2)此設定決定卡的運作速度。預設值 20 意味著一張抽取卡每 20 刻才提取一次物品，也就是每秒一次。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "抽取模式和儲存卡中，該值預設為 20，最大為 1200，除非安裝了$(l:laserio:overclocker_card)卡超頻元件$(/l)。下面是傳輸速度與超頻元件數量的關係：$(br)1. 15$(br)2. 10$(br)3. 5$(br)4. 1$(br2)如果你想每一刻都提取物品，你需要 4 個超頻元件。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "左鍵點選使此值加 1，右鍵減 1。按住 Shift 使改變數乘 10，按住 Ctrl 使改變數乘 64。$(br2)同時按住 Shift 和 Ctrl 使改變數乘 640。$(br2)例如，Shift 右鍵點選將使此值減少 10。",
+   "type": "patchouli:text"
+  }
+ ],
+ "sortnum": 8
+}

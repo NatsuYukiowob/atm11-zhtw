@@ -1,0 +1,6 @@
+{
+ "description": "下面的內容將詳細說明卡的基本運作機制，如果某個機制專屬於某種卡，會在每個條目的第一頁標明。",
+ "icon": "laserio:logic_chip",
+ "name": "卡的機制",
+ "sortnum": 2
+}

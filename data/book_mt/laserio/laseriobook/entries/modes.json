@@ -1,0 +1,27 @@
+{
+ "category": "laserio:mechanics",
+ "icon": "laserio:textures/gui/buttons/modestocker.png",
+ "name": "模式",
+ "pages": [
+  {
+   "text": "模式決定卡的行為。下面的內容詳細資訊目前可用的模式。$(br2)每種卡（物品/流體/能量）都支援以下 3 種模式，以物品卡為例。$(br2)紅石卡支援的是一套不同的模式。",
+   "type": "patchouli:text"
+  },
+  {
+   "item": "laserio:card_item[laserio:card_transfer_mode=0b]",
+   "text": "輸入模式卡是抽取模式卡的有效目標。$(br2)儲存卡會試圖從輸入模式卡拉取。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "item": "laserio:card_item[laserio:card_transfer_mode=1b]",
+   "text": "抽取模式卡試圖從相鄰的方塊提取物件。以物品為例，物品會從儲物箱被抽取併傳送到一個輸入卡。",
+   "type": "patchouli:spotlight"
+  },
+  {
+   "item": "laserio:card_item[laserio:card_transfer_mode=2b]",
+   "text": "儲存卡試圖尋找它們過濾器中設定的物品，並從網路中其他輸入模式節點拉取物品。$(br2)儲存卡需要過濾器才能起效。",
+   "type": "patchouli:spotlight"
+  }
+ ],
+ "sortnum": 1
+}

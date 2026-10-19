@@ -41,5 +41,6 @@
  "gui.sophisticatedstorage.status.packing_tape_linked_storage": "haiku",
  "gui.sophisticatedstorage.status.tier_upgrade_main_linked_storage_only": "haiku",
  "gui.sophisticatedstorage.upgrades.buttons.io_mode_side_info": "haiku",
+ "item.sophisticatedstorage.advanced_hopper_upgrade.tooltip": "opus",
  "item.sophisticatedstorage.paintbrush.tooltip.material": "haiku"
 }

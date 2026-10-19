@@ -1,0 +1,29 @@
+{
+ "category": "buildinggadgets2:gadgets",
+ "icon": "buildinggadgets2:gadget_building[buildinggadgets2:forge_energy=500000]",
+ "name": "建造工具",
+ "pages": [
+  {
+   "text": "        建造工具能使一次性放置大量方塊變得更加輕鬆。$(br2)        確保工具有一定的能量。按住Shift並右鍵單擊一個方塊，選中的方塊將用來放置。",
+   "type": "patchouli:text"
+  },
+  {
+   "text": "        按住設定選單鍵來選取$(l:buildinggadgets2:modes)建造模式$(/l)。說明書的相應條目對每種模式都有著詳細資訊。預設建造模式為$(l:buildinggadgets2:mode_build_to_me)建造至玩家位置$(/l)。$(br2)        選中方塊並準備放置時，您會看到半透明的放置預覽提示放置位置。如果缺少放置所需方塊或工具能量不足，預覽會變為紅色。準備就緒後，單擊右鍵放置方塊。",
+   "type": "patchouli:text"
+  },
+  {
+   "border": true,
+   "images": [
+    "buildinggadgets2:textures/book/images/ghost_render.png"
+   ],
+   "text": "預覽方塊的放置位置。",
+   "title": "放置預覽",
+   "type": "patchouli:image"
+  },
+  {
+   "text": "        當您單擊右鍵時，建造開始。所需的方塊將從物品欄取出並放置，缺少的方塊會被略過。$(br2)        不要忘記撤銷功能，出現任何錯誤時都可以使用$(l:buildinggadgets2:undo)撤銷$(/l)！",
+   "type": "patchouli:text"
+  }
+ ],
+ "sortnum": 1
+}

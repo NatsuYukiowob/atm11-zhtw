@@ -68,3 +68,29 @@ def test_manual_glossary_regressions(monkeypatch):
     assert common.to_tw("该调节器已被禁用") == "該調節器已被停用"
     assert common.to_tw("以幸運作為獎勵") == "以幸運作為獎勵"
     assert common.to_tw("這隻適合高階使用者") == "這只適合高階使用者"
+
+
+def test_manual_blocks_mined_rules_that_hit_prose(monkeypatch):
+    # 從 vanilla 挖出的效果／附魔名規則套到一般句子會誤傷（第二輪審查 2026-10-19）
+    mined = {"力量": "強力", "使用預設": "使用此方案", "向上": "上", "紅石控制": "需要紅石",
+             "中毒": "劇毒", "緩慢": "緩速", "粒子效果": "粒子密度", "苔石": "青苔鵝卵石",
+             "迅捷": "加速", "時運": "幸運"}
+    g = common.load_json(common.REPO / "data/glossary_manual.json")
+    for k, v in g.items():
+        if k.startswith("_"):
+            continue
+        if v is None:
+            mined.pop(k, None)
+        else:
+            mined[k] = v
+    rules = sorted(((k, v) for k, v in mined.items() if (k != v and k not in v) or g.get(k) == v),
+                   key=lambda kv: (-len(kv[0]), kv[0] == kv[1]))
+    monkeypatch.setattr(common, "_glossary_rules", rules)
+    assert common.to_tw("获得力量，使用默认材质，在方向上") == "獲得力量，使用預設材質，在方向上"
+    assert common.to_tw("可被红石控制，使目标中毒，缓慢地产出粒子效果") == "可被紅石控制，使目標中毒，緩慢地產出粒子效果"
+    assert common.to_tw("苔石砖，迅捷药水，红石信号时运转") == "青苔石磚，迅捷藥水，紅石訊號時運轉"
+    assert common.to_tw("擷取畫面畫面場景，任意面，所有组合") == "擷取畫面場景，任意面，所有組合"
+    # 機翻層已寫死的值靠反向規則救回
+    assert common.to_tw("使用此方案的配方，加速藥水") == "使用預設的配方，迅捷藥水"
+    assert common.to_tw("免疫缓慢效果，缓慢抗性，中毒效果") == "免疫緩速效果，緩速抗性，劇毒效果"
+    assert common.to_tw("实例目录，森林群系，激光钻") == "實例目錄，森林生態域，雷射鑽"

@@ -3,5 +3,7 @@
  "item.iceandfire.air_pods": "Apple AirPods",
  "item.iceandfire.weezer_blue_album": "Weezer",
  "item.iceandfire.weezer_blue_album.desc_0": "Weezer",
- "material.weezer": "Weezer"
+ "material.weezer": "Weezer",
+ "modifier.flame.desc": "燃燒吧，寶貝兒！§r\\n灼燒敵人10秒，並附加龍炎傷害。",
+ "modifier.frost.desc": "凍結吧，甜心兒！§r\\n將敵人凍結在冰塊中10秒，並附加龍霜傷害。"
 }

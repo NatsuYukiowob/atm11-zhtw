@@ -1,0 +1,13 @@
+{
+ "category": "apotheosis:enchanting/enchantments",
+ "flag": "apotheosis:enchanting",
+ "icon": "minecraft:enchanted_book",
+ "name": "叉魚",
+ "pages": [
+  {
+   "text": "$(9)叉魚$()是一種三叉戟附魔。$(p)用投擲的三叉戟擊殺生物時，每級有3.5%的機率掉落一些隨機的魚。",
+   "type": "patchouli:text"
+  }
+ ],
+ "sortnum": 1
+}
