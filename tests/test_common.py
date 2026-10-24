@@ -94,3 +94,53 @@ def test_manual_blocks_mined_rules_that_hit_prose(monkeypatch):
     assert common.to_tw("使用此方案的配方，加速藥水") == "使用預設的配方，迅捷藥水"
     assert common.to_tw("免疫缓慢效果，缓慢抗性，中毒效果") == "免疫緩速效果，緩速抗性，劇毒效果"
     assert common.to_tw("实例目录，森林群系，激光钻") == "實例目錄，森林生態域，雷射鑽"
+
+
+def test_has_simplified():
+    assert common.has_simplified("流体管道") and common.has_simplified("仅在") and common.has_simplified("完成之后")
+    assert not common.has_simplified("台灣岩石占卜游標伙伴神秘漏斗床頭櫃山峰社群發霉的麵包")
+
+
+def test_tw_fix_glossary_without_opencc(monkeypatch):
+    # LLM 寫的繁體：只套術語表，不跑 OpenCC（點擊→點選、背包→揹包 是 s2twp 改壞的）
+    monkeypatch.setattr(common, "_glossary_rules", [("圓石", "鵝卵石")])
+    assert common.tw_fix("右鍵點擊背包裡的圓石") == "右鍵點擊背包裡的鵝卵石"
+    assert common.tw_fix("用圆石") == "用鵝卵石"
+
+
+def test_tw_fix_only_touches_simplified_chars():
+    assert common.tw_fix("右鍵點擊查看資訊，流体") == "右鍵點擊查看資訊，流體"
+    assert common.tw_fix("完成之后打開介面") == "完成之後打開介面"
+    assert common.tw_fix("视频") == "影片"
+
+
+def test_tw_fix_normalizes_tw_variants():
+    # 繁體異體字（OpenCC 舊字形）has_simplified 抓不到，用 t2tw 轉台灣正字；詞彙不動
+    assert common.tw_fix("我爲此描述着裏面的點擊") == "我為此描述著裡面的點擊"
+
+
+def test_has_simplified_ambiguous_chars_and_queen():
+    # STCharacters 一對多（种→種 种）的字：台灣幾乎不用的算簡體；岩台游里干栗伙 是台灣正常用字
+    assert all(common.has_simplified(s) for s in ("种子", "范围", "你确定", "之后", "后面有"))
+    assert not any(common.has_simplified(s) for s in ("皇后面前", "蜂后來了", "岩石台階游泳公里干擾栗木伙伴"))
+
+
+def test_tw_fix_keeps_taiwan_wording_next_to_simplified(monkeypatch):
+    # 夾簡體時只轉簡體所在的詞；緊鄰的台灣用語不可被 OpenCC 一起帶走（查看→檢視、點擊→點選）
+    monkeypatch.setattr(common, "_glossary_rules", [("圓石", "鵝卵石")])
+    assert common.tw_fix("右鍵點擊背包裡的圆石") == "右鍵點擊背包裡的鵝卵石"
+    assert common.tw_fix("右鍵點擊背包，内存不足") == "右鍵點擊背包，記憶體不足"
+    assert common.tw_fix("查看内存") == "查看記憶體"
+    assert common.tw_fix("點擊内存") == "點擊記憶體"
+
+
+def test_tw_fix_fully_simplified_equals_to_tw(monkeypatch):
+    # 整句簡體：結果應與 to_tw 相同，不可錯位攪亂（召成、游遊、允允）
+    monkeypatch.setattr(common, "_glossary_rules", [("傀儡", "魔像")])
+    for s in ("用召唤一只铁傀儡来帮忙守卫村庄做", "用多人游戏中不允许使用当前名称做"):
+        assert common.tw_fix(s) == common.to_tw(s)
+
+
+def test_mainland_re_emperor_and_mixed_ganjing():
+    assert not common.has_simplified("帝后面前")
+    assert common.has_simplified("干淨") and common.tw_fix("干淨") == "乾淨"

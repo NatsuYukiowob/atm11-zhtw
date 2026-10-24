@@ -3,6 +3,8 @@
  "block.refinedtypes.creative_soul_storage_block": "創造靈魂儲存方塊",
  "block.refinedtypes.creative_source_storage_block": "創造源質儲存方塊",
  "block.refinedtypes.network_energizer": "網路充能器",
+ "config.refinedtypes.option.sourceStorageBlock.256BSourceUsage.tooltip": "256B魔源儲存方塊的魔源消耗。",
+ "config.refinedtypes.option.sourceStorageBlock.64BSourceUsage.tooltip": "64B魔源儲存方塊的魔源消耗。",
  "gui.refinedtypes.network_energizer.redstone_mode_help": "當此裝置處於非啟用狀態時，儲存網路不會消耗能量磁碟中的能量來維持運作。",
  "item.refinedtypes.creative_energy_storage_block.help": "已儲存無限量的 FE。",
  "item.refinedtypes.creative_energy_storage_disk": "創造能量儲存磁碟",

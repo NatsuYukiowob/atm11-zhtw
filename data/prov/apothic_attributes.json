@@ -6,5 +6,6 @@
  "attribute.name.fall_damage_multiplier.desc": "haiku",
  "attribute.name.jump_strength.desc": "haiku",
  "attribute.name.max_absorption.desc": "haiku",
- "comment_id": "haiku"
+ "comment_id": "haiku",
+ "item.minecraft.lingering_potion.effect.minecraft.haste": "audit"
 }

@@ -1,9 +1,21 @@
 {
+ "command.solcarrot.foodlist.size.desc.foods_eaten.plural": "您已經品嚐了%s種獨特的食物！",
+ "command.solcarrot.foodlist.size.desc.foods_eaten.singular": "您已經品嚐了1種獨特的食物！",
+ "command.solcarrot.foodlist.size.desc.milestone.more": "您還需要%s種食物來增加最高生命值。",
+ "config.solcarrot.should_show_progress_above_hotbar": "在快捷欄上方顯示進度",
+ "gui.solcarrot.food_book.config": "設定",
+ "gui.solcarrot.food_book.config.tooltip.whitelist": "白名單允許的食物數量。",
  "gui.solcarrot.food_book.fraction": "%1$s/%2$s",
+ "gui.solcarrot.food_book.stats.tooltip.progress.max": "已達到最高里程碑！",
  "message.solcarrot.chat_wrapper": "[SoL: Carrot] %s",
+ "message.solcarrot.milestone_achieved": "多麼獨特的味道！您已經獲得了%s！",
  "solcarrot.configuration.filtering": "篩選",
  "solcarrot.configuration.milestone_celebration": "里程碑慶祝",
  "solcarrot.configuration.milestones": "里程碑",
  "solcarrot.configuration.miscellaneous": "其他",
- "solcarrot.networking.food_list_message.failed": "同步食物清單失敗！%s"
+ "solcarrot.networking.food_list_message.failed": "同步食物清單失敗！%s",
+ "tooltip.solcarrot.cheap.eaten": "已食用：沒有明顯效果",
+ "tooltip.solcarrot.disabled.eaten": "已食用：沒有明顯效果",
+ "tooltip.solcarrot.hearty.eaten": "已食用：用於增加生命值",
+ "tooltip.solcarrot.hearty.not_eaten": "還沒嘗過呢！嚐起來怎麼樣？"
 }

@@ -121,3 +121,10 @@ def test_amp_codes_may_merge_but_not_add_or_vanish():
     assert check_text("&3Wrath of the &eDesert", "沙漠之怒", amp_codes=True) is not None
     # § 色碼維持嚴格守恆
     assert check_text("§3Wrath of the §eDesert", "§3沙漠之怒") is not None
+
+
+def test_check_text_accepts_taiwan_wording_rejects_simplified():
+    # 機翻層走 tw_fix：OpenCC 會改寫的台灣用語（點擊、背包）不算錯；只擋簡體字
+    from validate import check_text
+    assert check_text("Right-click the backpack", "右鍵點擊背包") is None
+    assert check_text("Fluid", "流体").startswith("含簡體字")

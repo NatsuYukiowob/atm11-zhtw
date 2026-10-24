@@ -1,4 +1,7 @@
 {
+ "drippyloadingscreen.early_loading.context.watermark.offset": "設定浮水印位置偏移",
+ "drippyloadingscreen.early_loading.context.watermark.set_image": "設定浮水印圖片",
+ "drippyloadingscreen.early_loading.context.watermark.size": "設定浮水印尺寸",
  "drippyloadingscreen.overlay.customization_hint": "點此自訂！",
  "drippyloadingscreen.settings.fade_out_loading_screen.desc": "載入畫面是否應該像原版那樣淡入淡出。\n請注意，只有在重新載入資源時才會有淡入效果。"
 }

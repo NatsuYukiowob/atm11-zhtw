@@ -1,6 +1,8 @@
 {
  "block.pylons.protection_pylon": "haiku",
+ "gui.pylons.fluxData": "audit",
  "gui.pylons.protectedMobsAndBlocks": "haiku",
+ "gui.pylons.toolMissing": "audit",
  "item.pylons.block_filter": "haiku",
  "pylons.int.jei.category.protection_pylon": "haiku",
  "tooltip.pylons.effect_banned": "haiku",

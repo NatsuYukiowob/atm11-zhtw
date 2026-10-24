@@ -28,7 +28,7 @@
  "log.error.saveMuffledList": "ESM：儲存消音音效清單時發生錯誤：\\n %s",
  "log.warn.loadMuffledList": "ESM：找不到消音清單，正在建立空白的消音清單",
  "main_screen.btn.all": "全部",
- "main_screen.btn.all.tooltip": "已列出所有專案音效清單",
+ "main_screen.btn.all.tooltip": "顯示所有音效清單",
  "main_screen.btn.anchor_delete.tooltip": "刪除錨點",
  "main_screen.btn.anchor_edit.tooltip": "編輯錨點",
  "main_screen.btn.anchor_list.tooltip": "顯示錨點清單",

@@ -1,0 +1,8 @@
+{
+ "commands.curios.add.success": "%d 個類型為 %s 的插槽已新增至 %s",
+ "commands.curios.drop.success": "已丟棄插槽 %s 中 %s 的物品",
+ "commands.curios.remove.success": "%d 個類型為 %s 的插槽已從 %s 中移除",
+ "commands.curios.replace.success": "已將插槽 %s（對象：%s）替換為 %s",
+ "commands.curios.set.success": "類型 %s 已設定為 %d 個插槽（對象：%s）",
+ "gui.curios.toggle": "切換可見性"
+}

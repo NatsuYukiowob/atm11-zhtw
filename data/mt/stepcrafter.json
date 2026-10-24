@@ -64,7 +64,7 @@
  "text.autoconfig.stepcrafter.option.stepCrafterManager.viewType": "檢視類型",
  "text.autoconfig.stepcrafter.option.stepCrafterManager.viewType.tooltip": "檢視類型。",
  "text.autoconfig.stepcrafter.option.stepCraftingMonitor.energyUsage": "能量消耗",
- "text.autoconfig.stepcrafter.option.stepCraftingMonitor.energyUsage.tooltip": "步進合成監控器所消耗的能量。",
+ "text.autoconfig.stepcrafter.option.stepCraftingMonitor.energyUsage.tooltip": "步進合成監視器所消耗的能量。",
  "text.autoconfig.stepcrafter.option.stepRequester.energyUsage": "能量消耗",
  "text.autoconfig.stepcrafter.option.stepRequester.energyUsage.tooltip": "步進請求器所消耗的能量。",
  "text.autoconfig.stepcrafter.option.stepRequesterManager.energyUsage": "能量消耗",

@@ -1,4 +1,5 @@
 {
  "geore.configuration.disableImmovability": "haiku",
- "geore.configuration.disableImmovability.tooltip": "haiku"
+ "geore.configuration.disableImmovability.tooltip": "haiku",
+ "item.geore.allthemodium_shard": "audit"
 }

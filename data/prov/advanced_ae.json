@@ -1,10 +1,18 @@
 {
+ "advanced_ae.configuration.quantum computer": "audit",
+ "block.advanced_ae.quantum_core": "audit",
  "gui.advanced_ae.OverdriveThroughputMonitorValue": "haiku",
+ "gui.advanced_ae.PatternInventory": "audit",
+ "gui.advanced_ae.QuantumArmorSetting": "audit",
  "gui.advanced_ae.SlowThroughputMonitorValue": "haiku",
  "gui.advanced_ae.SlowerThroughputMonitorValue": "haiku",
+ "gui.advanced_ae.StockExportBus": "audit",
  "gui.advanced_ae.ThroughputMonitorValue": "haiku",
+ "gui.tooltips.advanced_ae.JumpHeightTooltip": "audit",
  "gui.tooltips.advanced_ae.RechargingTooltip": "opus",
  "gui.tooltips.advanced_ae.TankAmount": "haiku",
  "item.advanced_ae.quantum_crafter_terminal_part": "haiku",
+ "item.advanced_ae.quantum_infused_dust": "audit",
+ "item.advanced_ae.quantum_leggings": "audit",
  "key.category.advanced_ae.category": "haiku"
 }

@@ -7,6 +7,8 @@
  "block.apothic_enchanting.basic_bookshelf": "haiku",
  "block.apothic_enchanting.raven_enchanting_table": "haiku",
  "block.apothic_enchanting.raven_enchanting_table.desc": "haiku",
+ "block.apothic_enchanting.soul_touched_deepshelf": "audit",
+ "block.apothic_enchanting.soul_touched_sculkshelf": "audit",
  "commands.apothic_enchanting.dump.failure": "haiku",
  "commands.apothic_enchanting.dump.success": "haiku",
  "enchantment.level.0": "haiku",

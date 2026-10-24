@@ -208,8 +208,8 @@
  "operator.operators.integrateddynamics.thaumcraft.aspect.getcompoundaspects.info": "此 Aspect 由哪些 Aspect 組成的清單。",
  "operator.operators.integrateddynamics.thaumcraft.aspect.isprimal": "是否為原生 Aspect",
  "operator.operators.integrateddynamics.thaumcraft.aspect.isprimal.info": "指定 Aspect 是否為原生 Aspect。",
- "operator.operators.integrateddynamics.thaumcraft.aspect.israwaspectequal": "原生 Aspect 相等",
- "operator.operators.integrateddynamics.thaumcraft.aspect.israwaspectequal.info": "指定的原生 Aspect 是否相等。",
+ "operator.operators.integrateddynamics.thaumcraft.aspect.israwaspectequal": "原始 Aspect 相等",
+ "operator.operators.integrateddynamics.thaumcraft.aspect.israwaspectequal.info": "指定的原始 Aspect 是否相等。",
  "valuetype.integrateddynamics.error.thaumcraftaspect.no_aspect": "放入的物品不含任何 Aspect。",
  "valuetype.valuetypes.integrateddynamics.thaumcraftaspect": "Thaumcraft Aspect"
 }

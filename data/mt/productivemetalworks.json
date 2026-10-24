@@ -1,4 +1,6 @@
 {
+ "block.productivemetalworks.brown_foundry_tank": "棕色熔鑄爐儲罐",
+ "block.productivemetalworks.brown_foundry_window": "棕色熔鑄爐視窗",
  "book.productivemetalworks.alloying_page.availability": "哪些流體與合金會存在，取決於你載入了哪些模組，因為大部分只有在其他模組提供基礎金屬時才會出現。$(br2)整合包的實際內容請以 JEI 為準。",
  "book.productivemetalworks.alloying_page.catalogue": "大致上，流體可分為：$(br)* 原版金屬$(br)* 模組金屬，例如錫與鋨$(br)* 合金，例如鋼與青銅$(br)* 寶石與礦物$(br)* 其他怪東西，例如烈焰、史萊姆與蠟",
  "book.productivemetalworks.alloying_page.intro": "合金化會把熔融金屬合成更好的金屬。兩種輸入都必須是液態，並且同時在熔爐中，所以不能用固態錠來合金。$(br2)只要熔爐內出現正確的流體且比例吻合，熔爐就會自動完成合金。例如 2/3 鐵加 1/3 鎳就會變成因瓦合金。",
@@ -57,6 +59,7 @@
  "death.attack.productivemetalworks.foundry_damage.player.6": "%2$s 眼睜睜看著 %1$s 在熔爐裡被嫩煎",
  "death.attack.productivemetalworks.foundry_damage.player.7": "%2$s 和 %1$s 的牛肉恩怨了結了",
  "death.attack.productivemetalworks.foundry_damage.player.8": "%2$s 把 %1$s 送進了烤叉深淵",
+ "item.productivemetalworks.rod_cast": "桿鑄模",
  "itemGroup.productivemetalworks": "Productive Metalworks",
  "productivemetalworks.devices.foundry_controller": "熔爐",
  "productivemetalworks.information.upgrade.upgrade_stability.foundry_controller": "停用熔爐中的流體合金化。",

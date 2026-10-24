@@ -1,5 +1,17 @@
 {
+ "block.silentgems.chaos_essence_block": "audit",
+ "block.silentgems.deepslate_chaos_ore": "audit",
+ "block.silentgems.deepslate_gem_ore": "audit",
+ "block.silentgems.deepslate_silver_ore": "audit",
+ "block.silentgems.glowrose": "audit",
  "item.silentgems.gem": "haiku",
+ "item.silentgems.potato_on_a_stick": "audit",
+ "item.silentgems.raw_silver": "audit",
+ "item.silentgems.reinforced_gold_rod": "audit",
+ "item.silentgems.reinforced_silver_rod": "audit",
+ "item.silentgems.silver_rod": "audit",
  "silentgems.configuration.features": "haiku",
- "silentgems.configuration.rabbitsProduceCoffee": "haiku"
+ "silentgems.configuration.glowrose": "audit",
+ "silentgems.configuration.rabbitsProduceCoffee": "haiku",
+ "trait.silentgems.cloaking.desc": "audit"
 }

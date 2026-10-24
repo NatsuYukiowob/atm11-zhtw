@@ -1,8 +1,20 @@
 {
  "advancements.irons_artifice.over_over_overkill.title": "超級過殺",
+ "advancements.irons_artifice.peer_review.description": "用子彈擊殺厄械師",
+ "advancements.irons_artifice.through_and_through.description": "用一發子彈擊殺5隻或以上的生物",
  "advancements.irons_artifice.ultrakill.title": "Ultrakill",
+ "irons_artifice.component_type.character_blowback": "角色後推力",
+ "irons_artifice.component_type.freeze_on_hit": "命中時冰凍敵人 +%s 秒",
+ "irons_artifice.modifier.fairy_dust": "妖精塵軌跡",
  "irons_artifice.value_modifier.minus": "-%s %s",
  "irons_artifice.value_modifier.minus_percent": "%s%% %s",
  "irons_artifice.value_modifier.plus": "+%s %s",
- "irons_artifice.value_modifier.plus_percent": "%s%% %s"
+ "irons_artifice.value_modifier.plus_percent": "%s%% %s",
+ "item.irons_artifice.antigravity_modifer": "反重力改造模組",
+ "item.irons_artifice.arquebus": "火繩槍",
+ "item.irons_artifice.blackpowder": "黑火藥",
+ "item.irons_artifice.blunderbuss": "喇叭口火槍",
+ "item.irons_artifice.fairy_dust_modifier": "妖精塵改造模組",
+ "item.irons_artifice.infinity_modifier": "無限改造模組",
+ "itemGroup.irons_artifice": "《Iron's Arms 'n Artifice》"
 }

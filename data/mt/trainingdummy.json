@@ -38,7 +38,7 @@
  "trainingdummy.configuration.displayOffsetX": "顯示 X 偏移（畫素）",
  "trainingdummy.configuration.displayOffsetX.tooltip": "相對於畫面中心的水平畫素偏移（負值為左，正值為右）。僅適用於畫面顯示。",
  "trainingdummy.configuration.displayOffsetY": "顯示 Y 偏移（畫素）",
- "trainingdummy.configuration.displayOffsetY.tooltip": "相對於畫面底部上的垂直畫素偏移。僅適用於畫面顯示。",
+ "trainingdummy.configuration.displayOffsetY.tooltip": "從畫面底部向上計算的垂直畫素偏移。僅適用於畫面顯示。",
  "trainingdummy.configuration.globalLeaderboardEnabled": "啟用全域排行榜",
  "trainingdummy.configuration.globalLeaderboardEnabled.tooltip": "完全開啟或關閉跨伺服器全域排行榜。關閉後將停止擷取、顯示與提交至該排行榜；本機排行榜無論如何都會正常運作。預設為開啟。",
  "trainingdummy.configuration.hitResetSeconds": "命中重設間隔（秒）",

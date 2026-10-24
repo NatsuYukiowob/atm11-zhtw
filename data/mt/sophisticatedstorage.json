@@ -41,6 +41,15 @@
  "gui.sophisticatedstorage.status.packing_tape_linked_storage": "連結的儲存空間無法打包",
  "gui.sophisticatedstorage.status.tier_upgrade_main_linked_storage_only": "只有主要連結儲存空間可以升級階級",
  "gui.sophisticatedstorage.upgrades.buttons.io_mode_side_info": "%s (%s)",
+ "gui.sophisticatedstorage.upgrades.buttons.shift_click_into_inventory": "Shift左擊將成品放入\n玩家物品欄",
+ "gui.sophisticatedstorage.upgrades.buttons.shift_click_into_storage": "Shift左擊將成品放入\n容器",
+ "item.sophisticatedstorage.advanced_compacting_upgrade": "高階壓縮升級",
  "item.sophisticatedstorage.advanced_hopper_upgrade.tooltip": "在容器和相鄰方塊間移動物品\n速度更快，可從任意面設定輸入/輸出",
- "item.sophisticatedstorage.paintbrush.tooltip.material": " - %s: %s"
+ "item.sophisticatedstorage.jukebox_upgrade.tooltip": "攜帶式唱片機",
+ "item.sophisticatedstorage.paintbrush.tooltip.material": " - %s: %s",
+ "sophisticatedstorage.configuration.autoSmeltingUpgrade": "自動熔鍊升級",
+ "sophisticatedstorage.configuration.disallowedItems.tooltip": "格式：item_id\n範例：minecraft:bundle",
+ "wood_name.sophisticatedstorage.crimson": "緋紅蕈木",
+ "wood_name.sophisticatedstorage.mangrove": "紅樹林木",
+ "wood_name.sophisticatedstorage.warped": "扭曲蕈木"
 }

@@ -6,5 +6,6 @@
  "attribute.name.fall_damage_multiplier.desc": "墜落傷害會被放大多少倍。",
  "attribute.name.jump_strength.desc": "跳躍能力有多好。",
  "attribute.name.max_absorption.desc": "你會自然回復多少顆吸收心。",
- "comment_id": "傷害來源"
+ "comment_id": "傷害來源",
+ "item.minecraft.lingering_potion.effect.minecraft.haste": "滯留挖掘加速藥水"
 }

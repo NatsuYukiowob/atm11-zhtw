@@ -38,7 +38,7 @@
  "trainingdummy.configuration.displayOffsetX": "haiku",
  "trainingdummy.configuration.displayOffsetX.tooltip": "haiku",
  "trainingdummy.configuration.displayOffsetY": "haiku",
- "trainingdummy.configuration.displayOffsetY.tooltip": "haiku",
+ "trainingdummy.configuration.displayOffsetY.tooltip": "audit",
  "trainingdummy.configuration.globalLeaderboardEnabled": "haiku",
  "trainingdummy.configuration.globalLeaderboardEnabled.tooltip": "haiku",
  "trainingdummy.configuration.hitResetSeconds": "haiku",

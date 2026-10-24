@@ -1,4 +1,11 @@
 {
  "config.jade.plugin_pipez.pipe": "haiku",
- "itemGroup.pipez": "haiku"
+ "item.pipez.advanced_upgrade": "audit",
+ "item.pipez.basic_upgrade": "audit",
+ "item.pipez.improved_upgrade": "audit",
+ "item.pipez.infinity_upgrade": "audit",
+ "item.pipez.ultimate_upgrade": "audit",
+ "itemGroup.pipez": "haiku",
+ "tooltip.pipez.filter.destination_distance": "audit",
+ "tooltip.pipez.upgrade.configured": "audit"
 }

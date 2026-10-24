@@ -4,7 +4,7 @@
  "block.luminax.luminax_pressure_plate": "haiku",
  "block.luminax.luminax_slab": "haiku",
  "block.luminax.luminax_stair": "haiku",
- "block.luminax.luminax_wall": "haiku",
+ "block.luminax.luminax_wall": "audit",
  "creative_tab.luminax.default": "haiku",
  "item.luminax.luminax_wand": "haiku",
  "key.category.luminax.default": "haiku",

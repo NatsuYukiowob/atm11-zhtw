@@ -1,9 +1,21 @@
 {
+ "command.solcarrot.foodlist.size.desc.foods_eaten.plural": "audit",
+ "command.solcarrot.foodlist.size.desc.foods_eaten.singular": "audit",
+ "command.solcarrot.foodlist.size.desc.milestone.more": "audit",
+ "config.solcarrot.should_show_progress_above_hotbar": "audit",
+ "gui.solcarrot.food_book.config": "audit",
+ "gui.solcarrot.food_book.config.tooltip.whitelist": "audit",
  "gui.solcarrot.food_book.fraction": "haiku",
+ "gui.solcarrot.food_book.stats.tooltip.progress.max": "audit",
  "message.solcarrot.chat_wrapper": "haiku",
+ "message.solcarrot.milestone_achieved": "audit",
  "solcarrot.configuration.filtering": "haiku",
  "solcarrot.configuration.milestone_celebration": "haiku",
  "solcarrot.configuration.milestones": "haiku",
  "solcarrot.configuration.miscellaneous": "haiku",
- "solcarrot.networking.food_list_message.failed": "haiku"
+ "solcarrot.networking.food_list_message.failed": "haiku",
+ "tooltip.solcarrot.cheap.eaten": "audit",
+ "tooltip.solcarrot.disabled.eaten": "audit",
+ "tooltip.solcarrot.hearty.eaten": "audit",
+ "tooltip.solcarrot.hearty.not_eaten": "audit"
 }

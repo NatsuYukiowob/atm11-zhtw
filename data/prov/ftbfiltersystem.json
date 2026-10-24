@@ -44,7 +44,7 @@
  "ftbfiltersystem.gui.filter_ok": "haiku",
  "ftbfiltersystem.gui.fuzzy_match": "haiku",
  "ftbfiltersystem.gui.item_source.creative": "haiku",
- "ftbfiltersystem.gui.item_source.inventory": "haiku",
+ "ftbfiltersystem.gui.item_source.inventory": "audit",
  "ftbfiltersystem.gui.item_source.mod": "haiku",
  "ftbfiltersystem.gui.nbt_bad": "haiku",
  "ftbfiltersystem.gui.nbt_ok": "haiku",

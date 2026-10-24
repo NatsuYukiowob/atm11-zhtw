@@ -1,4 +1,8 @@
 {
+ "advancements.dimstorage.dimensional_tablet": "audit",
+ "advancements.dimstorage.dimensional_tablet.desc": "audit",
+ "advancements.dimstorage.dimensional_tank": "audit",
+ "advancements.dimstorage.dimensional_tank.desc": "audit",
  "config.jade.plugin_dimstorage.dim_block_base": "haiku",
  "config.jade.plugin_dimstorage.dim_tank": "haiku",
  "gui.dimstorage.amount": "haiku",

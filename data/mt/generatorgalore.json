@@ -1,7 +1,12 @@
 {
+ "block.generatorgalore.enchantment_generator": "附魔發電機",
+ "block.generatorgalore.enchantment_generator_64x": "64x附魔發電機",
+ "block.generatorgalore.enchantment_generator_8x": "8x附魔發電機",
  "generatorgalore.recipe.burn_rate": "燃燒速率：%smB/t",
  "generatorgalore.recipe.burn_time": "燃燒時間：%s",
  "generatorgalore.recipe.rate": "速率：%sFE/t",
  "generatorgalore.recipe.total": "總計：%sFE",
- "generatorgalore.recipe.total_bucket": "總計：%sFE/B"
+ "generatorgalore.recipe.total_bucket": "總計：%sFE/B",
+ "generatorgalore.screen.generation_rate": "速率：%sFE/t",
+ "item.generatorgalore.obsidian_to_enchantment_upgrade": "黑曜石→附魔升級"
 }

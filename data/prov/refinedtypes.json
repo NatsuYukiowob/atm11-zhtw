@@ -3,6 +3,8 @@
  "block.refinedtypes.creative_soul_storage_block": "haiku",
  "block.refinedtypes.creative_source_storage_block": "haiku",
  "block.refinedtypes.network_energizer": "haiku",
+ "config.refinedtypes.option.sourceStorageBlock.256BSourceUsage.tooltip": "audit",
+ "config.refinedtypes.option.sourceStorageBlock.64BSourceUsage.tooltip": "audit",
  "gui.refinedtypes.network_energizer.redstone_mode_help": "haiku",
  "item.refinedtypes.creative_energy_storage_block.help": "haiku",
  "item.refinedtypes.creative_energy_storage_disk": "haiku",

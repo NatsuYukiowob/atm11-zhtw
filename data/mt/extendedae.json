@@ -1,3 +1,11 @@
 {
- "emi.extendedae.text.energy": "%s AE"
+ "chat.wireless_connect.missing": "目標已遺失",
+ "cutter.tooltip": "右鍵點擊 AE 裝置以重新命名",
+ "emi.extendedae.text.energy": "%s AE",
+ "gui.extendedae.ex_interface.config": "配置頁面 %s",
+ "gui.wireless_connect.remote_channel": "位置 X：%s，Y：%s，Z：%s\n使用的頻道：%s",
+ "gui.wireless_connect.status.remote_error.desc": "繫結的聯結器遺失或無法運作。",
+ "void_warn.tooltip": "使用前需要先進行分割",
+ "wireless.use.tooltip.01": "點擊以繫結",
+ "wireless.use.tooltip.02": "點擊另一個以進行連線"
 }

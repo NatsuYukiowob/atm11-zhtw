@@ -67,7 +67,7 @@
  "config.tectonic.option.offset": "haiku",
  "config.tectonic.option.ore_fix": "haiku",
  "config.tectonic.option.ore_fix.tooltip": "haiku",
- "config.tectonic.option.remove_frozen_ocean_ice": "haiku",
+ "config.tectonic.option.remove_frozen_ocean_ice": "audit",
  "config.tectonic.option.remove_frozen_ocean_ice.tooltip": "haiku",
  "config.tectonic.option.ridge_scale": "haiku",
  "config.tectonic.option.ridge_scale.tooltip": "haiku",

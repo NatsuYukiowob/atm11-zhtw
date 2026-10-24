@@ -1,3 +1,11 @@
 {
- "emi.extendedae.text.energy": "haiku"
+ "chat.wireless_connect.missing": "audit",
+ "cutter.tooltip": "audit",
+ "emi.extendedae.text.energy": "haiku",
+ "gui.extendedae.ex_interface.config": "audit",
+ "gui.wireless_connect.remote_channel": "audit",
+ "gui.wireless_connect.status.remote_error.desc": "audit",
+ "void_warn.tooltip": "audit",
+ "wireless.use.tooltip.01": "audit",
+ "wireless.use.tooltip.02": "audit"
 }

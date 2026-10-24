@@ -2,7 +2,7 @@
 短名稱的一致性交給術語統一）。CFPA／jar 譯文與書頁不審。
 
   prep  → queue/review/batch_NNN.json  {ns: {key: {"en": 英文, "zh": 目前譯文}}}（lang 依 ns 排序，任務書 ns＝_quests）
-  merge → 讀 queue/review/out（只含要改的條目）→ to_tw 收斂 → check_value → 套用（目前值須仍等於送審值）
+  merge → 讀 queue/review/out（只含要改的條目）→ tw_fix → check_value → 套用（目前值須仍等於送審值）
 """
 import argparse
 
@@ -10,7 +10,7 @@ import batchq
 import common as C
 import quests_io
 import store
-from s07q_quests import to_tw_value
+from s07q_quests import tw_fix_value
 from validate import check_value
 
 BATCH = 250
@@ -60,7 +60,7 @@ def merge():
                 if k in fixes:
                     v = fixes[k]
                     if isinstance(v, (str, list)):
-                        v = to_tw_value(v)
+                        v = tw_fix_value(v)
                     why = check_value(pair["en"], v, amp_codes=(ns == "_quests"))
                     if why is None and cur.get(k) != pair["zh"]:
                         why = "送審後已被改動（略過）"

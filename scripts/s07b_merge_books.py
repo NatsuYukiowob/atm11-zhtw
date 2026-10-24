@@ -1,6 +1,6 @@
 """驗證並合併 queue/book/out/ → data/book_mt/（進版控）。
 
-每頁先對文字欄位 to_tw() 收斂，再驗：
+每頁先對文字欄位 tw_fix()（夾簡體才轉），再驗：
   1. JSON 結構（key 集合、list 長度）與原文完全一致
   2. 非文字欄位值 byte 級相同
   3. 文字欄位 Patchouli 標記守恆：$( 與 /$ 數量、$(l:...)/$(k:...) 參照集合
@@ -77,7 +77,7 @@ def main(argv=None):
                 errs = ["缺漏"]
             else:
                 if isinstance(tran, (dict, list)):
-                    tran, _ = walk(tran, lambda s: C.to_tw(s) if isinstance(s, str) else s)
+                    tran, _ = walk(tran, lambda s: C.tw_fix(s) if isinstance(s, str) else s)
                 errs = check(orig, tran)
             rows.append({"kind": "book", "model": model, "ns": rel.split("/")[0], "key": rel,
                          "len": _text_len(orig), "ok": not errs, "why": errs[0] if errs else None})

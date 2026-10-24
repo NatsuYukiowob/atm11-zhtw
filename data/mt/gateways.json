@@ -1,10 +1,12 @@
 {
+ "appmode.gateways.after_every_n_waves": "每%s波生效一次（最多%s次）",
  "gateways.endless/automaton_fabricator": "自動機製造台的無盡之門",
  "gateways.iron_automaton": "鐵自動機之門",
  "name.gateways.iron_juggernaut": "鐵巨像",
  "name.gateways.iron_sentinel": "鐵守衛",
  "reward.gateways.entity": "%s %s 次戰利品抽取",
  "reward.gateways.stack": "%s %s",
+ "rule.gateways.spacing": "間距：%s",
  "tooltip.gateways.dot": "• %s",
  "tooltip.gateways.dot_with_count": "• %s %s",
  "tooltip.gateways.with_count": "%s %s"

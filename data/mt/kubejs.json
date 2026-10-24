@@ -12,7 +12,7 @@
  "kubejs.ponder.fission_mek_fuelrod.text_5": "燃料棒之間不能相互接觸",
  "kubejs.ponder.fission_mek_fuelrod.text_6": "多根燃料棒以棋盤式排列效果最好",
  "kubejs.ponder.fission_mek_logic.header": "Mekanism 裂變反應爐：邏輯轉接器",
- "kubejs.ponder.fission_mek_logic.text_1": "邏輯轉接器可讓反應爐接受需要紅石",
+ "kubejs.ponder.fission_mek_logic.text_1": "邏輯轉接器可讓你以紅石控制反應爐",
  "kubejs.ponder.fission_mek_logic.text_2": "右鍵點選以開啟設定介面",
  "kubejs.ponder.fission_mek_logic.text_3": "使用兩個時，可設定安全機制，在特定條件下關閉反應爐",
  "kubejs.ponder.fission_mek_logic.text_4": "將這個設為「啟動」",

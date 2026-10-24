@@ -1,6 +1,12 @@
 {
  "gui.sophisticatedcore.error.add.battery_energy_high": "揹包無法支援此電池升級。請升級揹包或增加堆疊倍數，使最大能量至少提高%s倍",
  "gui.sophisticatedcore.error.add.tank_capacity_high": "揹包無法支援此儲罐升級。請升級揹包或增加堆疊倍數，使容量至少提高%s倍",
+ "gui.sophisticatedcore.settings.buttons.toggle_color_detail": "下一種=左擊\n上一種=右擊",
+ "gui.sophisticatedcore.upgrades.buttons.do_not_interact_with_tanks_and_pipes": "不與儲罐&管道互動",
+ "gui.sophisticatedcore.upgrades.buttons.void_always": "總是銷毀",
+ "gui.sophisticatedcore.upgrades.pump.tooltip": "液泵",
+ "gui.sophisticatedcore.upgrades.tag_list.tag_overflow": "還有 %s 項",
  "item.sophisticatedcore.storage.tooltip.energy": "%s FE",
- "item.sophisticatedcore.storage.tooltip.fluid": "%s mB %s"
+ "item.sophisticatedcore.storage.tooltip.fluid": "%s mB %s",
+ "sophisticatedcore.configuration.mouseTweaksScrollEnabled": "Mouse Tweaks 滾輪控制"
 }

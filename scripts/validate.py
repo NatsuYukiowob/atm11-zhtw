@@ -1,6 +1,6 @@
 """譯文硬驗證：所有合併步驟的唯一入口。回傳 None＝通過，否則回中文原因。
 
-呼叫端合併前先把譯文過 to_tw() 收斂，這裡的往返冪等檢查才有意義。
+呼叫端合併前：轉換層過 to_tw()、機翻層過 tw_fix()（夾簡體才轉）；這裡只擋殘留簡體字（has_simplified）。
 
 human=True 用於人工簡中來源轉繁（CFPA／instance zh_cn）：譯者常把英文單行內的 \\n\\n
 拆成多個 list 元素、省略結尾的 &r——顯示效果相同，不該把人工譯文丟去機翻。
@@ -10,7 +10,7 @@ import re
 import unicodedata
 from collections import Counter
 
-from common import placeholders, to_tw
+from common import has_simplified, placeholders
 
 SECTION_RE = re.compile(r"§[0-9a-fk-orA-FK-OR]")
 # & 色碼只在 FTB Quests 有意義；lang 裡的 R&D、Salt & Pepper 不是格式碼
@@ -62,8 +62,8 @@ def check_text(en, zh, *, amp_codes=False, human=False):
     lost = _symbols(en) - _symbols(zh)
     if lost:
         return f"符號被改動 {sorted(lost.elements())} → 缺"
-    if to_tw(zh) != zh:
-        return f"疑似簡體/未收斂: {zh[:30]!r} → {to_tw(zh)[:30]!r}"
+    if has_simplified(zh):
+        return f"含簡體字: {zh[:30]!r}"
     return None
 
 

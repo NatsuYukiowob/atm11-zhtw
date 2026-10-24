@@ -2,6 +2,12 @@
  "item.laserio.laser_connector": "雷射聯結器",
  "item.laserio.laser_connector_advanced": "高階鐳射聯結器",
  "item.laserio.laser_node": "雷射節點",
+ "item.laserio.overclocker_card": "卡片超頻元件",
  "itemGroup.laserio": "LaserIO",
- "screen.laserio.alpha": "Alpha"
+ "laserio.tooltip.item.card.mode.INSERT": "插入",
+ "laserio.tooltip.item.card.mode.STOCK": "庫存",
+ "screen.laserio.alpha": "Alpha",
+ "screen.laserio.apply": "套用",
+ "screen.laserio.insert": "插入",
+ "screen.laserio.stock": "庫存"
 }

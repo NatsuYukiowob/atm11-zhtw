@@ -1,4 +1,15 @@
 {
+ "block.alltheores.raw_aluminum_block": "audit",
+ "block.alltheores.raw_iridium_block": "audit",
+ "block.alltheores.raw_lead_block": "audit",
+ "block.alltheores.raw_nickel_block": "audit",
+ "block.alltheores.raw_osmium_block": "audit",
+ "block.alltheores.raw_platinum_block": "audit",
+ "block.alltheores.raw_silver_block": "audit",
+ "block.alltheores.raw_tin_block": "audit",
+ "block.alltheores.raw_uranium_block": "audit",
+ "block.alltheores.raw_zinc_block": "audit",
+ "item.alltheores.raw_tin": "audit",
  "item.alltheores.salt_dust": "haiku",
  "item.alltheores.sulfur_dust": "haiku"
 }

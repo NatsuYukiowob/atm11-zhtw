@@ -1,5 +1,18 @@
 {
  "configured.chat.failed_config_update": "更新設定 %s 時發生錯誤，該請求由 %s 傳送",
+ "configured.gui.apply": "套用",
+ "configured.gui.handshake_process_failed": "無法處理來自伺服器的設定資料",
+ "configured.gui.lan_server": "僅 LAN 伺服器擁有者可編輯伺服器設定",
+ "configured.gui.no_developer_status": "需要成為開發者才能編輯伺服器設定",
+ "configured.gui.not_installed": "伺服器未安裝 Configured",
+ "configured.gui.request.invalid_config": "伺服器傳送了錯誤設定的資料",
+ "configured.gui.request.process_error": "無法處理來自伺服器的設定資料",
+ "configured.gui.search": "搜尋...",
+ "configured.gui.title.client_configuration": "用戶端設定檔",
+ "configured.gui.title.server_configuration": "伺服器設定檔",
  "configured.gui.unsupported_property": "不支援的屬性。請編輯原始設定檔以變更此屬性",
+ "configured.gui.update_error.generic": "設定更新失敗",
+ "configured.gui.update_error.read_only": "設定更新失敗，因為它是唯讀的",
+ "configured.multiplayer.disconnect.bad_config_packet": "設定封包錯誤",
  "key.categories.configured": "Configured"
 }

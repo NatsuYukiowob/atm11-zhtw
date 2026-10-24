@@ -1,4 +1,9 @@
 {
+ "balm.configuration.exampleCategory.exampleFloat": "範例浮點數",
+ "balm.configuration.exampleEnum": "範例列舉",
+ "balm.configuration.exampleIdentifierSet": "範例資源位置集合",
+ "balm.configuration.exampleInt": "範例整數",
+ "balm.configuration.exampleString": "範例字串",
  "config.jade.plugin_balm.jade": "Balm",
  "gui.balm.configuration.edit": "編輯",
  "gui.balm.configuration.title": "%s...",

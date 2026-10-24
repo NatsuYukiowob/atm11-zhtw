@@ -1,6 +1,17 @@
 {
+ "buildinggadgets2.messages.range_set": "範圍設定為：%d",
  "buildinggadgets2.messages.redprintgivefail": "無法將藍圖 %s 給予 %s",
  "buildinggadgets2.messages.redprintremovesuccess": "已成功刪除藍圖：%s",
+ "buildinggadgets2.messages.render_set": "渲染類型設定為：%s",
+ "buildinggadgets2.modes.horizontal_row": "水平列",
+ "buildinggadgets2.radialmenu.raytracefluids": "光線追蹤流體",
+ "buildinggadgets2.screen.end": "結束位置：",
+ "buildinggadgets2.screen.missingasc": "排序：缺失數量（遞增）",
+ "buildinggadgets2.screen.missingdesc": "排序：缺失數量（遞減）",
+ "buildinggadgets2.screen.paste_replace": "替換原有方塊（警告：不會產生掉落物）",
+ "buildinggadgets2.screen.requiredasc": "排序：材料數量（遞增）",
+ "buildinggadgets2.screen.requireddesc": "排序：材料數量（遞減）",
+ "buildinggadgets2.screen.start": "起始位置：",
  "item.buildinggadgets2.template_manager": "樣板管理器",
  "key.category.buildinggadgets2.main": "Building Gadgets 2"
 }

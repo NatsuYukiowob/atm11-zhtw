@@ -1,4 +1,9 @@
 {
+ "balm.configuration.exampleCategory.exampleFloat": "audit",
+ "balm.configuration.exampleEnum": "audit",
+ "balm.configuration.exampleIdentifierSet": "audit",
+ "balm.configuration.exampleInt": "audit",
+ "balm.configuration.exampleString": "audit",
  "config.jade.plugin_balm.jade": "haiku",
  "gui.balm.configuration.edit": "haiku",
  "gui.balm.configuration.title": "haiku",

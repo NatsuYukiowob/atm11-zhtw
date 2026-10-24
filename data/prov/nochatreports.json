@@ -1,4 +1,16 @@
 {
+ "gui.nochatreports.safety_status.realms": "audit",
+ "gui.nochatreports.safety_status.secure": "audit",
+ "gui.nochatreports.safety_status.unintrusive": "audit",
+ "gui.nochatreports.signing_mode.never.tooltip": "audit",
+ "gui.nochatreports.signing_status.disabled": "audit",
  "key.nochatreports.cmd": "haiku",
- "key.nochatreports.ctrl": "haiku"
+ "key.nochatreports.ctrl": "haiku",
+ "modmenu.descriptionTranslation.nochatreports": "audit",
+ "option.NoChatReports.alwaysHideReportButton": "audit",
+ "option.NoChatReports.alwaysHideReportButton.tooltip": "audit",
+ "option.NoChatReports.defaultSigningMode.tooltip": "audit",
+ "option.NoChatReports.hideSystemMessageIndicators.tooltip": "audit",
+ "option.NoChatReports.showReloadButton": "audit",
+ "option.NoChatReports.showReloadButton.tooltip": "audit"
 }

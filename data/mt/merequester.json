@@ -1,0 +1,10 @@
+{
+ "gui.merequester.no_requesters": "找不到 ME 請求器",
+ "tooltip.merequester.export": "輸出中",
+ "tooltip.merequester.export_desc": "請求器正嘗試將合成結果輸出到系統中。如果請求器長時間處於此狀態，表示網路中沒有可供輸出的空間。",
+ "tooltip.merequester.idle_desc": "當已達到要求的數量，或沒有該物品或流體的合成樣板時，請求器會處於閒置狀態。",
+ "tooltip.merequester.link_desc": "系統目前正在合成所請求的物品或流體。",
+ "tooltip.merequester.missing_desc": "系統缺少合成所請求物品或流體所需的材料。材料齊全後，流程將會繼續。",
+ "tooltip.merequester.requester_desc": "需要時會透過請求合成，自動維持物品與流體的庫存。必須連接到 ME 網路，並可從 ME 請求終端存取。拆除後會失去其配置。可使用記憶卡複製設定。",
+ "tooltip.merequester.shift_for_more": "按住 %s 顯示更多資訊"
+}

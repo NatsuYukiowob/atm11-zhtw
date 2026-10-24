@@ -1,4 +1,6 @@
 {
+ "block.productivemetalworks.brown_foundry_tank": "audit",
+ "block.productivemetalworks.brown_foundry_window": "audit",
  "book.productivemetalworks.alloying_page.availability": "haiku",
  "book.productivemetalworks.alloying_page.catalogue": "haiku",
  "book.productivemetalworks.alloying_page.intro": "haiku",
@@ -57,6 +59,7 @@
  "death.attack.productivemetalworks.foundry_damage.player.6": "haiku",
  "death.attack.productivemetalworks.foundry_damage.player.7": "haiku",
  "death.attack.productivemetalworks.foundry_damage.player.8": "haiku",
+ "item.productivemetalworks.rod_cast": "audit",
  "itemGroup.productivemetalworks": "haiku",
  "productivemetalworks.devices.foundry_controller": "haiku",
  "productivemetalworks.information.upgrade.upgrade_stability.foundry_controller": "haiku",

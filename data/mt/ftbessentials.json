@@ -1,0 +1,14 @@
+{
+ "ftbessentials.kit.added_items": "已將來自 '%s' 的物品新增至目標物品欄",
+ "ftbessentials.kit.autogrant_modified": "'%s' 自動給予已修改: %s",
+ "ftbessentials.kit.autogranted": "玩家登入時自動給予",
+ "ftbessentials.kit.cant_store": "無法將套件存入物品欄: %s",
+ "ftbessentials.kit.gave_to_players": "套件 '%s' 已給予 %s 位玩家",
+ "ftbessentials.kit.items": "物品：",
+ "ftbessentials.kit.not_enough_space": "物品欄中沒有足夠空間儲存套件",
+ "ftbessentials.kit.not_looking_at_block": "沒有看著方塊",
+ "ftbessentials.tp_offline.moved": "離線玩家 %s 已移動到 %s，維度：%s",
+ "ftbessentials.warp.deleted": "傳送點已刪除!",
+ "ftbessentials.warp.not_found": "沒有找到傳送點!",
+ "ftbessentials.warp.set": "傳送點已設定!"
+}

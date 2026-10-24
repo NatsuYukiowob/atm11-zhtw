@@ -1,4 +1,8 @@
 {
+ "message.cucumber.filled_energy_error": "audit",
  "subtitle.cucumber.watering_can": "haiku",
- "tooltip.cucumber.data_components": "haiku"
+ "tooltip.cucumber.data_components": "haiku",
+ "tooltip.cucumber.hold_alt_for_data_components": "audit",
+ "tooltip.cucumber.one_use_left": "audit",
+ "tooltip.cucumber.uses_left": "audit"
 }

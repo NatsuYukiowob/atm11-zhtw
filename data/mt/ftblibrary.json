@@ -1,10 +1,26 @@
 {
+ "config.group.value": "值",
+ "delete_item": "你想要刪除「%s」嗎？",
  "dimension.hyperbox.hyperbox": "Hyperbox",
+ "ftblibrary.client_settings": "用戶端設定",
+ "ftblibrary.client_settings.tooltips.image_modname": "在圖片選擇介面顯示模組名稱",
+ "ftblibrary.gui.key_reference": "按鍵參考",
+ "ftblibrary.read_only": "唯讀",
  "ftblibrary.select_entity.animals": "動物",
  "ftblibrary.select_entity.hostiles": "敵對生物",
  "ftblibrary.select_entity.neutrals": "中立生物",
+ "ftblibrary.select_image.all_images": "所有圖片",
+ "ftblibrary.select_image.rescan": "重新掃描圖片",
  "ftblibrary.select_item.list_mode.emi": "EMI",
  "ftblibrary.select_item.list_mode.jei": "JEI",
  "ftblibrary.select_item.list_mode.rei": "REI",
- "ftblibrary.select_item.nbt": "編輯 NBT\n§7左鍵點選：快速字串編輯器\n§7右鍵點選：互動式 NBT 編輯器"
+ "ftblibrary.select_item.nbt": "編輯 NBT\n§7左鍵點選：快速字串編輯器\n§7右鍵點選：互動式 NBT 編輯器",
+ "ftblibrary.server_settings": "伺服器設定",
+ "gui.search_box": "搜尋...",
+ "item.ftblibrary.fluid_container.use": "對儲罐按右鍵以清空容器",
+ "lat_support": "喜歡這個Mod嗎？點擊以支援我的項目！",
+ "sidebar_button.ftblibrary.config": "FTB Library 客戶端設定",
+ "sidebar_button.ftblibrary.config.enter_edit_mode": "按右鍵以編輯側邊欄按鈕",
+ "sidebar_button.ftblibrary.config.tooltip": "開啟 FTB Library 客戶端設定",
+ "sidebar_button.ftblibrary.toggle.rain": "切換降雨"
 }

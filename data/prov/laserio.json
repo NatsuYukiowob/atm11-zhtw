@@ -2,6 +2,12 @@
  "item.laserio.laser_connector": "haiku",
  "item.laserio.laser_connector_advanced": "haiku",
  "item.laserio.laser_node": "haiku",
+ "item.laserio.overclocker_card": "audit",
  "itemGroup.laserio": "haiku",
- "screen.laserio.alpha": "haiku"
+ "laserio.tooltip.item.card.mode.INSERT": "audit",
+ "laserio.tooltip.item.card.mode.STOCK": "audit",
+ "screen.laserio.alpha": "haiku",
+ "screen.laserio.apply": "audit",
+ "screen.laserio.insert": "audit",
+ "screen.laserio.stock": "audit"
 }

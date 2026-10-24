@@ -1,6 +1,17 @@
 {
+ "buildinggadgets2.messages.range_set": "audit",
  "buildinggadgets2.messages.redprintgivefail": "haiku",
  "buildinggadgets2.messages.redprintremovesuccess": "haiku",
+ "buildinggadgets2.messages.render_set": "audit",
+ "buildinggadgets2.modes.horizontal_row": "audit",
+ "buildinggadgets2.radialmenu.raytracefluids": "audit",
+ "buildinggadgets2.screen.end": "audit",
+ "buildinggadgets2.screen.missingasc": "audit",
+ "buildinggadgets2.screen.missingdesc": "audit",
+ "buildinggadgets2.screen.paste_replace": "audit",
+ "buildinggadgets2.screen.requiredasc": "audit",
+ "buildinggadgets2.screen.requireddesc": "audit",
+ "buildinggadgets2.screen.start": "audit",
  "item.buildinggadgets2.template_manager": "haiku",
  "key.category.buildinggadgets2.main": "haiku"
 }

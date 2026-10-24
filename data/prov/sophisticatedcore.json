@@ -1,6 +1,12 @@
 {
  "gui.sophisticatedcore.error.add.battery_energy_high": "opus",
  "gui.sophisticatedcore.error.add.tank_capacity_high": "opus",
+ "gui.sophisticatedcore.settings.buttons.toggle_color_detail": "audit",
+ "gui.sophisticatedcore.upgrades.buttons.do_not_interact_with_tanks_and_pipes": "audit",
+ "gui.sophisticatedcore.upgrades.buttons.void_always": "audit",
+ "gui.sophisticatedcore.upgrades.pump.tooltip": "audit",
+ "gui.sophisticatedcore.upgrades.tag_list.tag_overflow": "audit",
  "item.sophisticatedcore.storage.tooltip.energy": "haiku",
- "item.sophisticatedcore.storage.tooltip.fluid": "haiku"
+ "item.sophisticatedcore.storage.tooltip.fluid": "haiku",
+ "sophisticatedcore.configuration.mouseTweaksScrollEnabled": "audit"
 }

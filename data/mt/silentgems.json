@@ -1,5 +1,17 @@
 {
+ "block.silentgems.chaos_essence_block": "混沌精華塊",
+ "block.silentgems.deepslate_chaos_ore": "深板岩混沌礦石",
+ "block.silentgems.deepslate_gem_ore": "深板岩%s礦石",
+ "block.silentgems.deepslate_silver_ore": "深板岩銀礦石",
+ "block.silentgems.glowrose": "%s螢光玫瑰",
  "item.silentgems.gem": "%s",
+ "item.silentgems.potato_on_a_stick": "馬鈴薯釣竿",
+ "item.silentgems.raw_silver": "銀原礦",
+ "item.silentgems.reinforced_gold_rod": "強化金桿",
+ "item.silentgems.reinforced_silver_rod": "強化銀桿",
+ "item.silentgems.silver_rod": "銀棒",
  "silentgems.configuration.features": "功能",
- "silentgems.configuration.rabbitsProduceCoffee": "兔子會產出咖啡"
+ "silentgems.configuration.glowrose": "螢光玫瑰",
+ "silentgems.configuration.rabbitsProduceCoffee": "兔子會產出咖啡",
+ "trait.silentgems.cloaking.desc": "提供隱形效果，但會消耗飢餓值"
 }

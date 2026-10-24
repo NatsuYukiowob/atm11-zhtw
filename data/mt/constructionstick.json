@@ -1,6 +1,8 @@
 {
+ "constructionstick.description.stick": "%s可以在結構面向你的一側放置最多%s 個方塊，使用次數為%s次。\n\n按下綁定的%s鍵可切換放置限制（水平、垂直、南/北、東/西、無鎖定）。\n\n按下綁定的%s鍵可打開選項介面。\n\n§5§n復原功能§0§r\n按住綁定的%s鍵並看向方塊時，會顯示你最近放置的方塊，並用綠色邊框標記。對其中任意一個方塊按下綁定的%s鍵即可復原操作，返還所有物品。如果你使用了破壞升級，也會復原被破壞的方塊。\n\n§5§n容器支援§0§r\n界伏盒、束口袋以及許多其他模組的容器都可以為建築棒提供方塊。\n\n§5§n非慣用手優先§0§r\n當非慣用手持有方塊時，將優先放置非慣用手中的方塊，而不是你正在看的方塊。",
  "constructionstick.option.upgrades": "",
  "constructionstick.placement.denied": "此方塊無法使用建造棒放置！",
  "item.constructionstick.stick_template": "棒子樣板",
- "key.category.constructionstick.category": "建造棒"
+ "key.category.constructionstick.category": "建造棒",
+ "key.constructionstick.change_upgrade": "切換升級"
 }

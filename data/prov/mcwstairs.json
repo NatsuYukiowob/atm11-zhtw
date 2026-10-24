@@ -1,4 +1,7 @@
 {
+ "item.mcwstairs.nether_brick_compact_stairs": "audit",
+ "item.mcwstairs.nether_brick_skyline_stairs": "audit",
+ "item.mcwstairs.nether_brick_terrace_stairs": "audit",
  "item.mcwstairs.pale_oak_balcony": "haiku",
  "item.mcwstairs.pale_oak_bulk_stairs": "haiku",
  "item.mcwstairs.pale_oak_compact_stairs": "haiku",
@@ -6,5 +9,21 @@
  "item.mcwstairs.pale_oak_platform": "haiku",
  "item.mcwstairs.pale_oak_railing": "haiku",
  "item.mcwstairs.pale_oak_skyline_stairs": "haiku",
- "item.mcwstairs.pale_oak_terrace_stairs": "haiku"
+ "item.mcwstairs.pale_oak_terrace_stairs": "audit",
+ "item.mcwstairs.prismarine_balcony": "audit",
+ "item.mcwstairs.prismarine_bulk_stairs": "audit",
+ "item.mcwstairs.prismarine_compact_stairs": "audit",
+ "item.mcwstairs.prismarine_loft_stairs": "audit",
+ "item.mcwstairs.prismarine_platform": "audit",
+ "item.mcwstairs.prismarine_railing": "audit",
+ "item.mcwstairs.prismarine_skyline_stairs": "audit",
+ "item.mcwstairs.prismarine_terrace_stairs": "audit",
+ "item.mcwstairs.red_nether_brick_balcony": "audit",
+ "item.mcwstairs.red_nether_brick_bulk_stairs": "audit",
+ "item.mcwstairs.red_nether_brick_compact_stairs": "audit",
+ "item.mcwstairs.red_nether_brick_loft_stairs": "audit",
+ "item.mcwstairs.red_nether_brick_platform": "audit",
+ "item.mcwstairs.red_nether_brick_railing": "audit",
+ "item.mcwstairs.red_nether_brick_skyline_stairs": "audit",
+ "item.mcwstairs.red_nether_brick_terrace_stairs": "audit"
 }

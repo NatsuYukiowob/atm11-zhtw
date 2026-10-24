@@ -208,8 +208,8 @@
  "operator.operators.integrateddynamics.thaumcraft.aspect.getcompoundaspects.info": "haiku",
  "operator.operators.integrateddynamics.thaumcraft.aspect.isprimal": "haiku",
  "operator.operators.integrateddynamics.thaumcraft.aspect.isprimal.info": "haiku",
- "operator.operators.integrateddynamics.thaumcraft.aspect.israwaspectequal": "haiku",
- "operator.operators.integrateddynamics.thaumcraft.aspect.israwaspectequal.info": "haiku",
+ "operator.operators.integrateddynamics.thaumcraft.aspect.israwaspectequal": "audit",
+ "operator.operators.integrateddynamics.thaumcraft.aspect.israwaspectequal.info": "audit",
  "valuetype.integrateddynamics.error.thaumcraftaspect.no_aspect": "haiku",
  "valuetype.valuetypes.integrateddynamics.thaumcraftaspect": "haiku"
 }

@@ -1,5 +1,9 @@
 {
  "_comment": "haiku",
+ "block.ironfurnaces.allthemodium_furnace": "audit",
+ "container.ironfurnaces.allthemodium_furnace": "audit",
+ "ironfurnaces.jei_category_blasting": "audit",
+ "ironfurnaces.jei_category_smoking": "audit",
  "item.ironfurnaces.allthemodium_furnace": "haiku",
  "item.ironfurnaces.copper_furnace": "haiku",
  "item.ironfurnaces.crystal_furnace": "haiku",
@@ -13,5 +17,8 @@
  "item.ironfurnaces.obsidian_furnace": "haiku",
  "item.ironfurnaces.silver_furnace": "haiku",
  "item.ironfurnaces.unobtainium_furnace": "haiku",
- "item.ironfurnaces.vibranium_furnace": "haiku"
+ "item.ironfurnaces.upgrade_allthemodium": "audit",
+ "item.ironfurnaces.upgrade_vibranium": "audit",
+ "item.ironfurnaces.vibranium_furnace": "haiku",
+ "tooltip.ironfurnaces.augment_redstone_right_click": "audit"
 }

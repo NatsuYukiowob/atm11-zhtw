@@ -1,10 +1,18 @@
 {
- "block.functionalstorage.pale_oak_1": "haiku",
- "block.functionalstorage.pale_oak_2": "haiku",
- "block.functionalstorage.pale_oak_4": "haiku",
+ "block.functionalstorage.crimson_1": "audit",
+ "block.functionalstorage.crimson_2": "audit",
+ "block.functionalstorage.crimson_4": "audit",
+ "block.functionalstorage.pale_oak_1": "audit",
+ "block.functionalstorage.pale_oak_2": "audit",
+ "block.functionalstorage.pale_oak_4": "audit",
+ "block.functionalstorage.warped_1": "audit",
+ "block.functionalstorage.warped_2": "audit",
+ "block.functionalstorage.warped_4": "audit",
  "frameddrawer.use": "opus",
  "gui.functionalstorage.fluid_drawer_hint": "haiku",
  "gui.functionalstorage.fluid_drawer_hint.empty": "haiku",
  "gui.functionalstorage.fluid_drawer_hint.fill": "haiku",
- "gui.functionalstorage.priority": "haiku"
+ "gui.functionalstorage.priority": "haiku",
+ "item.utility.direction.desc": "audit",
+ "item.utility.slot.desc": "audit"
 }

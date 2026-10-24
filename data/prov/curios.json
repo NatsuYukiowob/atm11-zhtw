@@ -1,0 +1,8 @@
+{
+ "commands.curios.add.success": "audit",
+ "commands.curios.drop.success": "audit",
+ "commands.curios.remove.success": "audit",
+ "commands.curios.replace.success": "audit",
+ "commands.curios.set.success": "audit",
+ "gui.curios.toggle": "audit"
+}

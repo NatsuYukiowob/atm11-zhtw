@@ -1,7 +1,26 @@
 {
+ "block.justdirethings.droppert2": "高階投擲器",
+ "block.justdirethings.playeraccessor": "玩家存取器",
+ "item.justdirethings.pocket_generator": "攜帶式發電器",
+ "item.justdirethings.raw_blazegold": "烈焰金原礦",
+ "item.justdirethings.raw_ferricore": "核源鐵原礦",
+ "justdirethings.ability.epicarrow": "勇度哨箭",
  "justdirethings.fillmode.jdtonly": "JustDireThings",
+ "justdirethings.hammer.detailtext": "根據工具階級，可按照3x3、5x5或7x7進行破壞",
+ "justdirethings.key.toolUI": "開啟工具設定介面",
+ "justdirethings.lawnmower.detailtext": "割下周圍所有草叢",
+ "justdirethings.mobscanner.flavortext": "這噪音是什麼東西發出來的？！",
+ "justdirethings.screen.comparecounts": "比對堆疊數量",
+ "justdirethings.screen.comparenbt": "比較NBT",
  "justdirethings.screen.hideparticles": "隱藏粒子",
  "justdirethings.screen.inv-hotbar": "僅快捷欄",
  "justdirethings.screen.inv-main": "主物品欄",
- "justdirethings.screen.target-mob": "生物"
+ "justdirethings.screen.inv-normal": "完整物品欄",
+ "justdirethings.screen.no_fuel": "燃料來源為空",
+ "justdirethings.screen.respectpickupdelay": "等待物品拾取延遲",
+ "justdirethings.screen.rightclicksettings": "按右鍵開啟設定",
+ "justdirethings.screen.senseamount": "感測數量",
+ "justdirethings.screen.setbinding": "設定按鍵",
+ "justdirethings.screen.target-mob": "生物",
+ "justdirethings.splash.detailtext": "藥水獲得飛濺效果"
 }

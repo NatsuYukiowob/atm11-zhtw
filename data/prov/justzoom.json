@@ -1,3 +1,4 @@
 {
- "justzoom.keybinds.category": "haiku"
+ "justzoom.keybinds.category": "haiku",
+ "justzoom.options.allow_zoom_in_mirrored_view": "audit"
 }

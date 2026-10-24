@@ -2,5 +2,7 @@
  "key.categories.trashslot.default": "TrashSlot",
  "key.category.trashslot.default": "TrashSlot",
  "tooltip.trashslot.destroy_item": "銷毀物品",
- "tooltip.trashslot.trash_item": "丟棄物品"
+ "tooltip.trashslot.trash_item": "丟棄物品",
+ "trashslot.configuration.deletionDenyList.tooltip": "無法刪除的物品清單，以逗號分隔，格式為「modid:name」。",
+ "trashslot.configuration.enableDeleteKeysInCreative.tooltip": "如果你希望刪除按鍵在創造模式中也能運作，請設定為 true。注意：在創造模式中，無論立即刪除設定為何，物品都會被永久刪除！"
 }

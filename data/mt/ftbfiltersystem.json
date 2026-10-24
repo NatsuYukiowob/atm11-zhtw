@@ -44,7 +44,7 @@
  "ftbfiltersystem.gui.filter_ok": "過濾器解析成功",
  "ftbfiltersystem.gui.fuzzy_match": "模糊比對",
  "ftbfiltersystem.gui.item_source.creative": "創造模式",
- "ftbfiltersystem.gui.item_source.inventory": "揹包",
+ "ftbfiltersystem.gui.item_source.inventory": "物品欄",
  "ftbfiltersystem.gui.item_source.mod": "模組",
  "ftbfiltersystem.gui.nbt_bad": "SNBT 解析失敗！",
  "ftbfiltersystem.gui.nbt_ok": "SNBT 解析成功",

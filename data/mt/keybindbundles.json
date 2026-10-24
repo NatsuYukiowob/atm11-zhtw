@@ -1,3 +1,4 @@
 {
- "key.category.keybindbundles.keybindbundles": "KeyBind Bundles"
+ "key.category.keybindbundles.keybindbundles": "KeyBind Bundles",
+ "message.keybindbundles.confirm_deletion": "確定刪除此快捷輪盤？"
 }

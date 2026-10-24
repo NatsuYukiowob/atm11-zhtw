@@ -67,7 +67,7 @@
  "config.tectonic.option.offset": "偏移",
  "config.tectonic.option.ore_fix": "礦石修正",
  "config.tectonic.option.ore_fix.tooltip": "當 min_y 降低時，調整礦石生成，使其維持在較合理的高度。",
- "config.tectonic.option.remove_frozen_ocean_ice": "移除冰凍海洋冰層",
+ "config.tectonic.option.remove_frozen_ocean_ice": "移除寒凍海洋冰層",
  "config.tectonic.option.remove_frozen_ocean_ice.tooltip": "移除冰凍海洋表面的冰層，使其與深層冰凍海洋一樣可以航行。",
  "config.tectonic.option.ridge_scale": "山脊縮放",
  "config.tectonic.option.ridge_scale.tooltip": "水平縮放山脊雜訊，主要影響河流及其周圍的地形（例如高原）。數值越低，河流與其間的地形越寬。",

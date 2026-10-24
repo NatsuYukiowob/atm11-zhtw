@@ -1,5 +1,9 @@
 {
  "_comment": "更新",
+ "block.ironfurnaces.allthemodium_furnace": "ATM熔爐",
+ "container.ironfurnaces.allthemodium_furnace": "ATM熔爐",
+ "ironfurnaces.jei_category_blasting": "發電機 | 高爐",
+ "ironfurnaces.jei_category_smoking": "發電機 | 煙燻爐",
  "item.ironfurnaces.allthemodium_furnace": "ATM熔爐",
  "item.ironfurnaces.copper_furnace": "銅熔爐",
  "item.ironfurnaces.crystal_furnace": "水晶熔爐",
@@ -13,5 +17,8 @@
  "item.ironfurnaces.obsidian_furnace": "黑曜石熔爐",
  "item.ironfurnaces.silver_furnace": "銀熔爐",
  "item.ironfurnaces.unobtainium_furnace": "難得素熔爐",
- "item.ironfurnaces.vibranium_furnace": "振金熔爐"
+ "item.ironfurnaces.upgrade_allthemodium": "熔爐升級：獄髓->Allthemodium",
+ "item.ironfurnaces.upgrade_vibranium": "熔爐升級：Allthemodium->振金",
+ "item.ironfurnaces.vibranium_furnace": "振金熔爐",
+ "tooltip.ironfurnaces.augment_redstone_right_click": "朝著空氣右擊來變更模式"
 }

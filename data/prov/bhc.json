@@ -1,0 +1,7 @@
+{
+ "bhc.configuration.Heart Patches": "audit",
+ "bhc.configuration.Server": "audit",
+ "item.bhc.wither_bone": "audit",
+ "tooltip.bhc.blade_of_vitality": "audit",
+ "tooltip.bhc.vigor_bow": "audit"
+}

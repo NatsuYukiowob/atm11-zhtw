@@ -1,3 +1,8 @@
 {
- "gui.ae2netanalyser.network_analyser.mode.P2P": "P2P"
+ "chat.ae2netanalyser.tick_analyser.begin": "進行%s秒效能分析。",
+ "chat.ae2netanalyser.tick_analyser.cannel": "效能分析已取消。",
+ "chat.ae2netanalyser.tick_analyser.finish": "效能分析完成。",
+ "chat.ae2netanalyser.tick_analyser.no_cannel": "你目前沒有正在執行的效能分析任務。",
+ "gui.ae2netanalyser.network_analyser.mode.P2P": "P2P",
+ "gui.ae2netanalyser.tick_analyser.set_duration": "效能分析時長（秒）"
 }

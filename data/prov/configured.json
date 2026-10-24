@@ -1,5 +1,18 @@
 {
  "configured.chat.failed_config_update": "haiku",
+ "configured.gui.apply": "audit",
+ "configured.gui.handshake_process_failed": "audit",
+ "configured.gui.lan_server": "audit",
+ "configured.gui.no_developer_status": "audit",
+ "configured.gui.not_installed": "audit",
+ "configured.gui.request.invalid_config": "audit",
+ "configured.gui.request.process_error": "audit",
+ "configured.gui.search": "audit",
+ "configured.gui.title.client_configuration": "audit",
+ "configured.gui.title.server_configuration": "audit",
  "configured.gui.unsupported_property": "haiku",
+ "configured.gui.update_error.generic": "audit",
+ "configured.gui.update_error.read_only": "audit",
+ "configured.multiplayer.disconnect.bad_config_packet": "audit",
  "key.categories.configured": "haiku"
 }

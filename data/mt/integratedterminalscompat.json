@@ -6,5 +6,7 @@
  "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.started_only": "已開始 %s 的自動合成",
  "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.title.failed_only": "自動合成失敗",
  "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.title.mixed": "自動合成部分失敗",
- "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.title.started_only": "自動合成開始"
+ "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.title.started_only": "自動合成開始",
+ "gui.integratedterminalscompat.terminal_storage.jei.transfer.craft.info": "Ctrl+點選以觸發自動合成",
+ "gui.integratedterminalscompat.terminal_storage.jei.transfer.craft.info_cmd": "Cmd+點選以觸發自動合成"
 }

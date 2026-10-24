@@ -59,7 +59,7 @@ def apply():
         for ev in b["in"]:
             v = b["out"].get(ev)
             if isinstance(v, str) and v.strip():
-                v = C.to_tw(v.strip())
+                v = C.tw_fix(v.strip())
                 why = check_text(ev, v)
                 if why:
                     print(f"✗ 標準譯名 {ev!r} → {v!r}：{why}")

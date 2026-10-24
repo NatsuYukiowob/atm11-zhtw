@@ -1,0 +1,10 @@
+{
+ "gui.merequester.no_requesters": "audit",
+ "tooltip.merequester.export": "audit",
+ "tooltip.merequester.export_desc": "audit",
+ "tooltip.merequester.idle_desc": "audit",
+ "tooltip.merequester.link_desc": "audit",
+ "tooltip.merequester.missing_desc": "audit",
+ "tooltip.merequester.requester_desc": "audit",
+ "tooltip.merequester.shift_for_more": "audit"
+}

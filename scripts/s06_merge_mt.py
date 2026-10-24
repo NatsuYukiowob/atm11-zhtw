@@ -1,6 +1,6 @@
 """驗證並合併 queue/lang/out/ → data/mt/<modid>.json（進版控）。
 
-每條先 to_tw() 收斂（統一術語、殘留簡體轉正），再過 validate.check_text。
+每條先 tw_fix()（夾簡體才轉、套術語表；不跑 OpenCC），再過 validate.check_text。
 不合格或漏掉的 key 不寫入，下次 s06_make_batches 會重出。處理過的批次從 queue 清掉。
 """
 import argparse
@@ -24,7 +24,7 @@ def main(argv=None):
             for k, en in entries.items():
                 v = got.get(k)
                 if isinstance(v, str):
-                    v = C.to_tw(v)
+                    v = C.tw_fix(v)
                 if out is None:
                     why = "輸出不是合法 JSON"
                 elif v is None:

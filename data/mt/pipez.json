@@ -1,4 +1,11 @@
 {
  "config.jade.plugin_pipez.pipe": "Pipez",
- "itemGroup.pipez": "Pipez"
+ "item.pipez.advanced_upgrade": "高階管道升級",
+ "item.pipez.basic_upgrade": "基礎管道升級",
+ "item.pipez.improved_upgrade": "進階管道升級",
+ "item.pipez.infinity_upgrade": "無限管道升級",
+ "item.pipez.ultimate_upgrade": "終極管道升級",
+ "itemGroup.pipez": "Pipez",
+ "tooltip.pipez.filter.destination_distance": "距離 %s 格",
+ "tooltip.pipez.upgrade.configured": "已為 %s 配置"
 }

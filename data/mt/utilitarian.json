@@ -1,4 +1,5 @@
 {
+ "block.utilitarian.redstone_clock": "紅石時鐘",
  "item.utilitarian.slime_bucket": "史萊姆桶",
  "item.utilitarian.slime_bucket_description": "一看到史萊姆區塊，就會興奮地去見牠的朋友們。",
  "utilitarian.configuration.additionalGrowthHeight": "Snad 額外生長高度",
@@ -29,6 +30,6 @@
  "utilitarian.configuration.noTramplingEnabled": "啟用禁止踐踏",
  "utilitarian.configuration.potionEffectTransparency": "藥水效果透明度",
  "utilitarian.configuration.soundMufflerBlockRange": "消音器方塊範圍",
- "utilitarian.configuration.windChargeAirAmount": "風爆充能空氣量",
- "utilitarian.configuration.windChargeAirSupplyEnabled": "啟用風爆充能空氣供應"
+ "utilitarian.configuration.windChargeAirAmount": "風彈空氣量",
+ "utilitarian.configuration.windChargeAirSupplyEnabled": "啟用風彈空氣供應"
 }

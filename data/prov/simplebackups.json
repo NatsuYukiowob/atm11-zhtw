@@ -3,6 +3,7 @@
  "simplebackups.backup_failed_continue": "haiku",
  "simplebackups.backup_failed_delete": "haiku",
  "simplebackups.commands.error": "haiku",
+ "simplebackups.commands.finished": "audit",
  "simplebackups.configuration.backupChainsToKeep": "haiku",
  "simplebackups.configuration.backupFormat": "haiku",
  "simplebackups.configuration.backupType": "haiku",

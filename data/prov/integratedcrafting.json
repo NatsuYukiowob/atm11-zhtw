@@ -1,6 +1,7 @@
 {
  "advancement.integratedcrafting.craft_crafting_interface_enumerated": "haiku",
  "advancement.integratedcrafting.craft_crafting_interface_enumerated.desc": "haiku",
+ "aspect.integratedcrafting.read.list.network.craftingingredients.info": "audit",
  "gui.integratedcrafting.partinterface.recipes.click_disable": "haiku",
  "gui.integratedcrafting.partinterface.recipes.click_drag": "haiku",
  "gui.integratedcrafting.partinterface.recipes.click_enable": "haiku",
@@ -24,6 +25,8 @@
  "info_book.integratedcrafting.crafting_interface.basics.text5": "haiku",
  "info_book.integratedcrafting.crafting_interface.crafting.text3": "haiku",
  "info_book.integratedcrafting.crafting_interface.distribution.text2": "opus",
+ "info_book.integratedcrafting.section.main": "audit",
+ "info_book.integratedcrafting.tutorials.autocrafting_trigger": "audit",
  "info_book.integratedcrafting.tutorials.autocrafting_trigger.text6": "opus",
  "parttype.integratedcrafting.interface_crafting_enumerated": "haiku",
  "parttype.integratedcrafting.interface_crafting_enumerated.info": "haiku"

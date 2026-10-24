@@ -7,6 +7,8 @@
  "block.apothic_enchanting.basic_bookshelf": "基礎書櫃",
  "block.apothic_enchanting.raven_enchanting_table": "渡鴉附魔台",
  "block.apothic_enchanting.raven_enchanting_table.desc": "可手動自訂核心附魔數值。",
+ "block.apothic_enchanting.soul_touched_deepshelf": "靈魂觸碰深暗書櫃",
+ "block.apothic_enchanting.soul_touched_sculkshelf": "靈魂觸碰伏聆書櫃",
  "commands.apothic_enchanting.dump.failure": "無法傾印 enchantment_info：%s",
  "commands.apothic_enchanting.dump.success": "已將 %s 筆 enchantment_info 傾印至 %s",
  "enchantment.level.0": "0",

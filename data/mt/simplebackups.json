@@ -3,6 +3,7 @@
  "simplebackups.backup_failed_continue": "備份建立提前失敗，部分檔案可能未被備份，請檢視記錄檔以取得更多資訊，避免資料遺失",
  "simplebackups.backup_failed_delete": "備份失敗（正在刪除未完成的檔案），請檢視記錄檔以取得更多資訊",
  "simplebackups.commands.error": "合併備份時發生錯誤：%s",
+ "simplebackups.commands.finished": "備份合併已於 %s 成功完成",
  "simplebackups.configuration.backupChainsToKeep": "保留的備份鏈數量",
  "simplebackups.configuration.backupFormat": "備份格式",
  "simplebackups.configuration.backupType": "備份類型",

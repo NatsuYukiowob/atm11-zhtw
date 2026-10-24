@@ -1,6 +1,7 @@
 {
  "advancement.integratedcrafting.craft_crafting_interface_enumerated": "合成到第四層",
  "advancement.integratedcrafting.craft_crafting_interface_enumerated.desc": "合成一個列舉合成介面",
+ "aspect.integratedcrafting.read.list.network.craftingingredients.info": "一個儲存所有正在合成的原料的清單。",
  "gui.integratedcrafting.partinterface.recipes.click_disable": "點選以停用此配方",
  "gui.integratedcrafting.partinterface.recipes.click_drag": "拖曳以套用到多個配方",
  "gui.integratedcrafting.partinterface.recipes.click_enable": "點選以啟用此配方",
@@ -24,6 +25,8 @@
  "info_book.integratedcrafting.crafting_interface.basics.text5": "&l列舉合成介面&r接受一個存有&l配方清單&r的變數，並將該清單中的每個配方開放給網路。這讓你可以用邏輯推導介面的配方，例如將&l機器讀取器&r指向某台機器，或篩選一份配方清單。不支援無限長度的清單，過長的清單會在設定檔可調整的上限處被截斷。",
  "info_book.integratedcrafting.crafting_interface.crafting.text3": "&l合成介面&r&l不會&r從繫結的機器匯入合成結果。玩家需要自行確保合成結果最終回到網路中。工作台是例外，只需要&l合成介面&r即可在其上合成。&l合成介面&r只會在預期的輸出&l確實插入&r儲存網路後，才將合成工作標記為完成。可以透過在機器上放置運作中的&l Integrated Tunnels 匯入器&r，或讓機器自動輸出到&l合成介面&r來達成。若輸出透過其他途徑抵達相連的儲存裝置，例如其他模組的管道或漏斗直接寫入儲物箱或抽屜，則&l不會&r被偵測到，合成工作會持續等待，即使輸出在終端機中已經可見。任何插入&l合成介面&r的東西（物品、流體、能量）都會被插入該設定頻道的儲存網路。",
  "info_book.integratedcrafting.crafting_interface.distribution.text2": "要實現這一功能，只需確保所有參與任務分配的機器都安裝了&l合成介面&r，並且這些介面至少提供完全相同的待分配配方。以前面的範例來說，你需要確保10台熔爐上的&l合成介面&r中都至少包含完全相同的鐵錠燒煉配方。",
+ "info_book.integratedcrafting.section.main": "合成",
+ "info_book.integratedcrafting.tutorials.autocrafting_trigger": "觸發自動合成",
  "info_book.integratedcrafting.tutorials.autocrafting_trigger.text6": "本節末尾的圖片展示了完成本教程所需部件的一種範例配置。",
  "parttype.integratedcrafting.interface_crafting_enumerated": "列舉合成介面",
  "parttype.integratedcrafting.interface_crafting_enumerated.info": "處理單一清單變數中所有配方的合成。"

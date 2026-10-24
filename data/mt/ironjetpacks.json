@@ -1,3 +1,5 @@
 {
- "tooltip.ironjetpacks.hud": "HUD"
+ "itemGroup.ironjetpacks": "鐵噴氣揹包",
+ "tooltip.ironjetpacks.hud": "HUD",
+ "tooltip.ironjetpacks.sprint_vertical_modifier": "垂直衝刺係數：%s"
 }

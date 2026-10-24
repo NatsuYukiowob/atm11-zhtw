@@ -1,3 +1,21 @@
 {
- "item.mininggadgets.modificationtable": "haiku"
+ "block.mininggadgets.renderblock": "audit",
+ "item.mininggadgets.mininggadget": "audit",
+ "item.mininggadgets.modificationtable": "haiku",
+ "item.mininggadgets.upgrade_empty": "audit",
+ "mininggadgets.gadget.energy": "audit",
+ "mininggadgets.tooltip.item.show_upgrades": "audit",
+ "mininggadgets.tooltip.item.use_cost": "audit",
+ "mininggadgets.tooltip.screen.beam_preview": "audit",
+ "mininggadgets.tooltip.screen.blacklist": "audit",
+ "mininggadgets.tooltip.screen.delay_explain": "audit",
+ "mininggadgets.tooltip.screen.fade": "audit",
+ "mininggadgets.tooltip.screen.shrink": "audit",
+ "mininggadgets.tooltip.screen.whitelist": "audit",
+ "mininggadgets.tooltip.single.insert": "audit",
+ "tooltop.mininggadgets.freezing": "audit",
+ "tooltop.mininggadgets.light_placer": "audit",
+ "tooltop.mininggadgets.magnet": "audit",
+ "tooltop.mininggadgets.range": "audit",
+ "tooltop.mininggadgets.void_junk": "audit"
 }

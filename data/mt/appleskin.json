@@ -1,3 +1,4 @@
 {
- "appleskin.configuration.client": "AppleSkin"
+ "appleskin.configuration.client": "AppleSkin",
+ "appleskin.configuration.showSaturationHudOverlay": "顯示飽和度覆蓋層"
 }

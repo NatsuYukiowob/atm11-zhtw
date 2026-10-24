@@ -28,7 +28,7 @@
  "log.error.saveMuffledList": "haiku",
  "log.warn.loadMuffledList": "haiku",
  "main_screen.btn.all": "haiku",
- "main_screen.btn.all.tooltip": "haiku",
+ "main_screen.btn.all.tooltip": "audit",
  "main_screen.btn.anchor_delete.tooltip": "haiku",
  "main_screen.btn.anchor_edit.tooltip": "haiku",
  "main_screen.btn.anchor_list.tooltip": "haiku",

@@ -2,9 +2,13 @@
  "iris.keybind.wireframe": "haiku",
  "iris.load.failure.generic": "haiku",
  "iris.load.failure.shader": "haiku",
+ "iris.shaders.debug.failure": "audit",
  "iris.shaders.debug.restartNoDebug": "haiku",
+ "iris.shaders.toggled": "audit",
+ "iris.shaders.toggled.failure": "audit",
  "iris.unsupported.iris": "haiku",
  "key.category.iris.keybinds": "haiku",
  "options.iris.colorSpace": "haiku",
- "options.iris.colorSpace.sodium_tooltip": "haiku"
+ "options.iris.colorSpace.sodium_tooltip": "haiku",
+ "options.iris.refreshShaderPacks": "audit"
 }

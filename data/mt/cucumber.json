@@ -1,4 +1,8 @@
 {
+ "message.cucumber.filled_energy_error": "這個 %s 無法取走你的能量。",
  "subtitle.cucumber.watering_can": "澆水壺",
- "tooltip.cucumber.data_components": "資料元件："
+ "tooltip.cucumber.data_components": "資料元件：",
+ "tooltip.cucumber.hold_alt_for_data_components": "按住 ALT 來檢視資料元件",
+ "tooltip.cucumber.one_use_left": "剩餘 1 次使用",
+ "tooltip.cucumber.uses_left": "剩餘 %s 次使用"
 }

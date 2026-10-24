@@ -1,7 +1,12 @@
 {
+ "block.generatorgalore.enchantment_generator": "audit",
+ "block.generatorgalore.enchantment_generator_64x": "audit",
+ "block.generatorgalore.enchantment_generator_8x": "audit",
  "generatorgalore.recipe.burn_rate": "haiku",
  "generatorgalore.recipe.burn_time": "haiku",
  "generatorgalore.recipe.rate": "haiku",
  "generatorgalore.recipe.total": "haiku",
- "generatorgalore.recipe.total_bucket": "haiku"
+ "generatorgalore.recipe.total_bucket": "haiku",
+ "generatorgalore.screen.generation_rate": "audit",
+ "item.generatorgalore.obsidian_to_enchantment_upgrade": "audit"
 }

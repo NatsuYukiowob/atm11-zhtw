@@ -1,4 +1,8 @@
 {
+ "advancements.dimstorage.dimensional_tablet": "維度儲罐",
+ "advancements.dimstorage.dimensional_tablet.desc": "一個多維度儲罐",
+ "advancements.dimstorage.dimensional_tank": "維度板",
+ "advancements.dimstorage.dimensional_tank.desc": "一個遠端物品欄",
  "config.jade.plugin_dimstorage.dim_block_base": "為 DimChest 啟用自訂視覺化",
  "config.jade.plugin_dimstorage.dim_tank": "為 DimTank 啟用自訂視覺化",
  "gui.dimstorage.amount": "數量：%s mb",

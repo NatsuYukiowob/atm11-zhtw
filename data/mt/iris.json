@@ -2,9 +2,13 @@
  "iris.keybind.wireframe": "線框模式（僅單人）",
  "iris.load.failure.generic": "Iris 在載入著色器時發生問題，請回報給 Iris 開發者。 ",
  "iris.load.failure.shader": "光影包載入失敗！請將錯誤回報給光影開發者。 ",
+ "iris.shaders.debug.failure": "無法啟用用戶端除錯，您的電腦不支援除錯功能。已啟用光影除錯。",
  "iris.shaders.debug.restartNoDebug": "已啟用著色器除錯；NeoForge 不支援 OpenGL 除錯。",
+ "iris.shaders.toggled": "已將光影切換為 %s！",
+ "iris.shaders.toggled.failure": "無法切換光影！原因：%s",
  "iris.unsupported.iris": "Iris",
  "key.category.iris.keybinds": "Iris",
  "options.iris.colorSpace": "色彩空間",
- "options.iris.colorSpace.sodium_tooltip": "將畫面轉換至的色彩空間。可與光影包搭配使用。不確定時請使用 SRGB。"
+ "options.iris.colorSpace.sodium_tooltip": "將畫面轉換至的色彩空間。可與光影包搭配使用。不確定時請使用 SRGB。",
+ "options.iris.refreshShaderPacks": "重新整理光影包"
 }

@@ -1,12 +1,24 @@
 {
- "block.mysticalagradditions.molten_awakened_supremium": "haiku",
+ "block.mysticalagradditions.imperium_coal_block": "audit",
+ "block.mysticalagradditions.insanium_farmland": "audit",
+ "block.mysticalagradditions.insanium_gemstone_block": "audit",
+ "block.mysticalagradditions.molten_awakened_supremium": "audit",
  "block.mysticalagradditions.molten_insanium": "haiku",
  "block.mysticalagradditions.molten_prosperity": "haiku",
+ "block.mysticalagradditions.tertium_coal_block": "audit",
+ "crop.mysticalagradditions.nitro_crystal": "audit",
  "cropTier.mysticalagradditions.6": "haiku",
- "fluid_type.mysticalagradditions.molten_awakened_supremium": "haiku",
+ "fluid_type.mysticalagradditions.molten_awakened_supremium": "audit",
  "fluid_type.mysticalagradditions.molten_insanium": "haiku",
  "fluid_type.mysticalagradditions.molten_prosperity": "haiku",
- "item.mysticalagradditions.molten_awakened_supremium_bucket": "haiku",
+ "item.mysticalagradditions.dragon_scale": "audit",
+ "item.mysticalagradditions.imperium_coal": "audit",
+ "item.mysticalagradditions.imperium_paxel": "audit",
+ "item.mysticalagradditions.insanium_essence": "audit",
+ "item.mysticalagradditions.molten_awakened_supremium_bucket": "audit",
  "item.mysticalagradditions.molten_insanium_bucket": "haiku",
- "item.mysticalagradditions.molten_prosperity_bucket": "haiku"
+ "item.mysticalagradditions.molten_prosperity_bucket": "haiku",
+ "item.mysticalagradditions.withering_soul": "audit",
+ "jei.desc.mysticalagradditions.dragon_scale": "audit",
+ "jei.desc.mysticalagradditions.withering_soul": "audit"
 }

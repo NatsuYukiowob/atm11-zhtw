@@ -1,6 +1,8 @@
 {
+ "constructionstick.description.stick": "audit",
  "constructionstick.option.upgrades": "haiku",
  "constructionstick.placement.denied": "haiku",
  "item.constructionstick.stick_template": "haiku",
- "key.category.constructionstick.category": "haiku"
+ "key.category.constructionstick.category": "haiku",
+ "key.constructionstick.change_upgrade": "audit"
 }

@@ -14,13 +14,23 @@ from validate import check_value
 BATCH = 60
 
 
-def _to_tw(s):
+def _unescape(s):
     # 人工簡中任務書有雙重跳脫的換行（值裡是兩個反斜線＋n，遊戲內顯示成字面），英文原文沒有 → 還原成換行
-    return C.to_tw(s.replace("\\\\n", "\n"))
+    return s.replace("\\\\n", "\n")
+
+
+def _map_value(f, v):
+    return [f(_unescape(x)) for x in v] if isinstance(v, list) else f(_unescape(v))
 
 
 def to_tw_value(v):
-    return [_to_tw(x) for x in v] if isinstance(v, list) else _to_tw(v)
+    """轉換層（人工簡中）：to_tw。"""
+    return _map_value(C.to_tw, v)
+
+
+def tw_fix_value(v):
+    """機翻任務書值（LLM 寫的繁體）：tw_fix，不跑 OpenCC。"""
+    return _map_value(C.tw_fix, v)
 
 
 def main():
@@ -38,7 +48,8 @@ def main():
         cv = cn.get(k)
         if cv is not None and cv != ev:
             t = to_tw_value(cv)
-            if check_value(ev, t, amp_codes=True, human=True) is None:
+            # to_tw 不收斂（術語表／OpenCC 振盪）的不收，改走機翻
+            if to_tw_value(t) == t and check_value(ev, t, amp_codes=True, human=True) is None:
                 conv[k] = t
                 continue
         todo.append((None, k, ev))

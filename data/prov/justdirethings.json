@@ -1,7 +1,26 @@
 {
+ "block.justdirethings.droppert2": "audit",
+ "block.justdirethings.playeraccessor": "audit",
+ "item.justdirethings.pocket_generator": "audit",
+ "item.justdirethings.raw_blazegold": "audit",
+ "item.justdirethings.raw_ferricore": "audit",
+ "justdirethings.ability.epicarrow": "audit",
  "justdirethings.fillmode.jdtonly": "haiku",
+ "justdirethings.hammer.detailtext": "audit",
+ "justdirethings.key.toolUI": "audit",
+ "justdirethings.lawnmower.detailtext": "audit",
+ "justdirethings.mobscanner.flavortext": "audit",
+ "justdirethings.screen.comparecounts": "audit",
+ "justdirethings.screen.comparenbt": "audit",
  "justdirethings.screen.hideparticles": "haiku",
  "justdirethings.screen.inv-hotbar": "haiku",
  "justdirethings.screen.inv-main": "haiku",
- "justdirethings.screen.target-mob": "haiku"
+ "justdirethings.screen.inv-normal": "audit",
+ "justdirethings.screen.no_fuel": "audit",
+ "justdirethings.screen.respectpickupdelay": "audit",
+ "justdirethings.screen.rightclicksettings": "audit",
+ "justdirethings.screen.senseamount": "audit",
+ "justdirethings.screen.setbinding": "audit",
+ "justdirethings.screen.target-mob": "haiku",
+ "justdirethings.splash.detailtext": "audit"
 }

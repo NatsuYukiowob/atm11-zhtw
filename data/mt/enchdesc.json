@@ -8,5 +8,8 @@
  "__support_hunterillager": "https://www.curseforge.com/minecraft/mc-mods/huntersreturn",
  "__support_improved_exp": "https://www.curseforge.com/minecraft/mc-mods/improved-exp",
  "__support_shield+": "Shields+ https://www.curseforge.com/minecraft/mc-mods/shieldsplus",
- "__support_stalwart_dungeons": "https://www.curseforge.com/minecraft/mc-mods/stalwart-dungeons"
+ "__support_stalwart_dungeons": "https://www.curseforge.com/minecraft/mc-mods/stalwart-dungeons",
+ "enchantment.minecraft.impaling.desc": "增加對水生生物的傷害。",
+ "enchantment.minecraft.respiration.desc": "延長玩家於水中的呼吸時間。",
+ "enchantment.shieldsplus.aegis.desc": "減少格擋時受到的傷害。"
 }

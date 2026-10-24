@@ -1,4 +1,15 @@
 {
+ "block.alltheores.raw_aluminum_block": "鋁原礦方塊",
+ "block.alltheores.raw_iridium_block": "銥原礦方塊",
+ "block.alltheores.raw_lead_block": "鉛原礦方塊",
+ "block.alltheores.raw_nickel_block": "鎳原礦方塊",
+ "block.alltheores.raw_osmium_block": "鋨原礦方塊",
+ "block.alltheores.raw_platinum_block": "鉑原礦方塊",
+ "block.alltheores.raw_silver_block": "銀原礦方塊",
+ "block.alltheores.raw_tin_block": "錫原礦方塊",
+ "block.alltheores.raw_uranium_block": "鈾原礦方塊",
+ "block.alltheores.raw_zinc_block": "鋅原礦方塊",
+ "item.alltheores.raw_tin": "錫原礦",
  "item.alltheores.salt_dust": "鹽粉",
  "item.alltheores.sulfur_dust": "硫磺粉"
 }

@@ -1,0 +1,14 @@
+{
+ "ftbessentials.kit.added_items": "audit",
+ "ftbessentials.kit.autogrant_modified": "audit",
+ "ftbessentials.kit.autogranted": "audit",
+ "ftbessentials.kit.cant_store": "audit",
+ "ftbessentials.kit.gave_to_players": "audit",
+ "ftbessentials.kit.items": "audit",
+ "ftbessentials.kit.not_enough_space": "audit",
+ "ftbessentials.kit.not_looking_at_block": "audit",
+ "ftbessentials.tp_offline.moved": "audit",
+ "ftbessentials.warp.deleted": "audit",
+ "ftbessentials.warp.not_found": "audit",
+ "ftbessentials.warp.set": "audit"
+}

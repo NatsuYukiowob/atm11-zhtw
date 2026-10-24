@@ -1,3 +1,4 @@
 {
- "appleskin.configuration.client": "haiku"
+ "appleskin.configuration.client": "haiku",
+ "appleskin.configuration.showSaturationHudOverlay": "audit"
 }

@@ -1,4 +1,7 @@
 {
  "_comment": "原版新增內容",
+ "chat.cyclopscore.command.ignitedPlayer": "玩家「%s」在火中燃燒了%s刻",
+ "chat.cyclopscore.command.updatedValue": "已將%s更新為：%s",
+ "general.cyclopscore.version.download": "[下載]",
  "itemGroup.cyclopscore": "Cyclops Core"
 }

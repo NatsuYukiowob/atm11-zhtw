@@ -1,3 +1,4 @@
 {
- "justzoom.keybinds.category": "Just Zoom"
+ "justzoom.keybinds.category": "Just Zoom",
+ "justzoom.options.allow_zoom_in_mirrored_view": "允許在鏡像檢視中縮放：%s"
 }

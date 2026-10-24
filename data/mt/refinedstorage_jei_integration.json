@@ -1,4 +1,5 @@
 {
+ "alias.refinedstorage_jei_integration.refinedstorage1_disk_manipulator": "磁碟操縱器",
  "gui.refinedstorage_jei_integration.grid.synchronizer": "JEI",
  "gui.refinedstorage_jei_integration.transfer.cmd_click_to_autocraft": "按住 CMD 並點選以自動合成"
 }

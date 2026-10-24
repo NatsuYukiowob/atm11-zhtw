@@ -1,4 +1,16 @@
 {
+ "gui.nochatreports.safety_status.realms": "這是 Realms 伺服器。在這裡，不僅無法防止聊天檢舉，Mojang 還會使用自動化聊天監控來識別潛在的「線上危害」，並升級為人工審核，無論該 Realm 的擁有者是否同意。",
+ "gui.nochatreports.safety_status.secure": "此伺服器已安裝「No Chat Reports」，或以其他已知方式防止你的訊息被檢舉。你可以放心地聊天。",
+ "gui.nochatreports.safety_status.unintrusive": "此伺服器允許你傳送未經簽章的訊息，這些訊息無法向 Mojang 檢舉。除非伺服器上安裝了某種防止聊天檢舉的外掛 - 原版用戶端仍然會傳送已簽章的訊息，將未簽章的訊息顯示為「未驗證」，且在聊天選項中啟用「僅顯示安全聊天」時，不會顯示這些未經簽章的訊息。",
+ "gui.nochatreports.signing_mode.never.tooltip": "此模式下訊息將永不簽章，伺服器所有要求簽章的請求都會被忽略。",
+ "gui.nochatreports.signing_status.disabled": "本次工作階段已停用訊息簽章。",
  "key.nochatreports.cmd": "Cmd",
- "key.nochatreports.ctrl": "Ctrl"
+ "key.nochatreports.ctrl": "Ctrl",
+ "modmenu.descriptionTranslation.nochatreports": "從玩家訊息中剝離加密簽章，使其無法追蹤並與你的 Microsoft 帳號關聯，同時也無法使用聊天檢舉功能。",
+ "option.NoChatReports.alwaysHideReportButton": "總是隱藏檢舉按鈕",
+ "option.NoChatReports.alwaysHideReportButton.tooltip": "防止用戶端在社群交流畫面中顯示檢舉按鈕。這預設是停用的，模組會在有安裝「No Chat Reports」的伺服器上使按鈕失效，並在按鈕的工具提示中增加說明。",
+ "option.NoChatReports.defaultSigningMode.tooltip": "設定在強制或允許聊天簽章的伺服器上所使用的預設簽章模式。",
+ "option.NoChatReports.hideSystemMessageIndicators.tooltip": "防止用戶端以聊天訊息左側灰色條的形式顯示系統訊息指示器。",
+ "option.NoChatReports.showReloadButton": "顯示重新載入按鈕",
+ "option.NoChatReports.showReloadButton.tooltip": "在多人遊戲選單中新增一個用於重新載入設定的按鈕。"
 }

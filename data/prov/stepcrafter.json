@@ -64,7 +64,7 @@
  "text.autoconfig.stepcrafter.option.stepCrafterManager.viewType": "haiku",
  "text.autoconfig.stepcrafter.option.stepCrafterManager.viewType.tooltip": "haiku",
  "text.autoconfig.stepcrafter.option.stepCraftingMonitor.energyUsage": "haiku",
- "text.autoconfig.stepcrafter.option.stepCraftingMonitor.energyUsage.tooltip": "haiku",
+ "text.autoconfig.stepcrafter.option.stepCraftingMonitor.energyUsage.tooltip": "audit",
  "text.autoconfig.stepcrafter.option.stepRequester.energyUsage": "haiku",
  "text.autoconfig.stepcrafter.option.stepRequester.energyUsage.tooltip": "haiku",
  "text.autoconfig.stepcrafter.option.stepRequesterManager.energyUsage": "haiku",

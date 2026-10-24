@@ -1,7 +1,7 @@
 """組裝資源包＋任務書：lang（轉換＋機翻合併）＋ Patchouli 書頁 → dist/atm11-zhtw.zip（含 sha1）、dist/ftbquests/zh_tw/（任務書 lang 同構目錄）。
 
-機翻層（data/mt、data/book_mt、data/quests_mt.json）打包前再過一次 to_tw：這些值在合併時已轉換寫死，
-術語表修正後要靠這裡才會套到；再轉後不收斂的保留原值（合併時已驗過）。轉換層（work/）每次由 s05/s07/s07q
+機翻層（data/mt、data/book_mt、data/quests_mt.json）打包前再過一次 tw_fix（夾簡體才轉、否則只套術語表；
+OpenCC 對 LLM 寫的繁體會改壞）：術語表修正後要靠這裡才會套到；再轉後不收斂的保留原值（合併時已驗過）。轉換層（work/）每次由 s05/s07/s07q
 重建，已收斂，不再轉（OpenCC 對繁體再轉會出錯，如 演算法→演演算法）。
 最終驗證：每條 lang 值再過一次佔位符比對；任務書再過 check_value。
 zip 用固定時間戳，內容不變則 sha1 不變（客戶端快取友善）。
@@ -22,9 +22,9 @@ ZIP_DATE = (2026, 1, 1, 0, 0, 0)
 
 
 def reconv(s):
-    """機翻值套用目前術語表；不收斂（to_tw 振盪）就保留原值。"""
-    t = C.to_tw(s)
-    return t if C.to_tw(t) == t else s
+    """機翻值套用目前術語表（tw_fix）；不收斂（術語表振盪）就保留原值。"""
+    t = C.tw_fix(s)
+    return t if C.tw_fix(t) == t else s
 
 
 def reconv_value(v):

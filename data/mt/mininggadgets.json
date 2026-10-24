@@ -1,3 +1,21 @@
 {
- "item.mininggadgets.modificationtable": "改裝台"
+ "block.mininggadgets.renderblock": "渲染方塊（不要使用）",
+ "item.mininggadgets.mininggadget": "採礦小工具 MK3",
+ "item.mininggadgets.modificationtable": "改裝台",
+ "item.mininggadgets.upgrade_empty": "空白升級模組",
+ "mininggadgets.gadget.energy": "能量： %d/%d",
+ "mininggadgets.tooltip.item.show_upgrades": "按住 Shift 以顯示升級",
+ "mininggadgets.tooltip.item.use_cost": "每次使用 +%1$d FE",
+ "mininggadgets.tooltip.screen.beam_preview": "光束預覽",
+ "mininggadgets.tooltip.screen.blacklist": "銷毀清單",
+ "mininggadgets.tooltip.screen.delay_explain": "控制產生凍結粒子的頻率\n預設情況下每刻產生一個粒子\n若要減少粒子數量，請增加延遲",
+ "mininggadgets.tooltip.screen.fade": "漸變方塊",
+ "mininggadgets.tooltip.screen.shrink": "收縮方塊",
+ "mininggadgets.tooltip.screen.whitelist": "保留清單",
+ "mininggadgets.tooltip.single.insert": "插入",
+ "tooltop.mininggadgets.freezing": "凍結水，並讓岩漿停留在原處！",
+ "tooltop.mininggadgets.light_placer": "每當周圍環境的光照等級低於 8 時放置火把",
+ "tooltop.mininggadgets.magnet": "將方塊直接拆解到你的物品欄中",
+ "tooltop.mininggadgets.range": "每個等級將範圍擴大 5 格",
+ "tooltop.mininggadgets.void_junk": "銷毀方塊！（同時也會加入過濾功能）"
 }

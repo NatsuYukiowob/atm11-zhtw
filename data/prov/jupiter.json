@@ -1,5 +1,16 @@
 {
  "jupiter.config_source.cloth_config": "haiku",
  "jupiter.config_source.jupiter": "haiku",
- "jupiter.config_source.night_config": "haiku"
+ "jupiter.config_source.night_config": "haiku",
+ "jupiter.screen.check_server": "audit",
+ "jupiter.screen.client_config": "audit",
+ "jupiter.screen.common_config": "audit",
+ "jupiter.screen.config.title": "audit",
+ "jupiter.screen.current_modifying_client": "audit",
+ "jupiter.screen.error_server": "audit",
+ "jupiter.screen.need_remote_server": "audit",
+ "jupiter.screen.open_local_server": "audit",
+ "jupiter.screen.open_remote_server": "audit",
+ "jupiter.screen.remove_server_config": "audit",
+ "jupiter.screen.server_config": "audit"
 }

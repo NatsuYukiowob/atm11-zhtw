@@ -1,10 +1,18 @@
 {
+ "advanced_ae.configuration.quantum computer": "量子電腦",
+ "block.advanced_ae.quantum_core": "量子電腦核心",
  "gui.advanced_ae.OverdriveThroughputMonitorValue": "%s%s/t",
+ "gui.advanced_ae.PatternInventory": "樣板輸入",
+ "gui.advanced_ae.QuantumArmorSetting": "參數配置",
  "gui.advanced_ae.SlowThroughputMonitorValue": "%s%s/m",
  "gui.advanced_ae.SlowerThroughputMonitorValue": "%s%s/10m",
+ "gui.advanced_ae.StockExportBus": "ME庫存輸出匯流排",
  "gui.advanced_ae.ThroughputMonitorValue": "%s%s/s",
+ "gui.tooltips.advanced_ae.JumpHeightTooltip": "提升跳躍高度 %s。",
  "gui.tooltips.advanced_ae.RechargingTooltip": "連線到ME網路後，裝甲可以無線充電。安裝在胸甲欄位時，也會為物品欄充電。",
  "gui.tooltips.advanced_ae.TankAmount": "%s / %s B",
  "item.advanced_ae.quantum_crafter_terminal_part": "量子合成器終端",
+ "item.advanced_ae.quantum_infused_dust": "量子灌注粉",
+ "item.advanced_ae.quantum_leggings": "量子護腿",
  "key.category.advanced_ae.category": "Advanced AE"
 }

@@ -1,8 +1,20 @@
 {
  "advancements.irons_artifice.over_over_overkill.title": "haiku",
+ "advancements.irons_artifice.peer_review.description": "audit",
+ "advancements.irons_artifice.through_and_through.description": "audit",
  "advancements.irons_artifice.ultrakill.title": "haiku",
+ "irons_artifice.component_type.character_blowback": "audit",
+ "irons_artifice.component_type.freeze_on_hit": "audit",
+ "irons_artifice.modifier.fairy_dust": "audit",
  "irons_artifice.value_modifier.minus": "haiku",
  "irons_artifice.value_modifier.minus_percent": "haiku",
  "irons_artifice.value_modifier.plus": "haiku",
- "irons_artifice.value_modifier.plus_percent": "haiku"
+ "irons_artifice.value_modifier.plus_percent": "haiku",
+ "item.irons_artifice.antigravity_modifer": "audit",
+ "item.irons_artifice.arquebus": "audit",
+ "item.irons_artifice.blackpowder": "audit",
+ "item.irons_artifice.blunderbuss": "audit",
+ "item.irons_artifice.fairy_dust_modifier": "audit",
+ "item.irons_artifice.infinity_modifier": "audit",
+ "itemGroup.irons_artifice": "audit"
 }

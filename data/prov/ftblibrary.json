@@ -1,10 +1,26 @@
 {
+ "config.group.value": "audit",
+ "delete_item": "audit",
  "dimension.hyperbox.hyperbox": "haiku",
+ "ftblibrary.client_settings": "audit",
+ "ftblibrary.client_settings.tooltips.image_modname": "audit",
+ "ftblibrary.gui.key_reference": "audit",
+ "ftblibrary.read_only": "audit",
  "ftblibrary.select_entity.animals": "haiku",
  "ftblibrary.select_entity.hostiles": "haiku",
  "ftblibrary.select_entity.neutrals": "haiku",
+ "ftblibrary.select_image.all_images": "audit",
+ "ftblibrary.select_image.rescan": "audit",
  "ftblibrary.select_item.list_mode.emi": "haiku",
  "ftblibrary.select_item.list_mode.jei": "haiku",
  "ftblibrary.select_item.list_mode.rei": "haiku",
- "ftblibrary.select_item.nbt": "opus"
+ "ftblibrary.select_item.nbt": "opus",
+ "ftblibrary.server_settings": "audit",
+ "gui.search_box": "audit",
+ "item.ftblibrary.fluid_container.use": "audit",
+ "lat_support": "audit",
+ "sidebar_button.ftblibrary.config": "audit",
+ "sidebar_button.ftblibrary.config.enter_edit_mode": "audit",
+ "sidebar_button.ftblibrary.config.tooltip": "audit",
+ "sidebar_button.ftblibrary.toggle.rain": "audit"
 }

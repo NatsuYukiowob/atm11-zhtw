@@ -1,6 +1,8 @@
 {
+ "advancements.apothic_spawners.spawnrange": "綿延數里",
  "advancements.apothic_spawners.ultimate_spawner.desc": "製作出一個生成延遲最小、可用紅石控制、生成實體無AI、忽略生成條件並忽略玩家的生怪磚。",
  "enchantment.level.0": "0",
  "misc.apothic_spawners.concat": "%s %s",
+ "misc.apothic_spawners.rclick_spawner": "右鍵點擊生怪磚",
  "misc.apothic_spawners.value_concat": "%s: %s"
 }

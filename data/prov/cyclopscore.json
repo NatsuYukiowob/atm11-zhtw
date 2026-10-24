@@ -1,4 +1,7 @@
 {
  "_comment": "haiku",
+ "chat.cyclopscore.command.ignitedPlayer": "audit",
+ "chat.cyclopscore.command.updatedValue": "audit",
+ "general.cyclopscore.version.download": "audit",
  "itemGroup.cyclopscore": "haiku"
 }

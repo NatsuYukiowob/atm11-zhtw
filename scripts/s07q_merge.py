@@ -1,10 +1,10 @@
-"""驗證並合併 queue/quest/out/ → data/quests_mt.json（進版控）。值先 to_tw 收斂，再 check_value(amp_codes=True)。"""
+"""驗證並合併 queue/quest/out/ → data/quests_mt.json（進版控）。值先 tw_fix（夾簡體才轉），再 check_value(amp_codes=True)。"""
 import argparse
 
 import batchq
 import common as C
 import store
-from s07q_quests import to_tw_value
+from s07q_quests import tw_fix_value
 from validate import check_value
 
 
@@ -19,7 +19,7 @@ def main(argv=None):
         for k, ev in b["in"].items():
             v = out.get(k) if out is not None else None
             if isinstance(v, (str, list)) and all(isinstance(x, str) for x in (v if isinstance(v, list) else [v])):
-                v = to_tw_value(v)
+                v = tw_fix_value(v)
             if out is None:
                 why = "輸出不是合法 JSON"
             elif v is None:

@@ -1,5 +1,16 @@
 {
  "jupiter.config_source.cloth_config": "Cloth",
  "jupiter.config_source.jupiter": "Jupiter",
- "jupiter.config_source.night_config": "(Neo)Forge"
+ "jupiter.config_source.night_config": "(Neo)Forge",
+ "jupiter.screen.check_server": "正在檢查權限...",
+ "jupiter.screen.client_config": "用戶端設定",
+ "jupiter.screen.common_config": "一般設定",
+ "jupiter.screen.config.title": "Jupiter設定",
+ "jupiter.screen.current_modifying_client": "目前正在修改用戶端設定",
+ "jupiter.screen.error_server": "從伺服器收到無效的設定資料",
+ "jupiter.screen.need_remote_server": "未連線到專用伺服器",
+ "jupiter.screen.open_local_server": "開啟本機伺服器設定",
+ "jupiter.screen.open_remote_server": "開啟遠端伺服器設定",
+ "jupiter.screen.remove_server_config": "遠端伺服器",
+ "jupiter.screen.server_config": "伺服器設定"
 }

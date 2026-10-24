@@ -1,3 +1,8 @@
 {
- "gui.ae2netanalyser.network_analyser.mode.P2P": "haiku"
+ "chat.ae2netanalyser.tick_analyser.begin": "audit",
+ "chat.ae2netanalyser.tick_analyser.cannel": "audit",
+ "chat.ae2netanalyser.tick_analyser.finish": "audit",
+ "chat.ae2netanalyser.tick_analyser.no_cannel": "audit",
+ "gui.ae2netanalyser.network_analyser.mode.P2P": "haiku",
+ "gui.ae2netanalyser.tick_analyser.set_duration": "audit"
 }

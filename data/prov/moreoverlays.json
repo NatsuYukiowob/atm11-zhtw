@@ -4,5 +4,6 @@
  "config.moreoverlays.rendersettings.chunk_line_thick": "haiku",
  "config.moreoverlays.rendersettings.spawn_number_scale": "haiku",
  "config.moreoverlays.rendersettings.spawn_safe_color": "haiku",
+ "gui.config.moreoverlays.undo": "audit",
  "key.moreoverlays.category": "haiku"
 }

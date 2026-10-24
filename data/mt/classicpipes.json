@@ -1,0 +1,4 @@
+{
+ "chat.classicpipes.crafter_jammed": "所有請求已取消，因為位於 [%s] 的合成器沒有輸出預期產物。請確認它朝向配方管線，且沒有堵塞。",
+ "item.classicpipes.lapis_fluid_pipe.desc": "優先將流體輸入儲罐。"
+}

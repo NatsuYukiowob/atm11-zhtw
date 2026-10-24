@@ -1,8 +1,9 @@
 {
+ "key.toolbelt.slot": "audit",
  "text.toolbelt.config.anvil_upgrading": "haiku",
  "text.toolbelt.config.belt_item_scale": "haiku",
  "text.toolbelt.config.category.client_display": "haiku",
- "text.toolbelt.config.category.client_menu": "haiku",
+ "text.toolbelt.config.category.client_menu": "audit",
  "text.toolbelt.config.category.common_general": "haiku",
  "text.toolbelt.config.click_outside_bounds": "haiku",
  "text.toolbelt.config.clip_mouse_to_circle": "haiku",
@@ -11,5 +12,6 @@
  "text.toolbelt.config.enable_grid_crafting": "haiku",
  "text.toolbelt.config.enable_sewing_kit_support": "haiku",
  "text.toolbelt.config.release_to_swap": "haiku",
- "text.toolbelt.config.show_belt_on_players": "haiku"
+ "text.toolbelt.config.show_belt_on_players": "haiku",
+ "text.toolbelt.tooltip": "audit"
 }

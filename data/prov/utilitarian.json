@@ -1,4 +1,5 @@
 {
+ "block.utilitarian.redstone_clock": "audit",
  "item.utilitarian.slime_bucket": "haiku",
  "item.utilitarian.slime_bucket_description": "haiku",
  "utilitarian.configuration.additionalGrowthHeight": "haiku",
@@ -29,6 +30,6 @@
  "utilitarian.configuration.noTramplingEnabled": "haiku",
  "utilitarian.configuration.potionEffectTransparency": "haiku",
  "utilitarian.configuration.soundMufflerBlockRange": "haiku",
- "utilitarian.configuration.windChargeAirAmount": "haiku",
- "utilitarian.configuration.windChargeAirSupplyEnabled": "haiku"
+ "utilitarian.configuration.windChargeAirAmount": "audit",
+ "utilitarian.configuration.windChargeAirSupplyEnabled": "audit"
 }

@@ -4,5 +4,6 @@
  "config.moreoverlays.rendersettings.chunk_line_thick": "區塊：粗線",
  "config.moreoverlays.rendersettings.spawn_number_scale": "生成：數字大小",
  "config.moreoverlays.rendersettings.spawn_safe_color": "生成：安全顏色",
+ "gui.config.moreoverlays.undo": "復原變更",
  "key.moreoverlays.category": "More Overlays 更新版"
 }

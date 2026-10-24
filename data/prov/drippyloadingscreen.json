@@ -1,4 +1,7 @@
 {
+ "drippyloadingscreen.early_loading.context.watermark.offset": "audit",
+ "drippyloadingscreen.early_loading.context.watermark.set_image": "audit",
+ "drippyloadingscreen.early_loading.context.watermark.size": "audit",
  "drippyloadingscreen.overlay.customization_hint": "haiku",
  "drippyloadingscreen.settings.fade_out_loading_screen.desc": "opus"
 }

@@ -44,3 +44,12 @@ def test_to_tw_value_restores_double_escaped_newline():
     # 人工簡中任務書的值裡是「兩個反斜線＋n」，遊戲內顯示成字面；英文原文是真換行
     import s07q_quests
     assert s07q_quests.to_tw_value(["甲\\\\n\\\\n乙"]) == ["甲\n\n乙"]
+
+
+def test_extract_rejects_unconverged_conversion(tmp_path, monkeypatch, repo):
+    # 轉換層（簡中→to_tw）不收斂（術語表振盪）→ 不收，改走機翻
+    monkeypatch.setattr(common, "_glossary_rules", [("甲乙", "甲乙乙")])  # 每輪都再變長，5 輪內不收斂
+    _setup(tmp_path, monkeypatch, {"a.title": "AB", "b.title": "Video"}, cn={"a.title": "甲乙", "b.title": "视频"})
+    s07q_quests.main()
+    assert common.load_json(common.WORK / "quests_tw.json") == {"b.title": "影片"}
+    assert common.load_json(common.QUEUE / "quest/batch_001.json") == {"a.title": "AB"}
